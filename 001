@@ -1,140 +1,158 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="ESPN U" tvg-logo="" group-title="SPORTS",ESPN U
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70848.ts
-#EXTINF:-1 tvg-name="MOTORTREND" tvg-logo="" group-title="SPORTS",MotorTrend
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149503.ts
-#EXTINF:-1 tvg-name="" tvg-logo="MAVTV" group-title="SPORTS",MavTV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/65399.ts
-#EXTINF:-1 tvg-name="CBS SPORTS NETWORK" tvg-logo="" group-title="SPORTS",CBS Sports Network
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/34719.ts
-#EXTINF:-1 tvg-name="ESPN NEWS" tvg-logo="" group-title="SPORTS",ESPN News
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70849.ts
-#EXTINF:-1 tvg-name="NBC GOLF CHANNEL" tvg-logo="" group-title="SPORTS",NBC GOLF CHANNEL
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70843.ts
-#EXTINF:-1 tvg-name="FOX SPORTS YES NETWORK" tvg-logo="" group-title="SPORTS",Fox Sports YES Network
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/36107.ts
-#EXTINF:-1 tvg-name="NFL NETWORK" tvg-logo="" group-title="SPORTS",NFL Network
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/34712.ts
-#EXTINF:-1 tvg-name="ESPN SEC NETWOKR" tvg-logo="" group-title="SPORTS",ESPN SEC Network
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/36084.ts
-#EXTINF:-1 tvg-name="ESPN 1" tvg-logo="" group-title="SPORTS",ESPN 1
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70853.ts
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="" group-title="SPORTS",ESPN 2
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/34672.ts
-#EXTINF:-1 tvg-name="ESPN ACC NETWORK" tvg-logo="" group-title="SPORTS",ESPN ACC Network
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118475.ts
-#EXTINF:-1 tvg-name="ESPN LOGHORN NETWORK" tvg-logo="" group-title="SPORTS",ESPN Longhorn Network
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149466.ts
-#EXTINF:-1 tvg-name="FOX SPORTS 1" tvg-logo="" group-title="SPORTS",Fox Sports 1 FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149363.ts
-#EXTINF:-1 tvg-name="FOX SPORTS 1" tvg-logo="" group-title="SPORTS",Fox Sports 1
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149419.ts
-#EXTINF:-1 tvg-name="FOX SPORTS 2" tvg-logo="" group-title="SPORTS",Fox Sports 2 FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117277.ts
-#EXTINF:-1 tvg-name="FOX SPORTS 2" tvg-logo="" group-title="SPORTS",Fox Sports 2
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149420.ts
-#EXTINF:-1 tvg-name="FOX SOCCOR PLUS" tvg-logo="" group-title="SPORTS",Fox Soccer Plus
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149421.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS" tvg-logo="" group-title="SPORTS",BeIN Sports
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149371.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS XTRA" tvg-logo="" group-title="SPORTS",Bein Sports Xtra
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/151097.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="SPORTS",BeIN Sports 3 FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/74642.ts
-#EXTINF:-1 tvg-name="NBC SPORTS NETWORK" tvg-logo="" group-title="SPORTS",NBC Sports Network FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149496.ts
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="" group-title="SPORTS",NBA TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118459.ts
-#EXTINF:-1 tvg-name="MLB NETWORK" tvg-logo="" group-title="SPORTS",MLB Network
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/36135.ts
-#EXTINF:-1 tvg-name="NHL NETWORK" tvg-logo="" group-title="SPORTS",NHL Network
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118461.ts
-#EXTINF:-1 tvg-name="SNY" tvg-logo="" group-title="SPORTS",SNY
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118477.ts
-#EXTINF:-1 tvg-name="FOXNET" tvg-logo="" group-title="SPORTS",FoxNET EAST
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117262.ts
-#EXTINF:-1 tvg-name="FOXNET MID" tvg-logo="" group-title="SPORTS",FoxNET MID
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149366.ts
-#EXTINF:-1 tvg-name="FOXNET" tvg-logo="" group-title="SPORTS",FoxNET WEST
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149436.ts
-#EXTINF:-1 tvg-name="WWE NETWORK" tvg-logo="" group-title="SPORTS",WWE NETWORK
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149364.ts
-#EXTINF:-1 tvg-name="RED BULL TV" tvg-logo="" group-title="SPORTS",Red Bull TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117543.ts
-#EXTINF:-1 tvg-name="TVG NETWORK" tvg-logo="" group-title="SPORTS",TVG Network
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/96639.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",TVG2 Network
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/96622.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",TENNIS CHANNEL
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70826.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",Stadium
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70831.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",BeIN Sports 2
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149372.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",BeIN Sports 5
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149374.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",BeIN Sports 6
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149375.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",BeIN Sports 7
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149376.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",BIG TEN NETWORK
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149378.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",MSG
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70892.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",MSG Plus
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149472.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",WORLD FISHING NETWORK
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117248.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",MTV Live FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117336.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",RIDE TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117339.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",FightBox
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117438.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",MTV Classic
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117453.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",MTV U
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117558.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",FLIX
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241867.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",IGN TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241870.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",PixL
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241872.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",POPSTAR! TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241874.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SCREENPIX
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241878.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SCREENPIX ACTION
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241879.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SCREENPIX VOICES
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241880.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SCREENPIX WESTERNS
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241881.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",THE MOVIE CHANNEL EXTRA
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241882.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",THE MOVIE CHANNEL XTRA
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241883.ts
+Entertainment
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Adult Swim (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211049.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Adult Swim (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211050.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",AMC
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170482.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",AMC Plus
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198630.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Aspire
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117375.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Audience
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117372.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",AXS TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117334.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BBC America
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117271.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BET (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117273.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BET (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117351.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BET SOUL
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117274.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BET HER (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173656.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BET HER (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117275.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BET JAMZ
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117276.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Bounce TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118497.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Bravo (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117282.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Bravo (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117323.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Comedy TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117253.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Comedy Central (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117312.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Comedy Central (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117325.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Comet TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117315.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",COZI TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117320.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Folk TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117460.ts
+#EXTINF:-1 tvg-name="Fox" tvg-logo="" group-title="",Fox
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/185320.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Fox Xtra
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/216553.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Freeform (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117367.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Freeform (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118468.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",FUSE
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117370.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",FX
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117374.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",FX East
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211104.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",FX West
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211105.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",FXM
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170492.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",FXX
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117378.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",FXX East
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211106.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",FXX West
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211107.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",fyi'
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117587.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Game Show
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/150570.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Heroes & Icons
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118499.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",INSP
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117254.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",LAFF TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198293.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",MASN
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198295.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",MTV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117454.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",OXYGEN (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117476.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",OXYGEN (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117362.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Paramount
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117287.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",DIY NETWORK
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117349.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",MovieMAX (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173382.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",The Tennis Channel (D)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/204549.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",Tennis Channel (S)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/204550.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",Tennis Channel
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/204551.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",People TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117548.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",POP (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117480.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",POP (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/151251.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Revolt
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117484.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",SUNDANCE
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170486.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",SYFY (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117546.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",SYFY (West )
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117549.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TBD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117810.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TCM (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170399.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TCM (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170400.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TBS (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117552.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TBS (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117551.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TNT FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117386.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TNT (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117561.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TNT (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117554.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TruTV (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117570.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TruTV (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117365.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TV Land (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117571.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TV Land (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117366.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TV ONE
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70874.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",UP TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/71500.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",USA Network (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117577.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",USA Network (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117440.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",VH1 (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117582.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",VH1 (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117528.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Vice
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118470.ts
+
+
+Movies
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",AMC Presents
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198631.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",5 StarMAX (East)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169609.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",MovieMAX (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169607.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",OuterMAX
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169608.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",5 StarMAX (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198288.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",ActionMAX (East) FHD
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169599.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",ActionMAX (West)
@@ -147,10 +165,40 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169602.ts
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169603.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",MoreMAX (West)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169604.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",MovieMAX (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169607.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",MovieMAX (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173382.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",ThrillerMAX (East)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169605.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",ThrillerMAX (West)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169606.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",OuterMAX
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169608.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",CINE SONY
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170487.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",EPIX
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170488.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",EPIX WEST
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198628.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",EPIX EAST
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198627.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",EPIX HITS
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170491.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Filmrise Family
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198632.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Filmrise Classics
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117449.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Filmrise Crime
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117457.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Filmrise Movies
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117458.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",FLIX
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241867.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Hallmark Channel
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170481.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",HALLMARK MOVIES & MYSTERIES
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170484.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",HBO (East)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169610.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",HBO (West)
@@ -177,6 +225,42 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169620.ts
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169621.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",HBO Latino (East)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170401.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",IFC
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117433.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",IGN TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241870.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",IndiePlex (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169638.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",IndiePlex (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169639.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",MoviePlex (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169640.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",MoviePlex (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169641.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",RetroPlex (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169642.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",RetroPlex (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169643.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SCREENPIX
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241878.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SCREENPIX ACTION
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241879.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SCREENPIX VOICES
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241880.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SCREENPIX WESTERNS
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241881.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Lifetime
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117443.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",LIFETIME MOVIES
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170493.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Logo TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117290.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",MGM
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117335.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Movies!
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170494.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SCREAMFEST
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198301.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Showtime (East)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169622.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Showtime (West)
@@ -185,6 +269,10 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169623.ts
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169624.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Showtime 2 (West)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169625.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Showtime Bet East
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211277.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Showtime Bet West
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211276.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Showtime Beyond (East)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169626.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Showtime Beyond (West)
@@ -209,20 +297,10 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169635.ts
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169636.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Showtime Women (West)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169637.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",5 StarMAX (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198288.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",IndiePlex (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169638.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",IndiePlex (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169639.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",MoviePlex (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169640.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",MoviePlex (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169641.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",RetroPlex (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169642.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",RetroPlex (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169643.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SHOxBET (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173428.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SHOxBET (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173429.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Starz (East)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/169644.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Starz (West)
@@ -275,305 +353,17 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170395.ts
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170396.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Starz Kids & Family (West)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170397.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",AMC Presents
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198631.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",AMC
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170482.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",AMC Plus
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198630.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TCM (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170399.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TCM (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170400.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",FXM
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170492.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",EPIX
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170488.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",EPIX WEST
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198628.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",EPIX EAST
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198627.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",EPIX HITS
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170491.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Hallmark Channel
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170481.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",HALLMARK MOVIES & MYSTERIES
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170484.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",LIFETIME MOVIES FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170493.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",SUNDANCE FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170486.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",CINE SONY
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170487.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",MGM
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117335.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",IFC
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117433.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Movies!
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170494.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",THE MOVIE CHANNEL EXTRA
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241882.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",THE MOVIE CHANNEL XTRA
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241883.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Z Classic
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118616.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",The Asylum
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149497.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Reelz
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117482.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",The Film Detective
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/34717.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Comet TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117315.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Filmrise Family
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198632.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Filmrise Classics
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117449.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Filmrise Crime
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117457.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Filmrise Movies
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117458.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SCREAMFEST
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198301.ts
+
+
+Kids
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",Paw Patrol  24h FHD
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198300.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",MSG 2
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70891.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",MSG+ 2
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149473.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",NBC Sports Northwest
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/71501.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",NESN+
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/65435.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",NESN
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70840.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",SPORTSMAN Channel
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/150686.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Aspire
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117375.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Audience
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117372.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",AXS TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117334.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BBC America
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117271.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BET (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117273.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BET (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117351.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BET SOUL
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117274.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BET HER (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117275.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BET JAMZ
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117276.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Bounce TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118497.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Bravo (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117282.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Bravo (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117323.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Comedy TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117253.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Comedy Central (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117312.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Comedy Central (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117325.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",LAFF TV FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198293.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",MASN FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198295.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",COZI TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117320.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Folk TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117460.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Freeform (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117367.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Freeform (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118468.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",FUSE
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117370.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",FX
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117374.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",FXX
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117378.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",fyi'
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117587.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Game Show
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/150570.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Heroes & Icons
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118499.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",INSP
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117254.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Lifetime
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117443.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",Logo TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117290.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",MTV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117454.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Oprah Winfrey Network
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117474.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Ovation
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117252.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",OXYGEN (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117476.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",OXYGEN (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117362.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",People TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117548.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",POP (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117480.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",POP (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/151251.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Revolt
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117484.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",SYFY (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117546.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",SYFY (West )
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117549.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TBD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117810.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TBS (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117552.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TBS (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117551.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",The Cowboy Channel
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117314.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",The Pet Collective
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/65375.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",TMZ
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/151109.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TNT FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117386.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TNT (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117561.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TNT (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117554.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TruTV (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117570.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TruTV (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117365.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TV Land (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117571.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TV Land (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117366.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TV ONE
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70874.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",UP TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/71500.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",USA Network (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117577.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",USA Network (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117440.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Vice
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118470.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",American Heroes
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117426.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Animal Planet (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117263.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Animal Planet (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117251.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Classic Arts Showcase
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117380.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Court TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117383.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",CRIME & INVESTIGATION
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117441.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Discovery Channel (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117328.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Discovery Channel (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117340.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Discovery Science
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117332.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Discovery Family
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117326.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Discovery Life
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117329.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",DocuBox
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117430.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Docurama
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117435.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",DOG TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117261.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",History
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117428.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",H2
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117464.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Hunt Channel
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/150496.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",ID Investigation Discovery FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117324.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",ID Investigation Discovery (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117331.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",ID Investigation Discovery (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117437.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",NASA TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117471.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Nat Geo Wild
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117456.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",National Geographic
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117462.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Outdoor Channel
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117327.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Pursuit Channel
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117250.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Smithsonian Channel (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117502.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Smithsonian Channel (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117503.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",US| LIFESTYLE |US|
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/199135.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",A&E FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117333.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",A&E
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117249.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",AWE
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117319.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Cooking Channel
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117316.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",DABL
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117427.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Dove Channel
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117436.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",E! (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117352.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",E! (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117338.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",FOOD Network (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117424.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",FOOD Network (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117359.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Food 52
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117463.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",HGTV (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117425.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",HGTV (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117579.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",JUSTICE CENTRAL
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117280.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Outside TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117284.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",RFD-TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117268.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Smart Lifestyle TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117580.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Tastemade TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117360.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",The Outdoor Cooking Channel
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/40393.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",TLC (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117559.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",TLC (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118462.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",TRAVEL Channel (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117565.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",TRAVEL Channel (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117568.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",VICELAND
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117581.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",We TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117585.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Destination America
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117330.ts
-
-
-
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",BABY TV
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117267.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",Baby First
@@ -586,6 +376,10 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117390.ts
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117358.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",Cartoon Network & Adult Swim
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211305.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",CMC
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117382.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",CMT
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117305.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",Disney Channel (East)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117337.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",Disney Channel (West)
@@ -607,9 +401,11 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117467.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",Nick Jr (West)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117356.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",Nicktoons
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",TeenNick
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211294.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",TeenNick
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117347.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",Nick Music
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117550.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",PBS KIDS
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117478.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",TCT Kids
@@ -618,49 +414,284 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149499.ts
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117507.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",Universal Kids (West)
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/151250.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",CMC
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117382.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",CMT
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117305.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="KIDS",Nick Music
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117550.ts
 
 
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",VH1 (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117582.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",VH1 (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117528.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",LAW AND CRIME
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117446.ts
+Documentaries
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",360 North
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173411.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",World Fishing Network 
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173424.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",WE+
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173425.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",VSiN
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173426.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Start TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173427.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SHOxBET (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173428.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES",SHOxBET (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173429.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",BET HER (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173656.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",FailArmy
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173407.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",EZWay Network
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173408.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",A&E FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117333.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",A&E
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117249.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",American Heroes
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117426.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Animal Planet (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117263.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Animal Planet (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117251.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",AWE
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117319.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Classic Arts Showcase
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117380.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Court TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117383.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",CRIME & INVESTIGATION
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117441.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Cooking Channel
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117316.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",DABL
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117427.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Destination America
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117330.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Discovery Channel (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117328.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Discovery Channel (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117340.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Discovery Science
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117332.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Discovery Family
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117326.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Discovery Life
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117329.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",DIY NETWORK
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117349.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",DocuBox
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117430.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Docurama
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117435.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",DOG TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117261.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Dove Channel
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117436.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",E! (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117352.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",E! (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117338.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",ET Live
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173409.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",EZWay Network
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173408.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",FailArmy
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173407.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",FOOD Network (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117424.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",FOOD Network (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117359.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Food 52
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117463.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Great American Country
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211109.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Grit TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211110.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",History
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117428.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",H2
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117464.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",HGTV (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117425.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",HGTV (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117579.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Holiday HQ
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173652.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",HSN
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173649.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",HSN 2
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173650.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Holiday HQ
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173652.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Hunt Channel
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/150496.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",ID Investigation Discovery FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117324.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",ID Investigation Discovery (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117331.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",ID Investigation Discovery (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117437.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Investigation Discovery West
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211112.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Investigation Discovery East
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211113.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",JUSTICE CENTRAL
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117280.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",LAW AND CRIME
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117446.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",LIFESTYLE
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/199135.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",MSG
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70892.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",MSG Plus
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149472.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",MTV Classic
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117453.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",MTV Live FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117336.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",MTV U
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117558.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",NASA TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117471.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Nat Geo Wild
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117456.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",National Geographic
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117462.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Oprah Winfrey Network
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117474.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Ovation
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117252.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Outdoor Channel
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117327.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Outside TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117284.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Pursuit Channel
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117250.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Reelz
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117482.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",RFD-TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117268.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",RIDE TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117339.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Smart Lifestyle TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117580.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Smithsonian Channel (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117502.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Smithsonian Channel (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117503.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Start TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173427.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",Tastemade TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117360.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",The Asylum
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149497.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",The Cowboy Channel
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117314.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",The Film Detective
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/34717.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",The Outdoor Cooking Channel
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/40393.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",The Pet Collective
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/65375.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",TLC (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117559.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",TLC (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118462.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",TMZ
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/151109.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",TRAVEL Channel (East)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117565.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",TRAVEL Channel (West)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117568.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",VICELAND
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117581.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",We TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117585.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",WE+
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173425.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",WORLD FISHING NETWORK
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117248.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",World Fishing Network 
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173424.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="DOCUMENTARIES",VSiN
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173426.ts
+
+
+Sports
+#EXTINF:-1 tvg-name="BEIN SPORTS" tvg-logo="" group-title="SPORTS",BeIN Sports
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149371.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",BeIN Sports 2
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149372.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="SPORTS",BeIN Sports 3
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/74642.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",BeIN Sports 5
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149374.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",BeIN Sports 6
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149375.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",BeIN Sports 7
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149376.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS XTRA" tvg-logo="" group-title="SPORTS",Bein Sports Xtra
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/151097.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",BIG TEN NETWORK
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149378.ts
+#EXTINF:-1 tvg-name="CBS SPORTS NETWORK" tvg-logo="" group-title="SPORTS",CBS Sports Network
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/34719.ts
+#EXTINF:-1 tvg-name="ESPN 1" tvg-logo="" group-title="SPORTS",ESPN 1
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70853.ts
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="" group-title="SPORTS",ESPN 2
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/34672.ts
+#EXTINF:-1 tvg-name="ESPN ACC NETWORK" tvg-logo="" group-title="SPORTS",ESPN ACC Network
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118475.ts
+#EXTINF:-1 tvg-name="ESPN LOGHORN NETWORK" tvg-logo="" group-title="SPORTS",ESPN Longhorn Network
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149466.ts
+#EXTINF:-1 tvg-name="ESPN SEC NETWOKR" tvg-logo="" group-title="SPORTS",ESPN SEC Network
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/36084.ts
+#EXTINF:-1 tvg-name="ESPN U" tvg-logo="" group-title="SPORTS",ESPN U
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70848.ts
+#EXTINF:-1 tvg-name="ESPN NEWS" tvg-logo="" group-title="SPORTS",ESPN News
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70849.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",FightBox
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117438.ts
+#EXTINF:-1 tvg-name="FOXNET" tvg-logo="" group-title="SPORTS",FoxNET EAST
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117262.ts
+#EXTINF:-1 tvg-name="FOXNET MID" tvg-logo="" group-title="SPORTS",FoxNET MID
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149366.ts
+#EXTINF:-1 tvg-name="FOXNET" tvg-logo="" group-title="SPORTS",FoxNET WEST
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149436.ts
+#EXTINF:-1 tvg-name="FOX SPORTS 1" tvg-logo="" group-title="SPORTS",Fox Sports 1 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149363.ts
+#EXTINF:-1 tvg-name="FOX SPORTS 1" tvg-logo="" group-title="SPORTS",Fox Sports 1
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149419.ts
+#EXTINF:-1 tvg-name="FOX SPORTS 2" tvg-logo="" group-title="SPORTS",Fox Sports 2 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117277.ts
+#EXTINF:-1 tvg-name="FOX SPORTS 2" tvg-logo="" group-title="SPORTS",Fox Sports 2
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149420.ts
+#EXTINF:-1 tvg-name="FOX SOCCOR PLUS" tvg-logo="" group-title="SPORTS",Fox Soccer Plus
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149421.ts
+#EXTINF:-1 tvg-name="FOX SPORTS YES NETWORK" tvg-logo="" group-title="SPORTS",Fox Sports YES Network
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/36107.ts
+#EXTINF:-1 tvg-name="" tvg-logo="MAVTV" group-title="SPORTS",MavTV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/65399.ts
+#EXTINF:-1 tvg-name="MLB NETWORK" tvg-logo="" group-title="SPORTS",MLB Network
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/36135.ts
+#EXTINF:-1 tvg-name="MOTORTREND" tvg-logo="" group-title="SPORTS",MotorTrend
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149503.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",MSG 2
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70891.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",MSG+ 2
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149473.ts
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="" group-title="SPORTS",NBA TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118459.ts
+#EXTINF:-1 tvg-name="NBC GOLF CHANNEL" tvg-logo="" group-title="SPORTS",NBC GOLF CHANNEL
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70843.ts
+#EXTINF:-1 tvg-name="NBC SPORTS NETWORK" tvg-logo="" group-title="SPORTS",NBC Sports Network FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149496.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",NBC Sports Northwest
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/71501.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",NESN+
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/65435.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",NESN
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70840.ts
+#EXTINF:-1 tvg-name="NFL NETWORK" tvg-logo="" group-title="SPORTS",NFL Network
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/34712.ts
+#EXTINF:-1 tvg-name="NHL NETWORK" tvg-logo="" group-title="SPORTS",NHL Network
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118461.ts
+#EXTINF:-1 tvg-name="RED BULL TV" tvg-logo="" group-title="SPORTS",Red Bull TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/117543.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",Stadium
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70831.ts
+#EXTINF:-1 tvg-name="SNY" tvg-logo="" group-title="SPORTS",SNY
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/118477.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",SPORTSMAN Channel
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/150686.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",The Tennis Channel (D)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/204549.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",Tennis Channel (S)
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/204550.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",Tennis Channel
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/204551.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",TENNIS CHANNEL
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70826.ts
+#EXTINF:-1 tvg-name="TVG NETWORK" tvg-logo="" group-title="SPORTS",TVG Network
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/96639.ts
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS",TVG2 Network
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/96622.ts
+#EXTINF:-1 tvg-name="WWE NETWORK" tvg-logo="" group-title="SPORTS",WWE NETWORK
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149364.ts
 
 
 
@@ -701,10 +732,6 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/173432.ts
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/204631.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",ACC Network Extra
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211047.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Adult Swim (East)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211049.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Adult Swim (West)
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211050.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Biographies
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211055.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",BTN
@@ -713,28 +740,8 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211057.ts
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211058.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",ESPN Classic
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211067.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",FX East
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211104.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",FX West
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211105.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",FXX East
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211106.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",FXX West
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211107.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Great American Country
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211109.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Grit TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211110.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Investigate TV Atlanta
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211111.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Investigation Discovery West
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211112.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Investigation Discovery East
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211113.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Showtime Bet West
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211276.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Showtime Bet East
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211277.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",So Yummy!
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211300.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Rush by AMC
@@ -747,8 +754,6 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211304.ts
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/211306.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",History Military
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/216551.ts
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",Fox Xtra
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/216553.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",QVC
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/216559.ts
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="",HSN
