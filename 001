@@ -1,11 +1,13 @@
 #EXTM3U
 
+#EXTM3U
+
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="" group-title="ENTERTAINMENT",AMC
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3637
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC AMERICA" tvg-logo="" group-title="ENTERTAINMENT",BBC AMERICA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3607
 #EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="" group-title="ENTERTAINMENT",BET
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2278
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96413
 #EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="" group-title="ENTERTAINMENT",BRAVO
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3618
 #EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS" tvg-logo="" group-title="ENTERTAINMENT",CBS
@@ -39,13 +41,13 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3606
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="TRUTV" tvg-logo="TRUTV" group-title="ENTERTAINMENT",TRUTV
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3610
 #EXTINF:-1 tvg-id="TVLand.us" tvg-name="TV LAND" tvg-logo="TV LAND" group-title="ENTERTAINMENT",TV LAND
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2364
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95934
 #EXTINF:-1 tvg-id="TVONE.us" tvg-name="TV ONE" tvg-logo="TV ONE" group-title="ENTERTAINMENT",TV ONE
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/13010
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95933
 #EXTINF:-1 tvg-id="USANetwork(East)(src01).us" tvg-name="USA NETWORK" tvg-logo="USA NETWORK" group-title="ENTERTAINMENT",USA NETWORK
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3605
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="VH1" group-title="ENTERTAINMENT",VH1
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2370
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95926
 
 
 #EXTINF:-1 tvg-id="5StarMAX(East).us" tvg-name="5 STARMAX" tvg-logo="" group-title="MOVIES",5 STARMAX
