@@ -120,6 +120,8 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3693
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3692
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="NICKELODEON" tvg-logo="" group-title="KIDS",NICKELODEON
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3694
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="NICK JR" tvg-logo="" group-title="KIDS",NICK JR
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96019
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NICKTOONS" tvg-logo="" group-title="KIDS",NICKTOONS
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3696
 #EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TEEN NICK" tvg-logo="" group-title="KIDS",TEEN NICK
@@ -184,7 +186,6 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3656
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3680
 #EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="" group-title="SPORTS",WWE NETWORK
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3682
-
 
 
 #EXTINF:-1 tvg-ID="5USA.uk" group-title="UK ENTERTAINMENT",5 USA
