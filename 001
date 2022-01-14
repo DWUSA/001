@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTM3U
-
+#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="" group-title="ENTERTAINMENT",ABC
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3c-OdPiK-JWOou26JtrkPRGkyOz7Ek9R_A&usqp=CAU.png
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="" group-title="ENTERTAINMENT",AMC
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3637
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC AMERICA" tvg-logo="" group-title="ENTERTAINMENT",BBC AMERICA
@@ -53,33 +53,33 @@ http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95926
 #EXTINF:-1 tvg-id="5StarMAX(East).us" tvg-name="5 STARMAX" tvg-logo="" group-title="MOVIES",5 STARMAX
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2291
 #EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="ACTIONMAX" tvg-logo="" group-title="MOVIES",ACTIONMAX
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2274
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96447
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="CINEMAX" tvg-logo="" group-title="MOVIES",CINEMAX
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3648
 #EXTINF:-1 tvg-id="MoreMAX.us" tvg-name="MOREMAX" tvg-logo="" group-title="MOVIES",MOREMAX
-http://tv5full.xyz:25461/ametv1/96O3H71Npc/42688
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96057
 #EXTINF:-1 tvg-id="MovieMax.us" tvg-name="MOVIEMAX" tvg-logo="" group-title="MOVIES",MOVIEMAX
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/15110
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96055
 #EXTINF:-1 tvg-id="OuterMAX.us" tvg-name="OUTERMAX" tvg-logo="" group-title="MOVIES",OUTERMAX
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/15109
 #EXTINF:-1 tvg-id="ThrillerMAX.us" tvg-name="TRILLERMAX" tvg-logo="" group-title="MOVIES",TRILLERMAX
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/78147
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95943
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="HALLMARK" tvg-logo="" group-title="MOVIES",HALLMARK
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3615
 #EXTINF:-1 tvg-id="HallmarkMoviesandMysteries.us" tvg-name="HALLMARK MOVIES AND MYSTERIES" tvg-logo="" group-title="MOVIES",HALLMARK MOVIES AND MYSTERIES
-http://tv5full.xyz:25461/ametv1/96O3H71Npc/42695
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96277
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="" group-title="MOVIES",HBO
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3646
 #EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO 2" tvg-logo="" group-title="MOVIES",HBO 2
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/5844
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96276
 #EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO COMEDY" tvg-logo="" group-title="MOVIES",HBO COMEDY
-http://tv5full.xyz:25461/ametv1/96O3H71Npc/42616
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96275
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO FAMILY" tvg-logo="" group-title="MOVIES",HBO FAMILY
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3702
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="MOVIES",HBO SIGNATURE
-http://tv5full.xyz:25461/ametv1/96O3H71Npc/42697
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96271
 #EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO ZONE" tvg-logo="" group-title="MOVIES",HBO ZONE
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6328
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96270
 #EXTINF:-1 tvg-id="Lifetime.us" tvg-name="LIFETIME" tvg-logo="" group-title="MOVIES",LIFETIME
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3616
 #EXTINF:-1 tvg-id="LMN.us" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="" group-title="MOVIES",LIFETIME MOVIE NETWORK
@@ -87,25 +87,25 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3676
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME" tvg-logo="" group-title="MOVIES",SHOWTIME
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3647
 #EXTINF:-1 tvg-id="Showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="" group-title="MOVIES",SHOWTIME 2
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/78161
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95982
 #EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="" group-title="MOVIES",SHOWTIME EXTREME
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/12036
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95980
 #EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="" group-title="MOVIES",SHOWTIME FAMILY ZONE
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3703
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95979
 #EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="SHOWTIME NEXT" tvg-logo="" group-title="MOVIES",SHOWTIME NEXT
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/13008
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95978
 #EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="SHOWTIME SHOWCASE" tvg-logo="" group-title="MOVIES",SHOWTIME SHOWCASE
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/12994
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95977
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ" tvg-logo="" group-title="MOVIES",STARZ
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3649
 #EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="STARZ ENCORE" tvg-logo="" group-title="MOVIES",STARZ ENCORE
-http://tv5full.xyz:25461/ametv1/96O3H71Npc/42610
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95964
 #EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="STARZ ENCORE ACTION" tvg-logo="" group-title="MOVIES",STARZ ENCORE ACTION
-http://tv5full.xyz:25461/ametv1/96O3H71Npc/42614
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95963
 #EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="STARZ ENCORE SUSPENSE" tvg-logo="" group-title="MOVIES",STARZ ENCORE SUSPENSE
-http://tv5full.xyz:25461/ametv1/96O3H71Npc/42611
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95958
 #EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TURNER CLASSIC MOVIES" tvg-logo="" group-title="MOVIES",TURNER CLASSIC MOVIES
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/193459
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95948
 
 
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="BOOMERANG" tvg-logo="" group-title="KIDS",BOOMERANG
