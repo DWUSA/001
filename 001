@@ -187,6 +187,164 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3682
 
 
 
+#EXTINF:-1 tvg-ID="5USA.uk" group-title"UK ENTERTAINMENT",5 USA
+http://51.154.28.81:2052/play/a056
+#EXTINF:-1 tvg-ID="5USAplus1.uk" group-title"UK ENTERTAINMENT",5USA+1
+http://51.154.28.81:2052/play/a057
+#EXTINF:-1 tvg-ID="BBCFour.uk" group-title"UK ENTERTAINMENT",BBC FOUR
+http://51.154.28.81:2052/play/a0aq
+#EXTINF:-1 tvg-ID="BBCFour(src01).uk" group-title"UK ENTERTAINMENT",BBC FOUR
+http://51.154.28.81:2052/play/a0as
+#EXTINF:-1 tvg-ID="CBSDrama.uk" group-title"UK ENTERTAINMENT",CBS DRAMA
+http://51.154.28.81:2052/play/a09v
+#EXTINF:-1 tvg-ID="CBSJustice.uk" group-title"UK ENTERTAINMENT",CBS JUSTICE
+http://51.154.28.81:2052/play/a0a0
+#EXTINF:-1 tvg-ID="CBSReality.uk" group-title"UK ENTERTAINMENT",CBS REALITY
+http://51.154.28.81:2052/play/a0a4
+#EXTINF:-1 tvg-ID="CBSReality(src01).uk" group-title"UK ENTERTAINMENT",CBS REALITY
+http://51.154.28.81:2052/play/a0a3
+#EXTINF:-1 tvg-ID="CBSRealityplus1.uk" group-title"UK ENTERTAINMENT",CBS REALITY+1
+http://51.154.28.81:2052/play/a0a5
+#EXTINF:-1 tvg-ID="iONTV.uk" group-title"UK ENTERTAINMENT",ION TV
+http://51.154.28.81:2052/play/a06y
+#EXTINF:-1 tvg-ID="ParamountNetwork.uk" group-title"UK ENTERTAINMENT",PARAMOUNT
+http://51.154.28.81:2052/play/a05d
+#EXTINF:-1 tvg-ID="TVOne.uk" group-title"UK ENTERTAINMENT",TV ONE
+http://51.154.28.81:2052/play/a0ah
+
+
+#EXTINF:-1 tvg-ID="HorrorChannel.uk" group-title"UK MOVIES",HORROR CHANNEL
+http://51.154.28.81:2052/play/a09x
+#EXTINF:-1 tvg-ID="HorrorChannelplus1.uk" group-title"UK MOVIES",HORROR CH+1
+http://51.154.28.81:2052/play/a0a6
+#EXTINF:-1 tvg-ID="SkyMoviesComedy(src01).uk"group-title"UK MOVIES" ,SKY MOVIES COMEDY
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87322
+#EXTINF:-1 tvg-ID="" group-title="UK MOVIES",SKY MOVIES DISNEY
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87321
+#EXTINF:-1 tvg-ID="SkyMoviesDramaandRomance(src01).uk" group-title="UK MOVIES",SKY MOVIES DRAMA & ROMANCE
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87320
+#EXTINF:-1 tvg-ID="SkyMoviesFamily(src01).uk" group-title="UK MOVIES",SKY MOVIES FAMILY
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87319
+#EXTINF:-1 tvg-ID="" group-title="UK MOVIES",SKY MOVIES MODERN
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87318
+#EXTINF:-1 tvg-ID="SkyMoviesPremiere(src01).uk" group-title="UK MOVIES",SKY MOVIES PREMIERE
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87317
+#EXTINF:-1 tvg-ID="SkyMoviesSciFiandHorror(src01).uk" group-title="UK MOVIES",SKY MOVIES SCI-FI & HORROR
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87316
+#EXTINF:-1 tvg-ID="" group-title="UK MOVIES",SKY MOVIES TRILLER
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87315
+#EXTINF:-1 tvg-ID="SonyChannel(src01).uk" group-title"UK MOVIES",SONY CHANNEL
+http://51.154.28.81:2052/play/a06a
+#EXTINF:-1 tvg-ID="SonyChannelplus1(src01).uk" group-title"UK MOVIES",SONY CHANNEL+1
+http://51.154.28.81:2052/play/a06b
+#EXTINF:-1 tvg-ID="SonyAction(src01).uk" group-title"UK MOVIES",SONY ACTION
+http://51.154.28.81:2052/play/a05y
+#EXTINF:-1 tvg-ID="SonyActionplus1(src01).uk" group-title"UK MOVIES",SONY ACTION+1
+http://51.154.28.81:2052/play/a068
+#EXTINF:-1 tvg-ID="SonyMovieChannel(src01).uk" group-title"UK MOVIES",SONY MOVIES
+http://51.154.28.81:2052/play/a05z
+#EXTINF:-1 tvg-ID="SonyMovieChannelplus1(src01).uk" group-title"UK MOVIES",SONY MOVEIS+1
+http://51.154.28.81:2052/play/a066
+#EXTINF:-1 tvg-ID="SonyMoviesClassic(src01).uk" group-title"UK MOVIES",SONY MOVIES CLASSIC
+http://51.154.28.81:2052/play/a060
+#EXTINF:-1 tvg-ID="SonyMoviesClassicplus1(src01).uk" group-title"UK MOVIES",SONY MOVIES CLASSIC+1
+http://51.154.28.81:2052/play/a061
+#EXTINF:-1 tvg-ID="TalkingPictures.uk" group-title"UK MOVIES",TALKINGPICTURES
+http://51.154.28.81:2052/play/a06s
+
+
+#EXTINF:-1 tvg-ID="CBeebies HD" group-title"UK KIDS",CBEEBIES
+http://51.154.28.81:2052/play/a0at
+#EXTINF:-1 tvg-ID="CBeebies(src01).uk" group-title"UK KIDS",CBEEBIES
+http://51.154.28.81:2052/play/a0ar
+#EXTINF:-1 tvg-ID="TinyPop.uk" group-title"UK KIDS",TINY POP
+http://51.154.28.81:2052/play/a062
+#EXTINF:-1 tvg-ID="TinyPopplus1.uk" group-title"UK KIDS",TINY POP+1
+http://51.154.28.81:2052/play/a064
+
+
+#EXTINF:-1 tvg-ID="4Seven.uk" group-title"UK ENTERTAINMENT+",4SEVEN
+http://51.154.28.81:2052/play/a05p
+#EXTINF:-1 tvg-ID="5SELECT.uk" group-title"UK ENTERTAINMENT+",5SELECT
+http://51.154.28.81:2052/play/a059
+#EXTINF:-1 tvg-ID="5STAR(src02).uk" group-title"UK ENTERTAINMENT+",5STAR
+http://51.154.28.81:2052/play/a058
+#EXTINF:-1 tvg-ID="" group-title"UK ENTERTAINMENT+",5STAR+1
+http://51.154.28.81:2052/play/a05a
+
+
+#EXTINF:-1 tvg-ID="AnimalPlanet.uk" group-title"UK DOCUMENTARIES",ANIMAL PLANET
+http://51.154.28.81:2052/play/a09q
+#EXTINF:-1 tvg-ID="DMAX.uk" group-title"UK DOCUMENTARIES",DMAX
+http://51.154.28.81:2052/play/a09b
+#EXTINF:-1 tvg-ID="DMAXplus1.uk" group-title"UK DOCUMENTARIES",DMAX+1
+http://51.154.28.81:2052/play/a097
+#EXTINF:-1 tvg-ID="Dave.uk" group-title"UK DOCUMENTARIES",DAVE
+http://51.154.28.81:2052/play/a08y
+#EXTINF:-1 tvg-ID="Dave(src01).uk" group-title"UK DOCUMENTARIES",DAVE
+http://51.154.28.81:2052/play/a093
+#EXTINF:-1 tvg-ID="FoodNetwork.uk" group-title"UK DOCUMENTARIES",FOOD NETWORK
+http://51.154.28.81:2052/play/a099
+#EXTINF:-1 tvg-ID="FoodNetworkplus1.uk" group-title"UK DOCUMENTARIES",FOOD NETWORK+1
+http://51.154.28.81:2052/play/a09a
+#EXTINF:-1 tvg-ID="Foodxp.uk" group-title"UK DOCUMENTARIES",FOODXP
+http://51.154.28.81:2052/play/a081
+#EXTINF:-1 tvg-ID="HGTV.uk" group-title"UK DOCUMENTARIES",HGTV
+http://51.154.28.81:2052/play/a06d
+#EXTINF:-1 tvg-ID="HGTVplus1(UK).uk" group-title"UK DOCUMENTARIES",HGTV+1
+http://51.154.28.81:2052/play/a06f
+#EXTINF:-1 tvg-ID="Quest.uk" group-title"UK DOCUMENTARIES",QUEST
+http://51.154.28.81:2052/play/a09d
+#EXTINF:-1 tvg-ID="QUEST(src01).uk" group-title"UK DOCUMENTARIES",QUEST HD
+http://51.154.28.81:2052/play/a06j
+#EXTINF:-1 tvg-ID="Questplus1.uk" group-title"UK DOCUMENTARIES",QUEST+1
+http://51.154.28.81:2052/play/a09f
+
+
+#EXTINF:-1 tvg-ID="Eurosport1.uk" group-title"UK SPORTS",EUROSPORT 1
+http://51.154.28.81:2052/play/a0bn
+#EXTINF:-1 tvg-ID="Eurosport2.uk" group-title"UK SPORTS",EUROSPORT 2
+http://51.154.28.81:2052/play/a0bq
+#EXTINF:-1 tvg-ID="SkySportsArena.uk" group-title"UK SPORTS",SKY SPORTS ARENA
+http://51.154.28.81:2052/play/a0br
+#EXTINF:-1 tvg-ID="SkySportsArena.uk" group-title"UK SPORTS",SKY SPORTS ARENA
+http://51.154.28.81:2052/play/a0bo
+#EXTINF:-1 tvg-ID="SkySportsMainEvent.uk" group-title"UK SPORTS",SKY SPORTS MAIN EVENT
+http://51.154.28.81:2052/play/a0bm
+#EXTINF:-1 tvg-ID="SportystuffTV.uk" group-title"UK SPORTS",SportyStuff
+http://51.154.28.81:2052/play/a071
+#EXTINF:-1 tvg-ID="" group-title"UK SPORTS",TALKSPORTS
+http://51.154.28.81:2052/play/a088
+
+
+#EXTINF:-1 tvg-ID="92News.uk" group-title"UK NEWS",92 NEWS
+http://51.154.28.81:2052/play/a06x
+#EXTINF:-1 tvg-ID="AlJazeera.uk" group-title"UK NEWS",Al JAZEERA HD
+http://51.154.28.81:2052/play/a089
+#EXTINF:-1 tvg-ID="ARANG(ArirangTVKoreaWorldNetwork).uk" group-title"UK NEWS",ARIRANG TV HD
+http://51.154.28.81:2052/play/a05s
+#EXTINF:-1 tvg-ID="ATNBanglaUK.uk" group-title"UK NEWS",ATN
+http://51.154.28.81:2052/play/a06o
+#EXTINF:-1 tvg-ID="BBCNews.uk" group-title"UK NEWS",BBC NEWS HD
+http://51.154.28.81:2052/play/a0ao
+#EXTINF:-1 tvg-ID="BBCParliament.uk" group-title"UK NEWS",BBC PARLIMENT
+http://51.154.28.81:2052/play/a03m
+#EXTINF:-1 tvg-ID="CNN(src02).uk" group-title"UK NEWS",CNN
+http://51.154.28.81:2052/play/a05g
+#EXTINF:-1 tvg-ID="CNN(src02).uk" group-title"UK NEWS",CNN HD
+http://51.154.28.81:2052/play/a08o
+#EXTINF:-1 tvg-ID="euronews.uk" group-title"UK NEWS",EURONEWS
+http://51.154.28.81:2052/play/a0af
+#EXTINF:-1 tvg-ID="GoodNewsTV.uk" group-title"UK NEWS",GOOD NEWS TV
+http://51.154.28.81:2052/play/a07e
+#EXTINF:-1 tvg-ID="SkyNews.uk" group-title"UK NEWS",SKY NEWS
+http://51.154.28.81:2052/play/a08w
+
+
+
+
+
+
 
 
 
