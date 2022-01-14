@@ -347,10 +347,6 @@ http://51.154.28.81:2052/play/a08w
 
 
 
-
-#EXTINF
-
-ENTERTAINMENT
 #EXTINF:-1 tvg-id="" tvg-name="ABC Chicago USA" tvg-logo="" group-title="ENTERTAINMENT",ABC Chicago USA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3598
 #EXTINF:-1 tvg-id="" tvg-name="ABC Detroit USA" tvg-logo="" group-title="ENTERTAINMENT",ABC Detroit USA
@@ -397,7 +393,6 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3610
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3605
 
 
-MOVIES
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX USA" tvg-logo="" group-title="MOVIES",CINEMAX USA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3648
 #EXTINF:-1 tvg-id="" tvg-name="EPIX USA" tvg-logo="" group-title="MOVIES",EPIX USA
@@ -430,7 +425,6 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3704
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3652
 
 
-KIDS
 #EXTINF:-1 tvg-id="" tvg-name="Baby First USA" tvg-logo="" group-title="USA-New",Baby First USA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3689
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang USA" tvg-logo="" group-title="KIDS",Boomerang USA
@@ -457,7 +451,6 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3690
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3700
 
 
-DOCUMENTARIES
 #EXTINF:-1 tvg-id="" tvg-name="A&E USA" tvg-logo="" group-title="DOCUMENTARIES",A&E USA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3604
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET USA" tvg-logo="" group-title="DOCUMENTARIES",ANIMAL PLANET USA
@@ -498,7 +491,6 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3613
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3609
 
 
-SPORTS
 #EXTINF:-1 tvg-id="" tvg-name="ACC Network USA" tvg-logo="" group-title="SPORTS",ACC Network USA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3675
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports USA" tvg-logo="" group-title="SPORTS",BeIN Sports USA
@@ -549,7 +541,6 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3680
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3682
 
 
-NEWS
 #EXTINF:-1 tvg-id="" tvg-name="CNBC USA" tvg-logo="" group-title="NEWS",CNBC USA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3714
 #EXTINF:-1 tvg-id="" tvg-name="E! USA" tvg-logo="" group-title="NEWS",E! USA
