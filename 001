@@ -102,12 +102,16 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3649
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95964
 #EXTINF:-1 tvg-id="StarzEncoreAction.us" group-title="MOVIES",STARZ ENCORE ACTION
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95963
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" group-title="MOVIES",STARZ ENCORE FAMILY
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95959
 #EXTINF:-1 tvg-id="StarzEncoreSuspense.us" group-title="MOVIES",STARZ ENCORE SUSPENSE
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95958
 #EXTINF:-1 tvg-id="TurnerClassicMovies.us" group-title="MOVIES",TURNER CLASSIC MOVIES
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95948
 
 
+#EXTINF:-1 tvg-id="BabyFirstTV.us" group-title="KIDS",BABY FIRST
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3689
 #EXTINF:-1 tvg-id="Boomerang.us" group-title="KIDS",BOOMERANG
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3698
 #EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="KIDS",CARTOON NETWORK
@@ -126,6 +130,8 @@ http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96019
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3696
 #EXTINF:-1 tvg-id="TeenNick.us" group-title="KIDS",TEEN NICK
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3697
+#EXTINF:-1 tvg-id="PBSKids.us" group-title="KIDS",PBS KIDS
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95995
 #EXTINF:-1 tvg-id="UniversalKids.us" group-title="KIDS",UNIVERSAL KIDS
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3700
 
