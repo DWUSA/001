@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ABC" group-title="ENTERTAINMENT",ABC
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3c-OdPiK-JWOou26JtrkPRGkyOz7Ek9R_A&usqp=CAU.png
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95921
 #EXTINF:-1 tvg-id="AMC.us" group-title="ENTERTAINMENT",AMC
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3637
 #EXTINF:-1 tvg-id="BBCAmerica.us" group-title="ENTERTAINMENT",BBC AMERICA
@@ -150,7 +150,7 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3624
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3623
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" group-title="DOCUMENTARIES",NAT GEO WILD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6503
-#ENTINF:-1 tvg-id="TLC.us" group-title="DOCUMENTARIES",TLC
+#EXTINF:-1 tvg-id="TLC.us" group-title="DOCUMENTARIES",TLC
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95942
 #EXTINF:-1 tvg-id="TheTravelChannel.us" group-title="DOCUMENTARIES",TRAVEL CHANNEL
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3633
@@ -190,19 +190,19 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3680
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3682
 
 
-#ENTINF:- tvg-id="ABCNewsLive.us" group-title="NEWS",ABC NEWS
+#EXTINF:- tvg-id="ABCNewsLive.us" group-title="NEWS",ABC NEWS
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96452
-#ENTINF:- tvg-id="BBCWorldNews.us" group-title="NEWS",BBC WORL NEWS
+#EXTINF:- tvg-id="BBCWorldNews.us" group-title="NEWS",BBC WORL NEWS
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96426
-#ENTINF:- tvg-id="Bloomberg.us" group-title="NEWS",BLOOMBERG
+#EXTINF:- tvg-id="Bloomberg.us" group-title="NEWS",BLOOMBERG
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96408
-#ENTINF:- tvg-id="" group-title="NEWS",CBS NEWS
+#EXTINF:- tvg-id="" group-title="NEWS",CBS NEWS
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96395
-#ENTINF:- tvg-id="CNN.us" group-title="NEWS",CNN
+#EXTINF:- tvg-id="CNN.us" group-title="NEWS",CNN
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96381
-#ENTINF:- tvg-id="FoxNewsChannel.us" group-title="NEWS",FOX NEWS
+#EXTINF:- tvg-id="FoxNewsChannel.us" group-title="NEWS",FOX NEWS
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96318
-#ENTINF:- tvg-id="MSNBC.us" group-title="NEWS",MSNBC
+#EXTINF:- tvg-id="MSNBC.us" group-title="NEWS",MSNBC
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96051
 
 
