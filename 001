@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTM3U
+
 #EXTINF:-1 tvg-id="ABC" group-title="ENTERTAINMENT",ABC
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95921
 #EXTINF:-1 tvg-id="AMC.us" group-title="ENTERTAINMENT",AMC
@@ -7,7 +9,7 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3637
 #EXTINF:-1 tvg-id="BBCAmerica.us" group-title="ENTERTAINMENT",BBC AMERICA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3607
 #EXTINF:-1 tvg-id="BET.us" group-title="ENTERTAINMENT",BET
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96413
+http://jjkdomain123.one:80/Charlie/Charlie/219770
 #EXTINF:-1 tvg-id="Bravo.us" group-title="ENTERTAINMENT",BRAVO
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3618
 #EXTINF:-1 tvg-id="WCBS.us" group-title="ENTERTAINMENT",CBS
@@ -25,7 +27,7 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3639
 #EXTINF:-1 tvg-id="FXM.us" group-title="ENTERTAINMENT",FXM
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3642
 #EXTINF:-1 tvg-id="Oxygen.us" group-title="ENTERTAINMENT",OXYGEN
-http://tv5full.xyz:25461/ametv1/96O3H71Npc/42659
+http://jjkdomain123.one:80/Charlie/Charlie/219821
 #EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="ENTERTAINMENT",PARAMOUNT
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3641
 #EXTINF:-1 tvg-id="SundanceTV.us" group-title="ENTERTAINMENT",SUNDANCE
@@ -41,45 +43,45 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3606
 #EXTINF:-1 tvg-id="truTV.us" group-title="ENTERTAINMENT",TRUTV
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3610
 #EXTINF:-1 tvg-id="TVLand.us" group-title="ENTERTAINMENT",TV LAND
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95934
+http://jjkdomain123.one:80/Charlie/Charlie/219772
 #EXTINF:-1 tvg-id="TVONE.us" group-title="ENTERTAINMENT",TV ONE
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95933
+http://jjkdomain123.one:80/Charlie/Charlie/219815
 #EXTINF:-1 tvg-id="USANetwork(East)(src01).us" group-title="ENTERTAINMENT",USA NETWORK
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3605
 #EXTINF:-1 tvg-id="VH1.us" group-title="ENTERTAINMENT",VH1
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95926
+http://jjkdomain123.one:80/Charlie/Charlie/219811
 
 
 #EXTINF:-1 tvg-id="5StarMAX(East).us" group-title="MOVIES",5 STARMAX
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2291
+http://jjkdomain123.one:80/Charlie/Charlie/219380
 #EXTINF:-1 tvg-id="ActionMAX.us" group-title="MOVIES",ACTIONMAX
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96447
+http://jjkdomain123.one:80/Charlie/Charlie/219379
 #EXTINF:-1 tvg-id="Cinemax.us" group-title="MOVIES",CINEMAX
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3648
 #EXTINF:-1 tvg-id="MoreMAX.us" group-title="MOVIES",MOREMAX
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96057
+http://jjkdomain123.one:80/Charlie/Charlie/219376
 #EXTINF:-1 tvg-id="MovieMax.us" group-title="MOVIES",MOVIEMAX
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96055
+http://jjkdomain123.one:80/Charlie/Charlie/219375
 #EXTINF:-1 tvg-id="OuterMAX.us" group-title="MOVIES",OUTERMAX
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/15109
+http://jjkdomain123.one:80/Charlie/Charlie/219374
 #EXTINF:-1 tvg-id="ThrillerMAX.us" group-title="MOVIES",TRILLERMAX
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95943
+http://jjkdomain123.one:80/Charlie/Charlie/219373
 #EXTINF:-1 tvg-id="HallmarkChannel.us" group-title="MOVIES",HALLMARK
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3615
 #EXTINF:-1 tvg-id="HallmarkMoviesandMysteries.us" group-title="MOVIES",HALLMARK MOVIES AND MYSTERIES
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96277
+http://jjkdomain123.one:80/Charlie/Charlie/219781
 #EXTINF:-1 tvg-id="HBO.us" group-title="MOVIES",HBO
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3646
 #EXTINF:-1 tvg-id="HBO2.us" group-title="MOVIES",HBO 2
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96276
+http://jjkdomain123.one:80/Charlie/Charlie/219403
 #EXTINF:-1 tvg-id="HBOComedy.us" group-title="MOVIES",HBO COMEDY
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96275
+http://jjkdomain123.one:80/Charlie/Charlie/219409
 #EXTINF:-1 tvg-id="HBOFamily.us" group-title="MOVIES",HBO FAMILY
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3702
 #EXTINF:-1 tvg-id="HBOSignature.us" group-title="MOVIES",HBO SIGNATURE
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96271
+http://jjkdomain123.one:80/Charlie/Charlie/219405
 #EXTINF:-1 tvg-id="HBOZone.us" group-title="MOVIES",HBO ZONE
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96270
+http://jjkdomain123.one:80/Charlie/Charlie/219404
 #EXTINF:-1 tvg-id="Lifetime.us" group-title="MOVIES",LIFETIME
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3616
 #EXTINF:-1 tvg-id="LMN.us" group-title="MOVIES",LIFETIME MOVIE NETWORK
@@ -87,27 +89,27 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3676
 #EXTINF:-1 tvg-id="Showtime.us" group-title="MOVIES",SHOWTIME
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3647
 #EXTINF:-1 tvg-id="Showtime2.us" group-title="MOVIES",SHOWTIME 2
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95982
+http://jjkdomain123.one:80/Charlie/Charlie/219370
 #EXTINF:-1 tvg-id="ShowtimeExtreme.us" group-title="MOVIES",SHOWTIME EXTREME
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95980
+http://jjkdomain123.one:80/Charlie/Charlie/219399
 #EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" group-title="MOVIES",SHOWTIME FAMILY ZONE
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95979
+http://jjkdomain123.one:80/Charlie/Charlie/219398
 #EXTINF:-1 tvg-id="ShowtimeNext.us" group-title="MOVIES",SHOWTIME NEXT
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95978
+http://jjkdomain123.one:80/Charlie/Charlie/219366
 #EXTINF:-1 tvg-id="ShowtimeShowcase.us" group-title="MOVIES",SHOWTIME SHOWCASE
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95977
+http://jjkdomain123.one:80/Charlie/Charlie/219396
 #EXTINF:-1 tvg-id="Starz.us" group-title="MOVIES",STARZ
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3649
 #EXTINF:-1 tvg-id="StarzEncore.us" group-title="MOVIES",STARZ ENCORE
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95964
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11900
 #EXTINF:-1 tvg-id="StarzEncoreAction.us" group-title="MOVIES",STARZ ENCORE ACTION
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95963
 #EXTINF:-1 tvg-id="StarzEncoreFamily.us" group-title="MOVIES",STARZ ENCORE FAMILY
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95959
+http://jjkdomain123.one:80/Charlie/Charlie/219360
 #EXTINF:-1 tvg-id="StarzEncoreSuspense.us" group-title="MOVIES",STARZ ENCORE SUSPENSE
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95958
+http://jjkdomain123.one:80/Charlie/Charlie/219358
 #EXTINF:-1 tvg-id="TurnerClassicMovies.us" group-title="MOVIES",TURNER CLASSIC MOVIES
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95948
+http://jjkdomain123.one:80/Charlie/Charlie/2769945
 
 
 #EXTINF:-1 tvg-id="BabyFirstTV.us" group-title="KIDS",BABY FIRST
@@ -125,13 +127,13 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3692
 #EXTINF:-1 tvg-id="Nickelodeon.us" group-title="KIDS",NICKELODEON
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3694
 #EXTINF:-1 tvg-id="NickJr.us" group-title="KIDS",NICK JR
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96019
+http://jjkdomain123.one:80/Charlie/Charlie/220128
 #EXTINF:-1 tvg-id="Nicktoons.us" group-title="KIDS",NICKTOONS
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3696
 #EXTINF:-1 tvg-id="TeenNick.us" group-title="KIDS",TEEN NICK
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3697
 #EXTINF:-1 tvg-id="PBSKids.us" group-title="KIDS",PBS KIDS
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95995
+http://jjkdomain123.one:80/Charlie/Charlie/220123
 #EXTINF:-1 tvg-id="UniversalKids.us" group-title="KIDS",UNIVERSAL KIDS
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3700
 
@@ -155,9 +157,9 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3624
 #EXTINF:-1 tvg-id="NationalGeographic.us" group-title="DOCUMENTARIES",NATIONAL GEOGRAPHIC
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3623
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" group-title="DOCUMENTARIES",NAT GEO WILD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6503
+http://jjkdomain123.one:80/Charlie/Charlie/220000
 #EXTINF:-1 tvg-id="TLC.us" group-title="DOCUMENTARIES",TLC
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95942
+http://jjkdomain123.one:80/Charlie/Charlie/219802
 #EXTINF:-1 tvg-id="TheTravelChannel.us" group-title="DOCUMENTARIES",TRAVEL CHANNEL
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3633
 
@@ -197,19 +199,19 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3682
 
 
 #EXTINF:- tvg-id="ABCNewsLive.us" group-title="NEWS",ABC NEWS
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96452
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_44.m3u8
 #EXTINF:- tvg-id="BBCWorldNews.us" group-title="NEWS",BBC WORLD NEWS
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96426
+http://jjkdomain123.one:80/Charlie/Charlie/220174
 #EXTINF:- tvg-id="Bloomberg.us" group-title="NEWS",BLOOMBERG
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96408
+http://jjkdomain123.one:80/Charlie/Charlie/220173
 #EXTINF:- tvg-id="" group-title="NEWS",CBS NEWS
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96395
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:- tvg-id="CNN.us" group-title="NEWS",CNN
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96381
+http://jjkdomain123.one:80/Charlie/Charlie/220157
 #EXTINF:- tvg-id="FoxNewsChannel.us" group-title="NEWS",FOX NEWS
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96318
 #EXTINF:- tvg-id="MSNBC.us" group-title="NEWS",MSNBC
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96051
+http://1128480543.rsc.cdn77.org/yg2eCdIXV-hG4QKNrlh93g==,1642732509/1128480543/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-ID="5USA.uk" group-title="UK ENTERTAINMENT",5 USA
