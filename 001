@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U
-
 #EXTINF:-1 tvg-id="ABC" group-title="ENTERTAINMENT",ABC
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95921
 #EXTINF:-1 tvg-id="AMC.us" group-title="ENTERTAINMENT",AMC
@@ -9,7 +7,7 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3637
 #EXTINF:-1 tvg-id="BBCAmerica.us" group-title="ENTERTAINMENT",BBC AMERICA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3607
 #EXTINF:-1 tvg-id="BET.us" group-title="ENTERTAINMENT",BET
-http://jjkdomain123.one:80/Charlie/Charlie/219770
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/8237
 #EXTINF:-1 tvg-id="Bravo.us" group-title="ENTERTAINMENT",BRAVO
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3618
 #EXTINF:-1 tvg-id="WCBS.us" group-title="ENTERTAINMENT",CBS
@@ -17,7 +15,7 @@ http://tv5full.xyz:25461/ametv1/96O3H71Npc/54574
 #EXTINF:-1 tvg-id="ComedyCentral.us" group-title="ENTERTAINMENT",COMEDY CENTRAL
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3612
 #EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",FOX
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/29666
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/25467
 #EXTINF:-1 tvg-id="Freeform(East)(src01).us" group-title="ENTERTAINMENT",FREEFORM
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3701
 #EXTINF:-1 tvg-id="FX(East)(src01).us" group-title="ENTERTAINMENT",FX
@@ -27,7 +25,7 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3639
 #EXTINF:-1 tvg-id="FXM.us" group-title="ENTERTAINMENT",FXM
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3642
 #EXTINF:-1 tvg-id="Oxygen.us" group-title="ENTERTAINMENT",OXYGEN
-http://jjkdomain123.one:80/Charlie/Charlie/219821
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10928
 #EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="ENTERTAINMENT",PARAMOUNT
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3641
 #EXTINF:-1 tvg-id="SundanceTV.us" group-title="ENTERTAINMENT",SUNDANCE
@@ -43,25 +41,25 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3606
 #EXTINF:-1 tvg-id="truTV.us" group-title="ENTERTAINMENT",TRUTV
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3610
 #EXTINF:-1 tvg-id="TVLand.us" group-title="ENTERTAINMENT",TV LAND
-http://jjkdomain123.one:80/Charlie/Charlie/219772
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17310
 #EXTINF:-1 tvg-id="TVONE.us" group-title="ENTERTAINMENT",TV ONE
-http://jjkdomain123.one:80/Charlie/Charlie/219815
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11905
 #EXTINF:-1 tvg-id="USANetwork(East)(src01).us" group-title="ENTERTAINMENT",USA NETWORK
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3605
 #EXTINF:-1 tvg-id="VH1.us" group-title="ENTERTAINMENT",VH1
-http://jjkdomain123.one:80/Charlie/Charlie/219811
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11632
 
 
 #EXTINF:-1 tvg-id="5StarMAX(East).us" group-title="MOVIES",5 STARMAX
-http://jjkdomain123.one:80/Charlie/Charlie/219380
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11904
 #EXTINF:-1 tvg-id="ActionMAX.us" group-title="MOVIES",ACTIONMAX
-http://jjkdomain123.one:80/Charlie/Charlie/219379
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11916
 #EXTINF:-1 tvg-id="Cinemax.us" group-title="MOVIES",CINEMAX
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3648
 #EXTINF:-1 tvg-id="MoreMAX.us" group-title="MOVIES",MOREMAX
-http://jjkdomain123.one:80/Charlie/Charlie/219376
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11902
 #EXTINF:-1 tvg-id="MovieMax.us" group-title="MOVIES",MOVIEMAX
-http://jjkdomain123.one:80/Charlie/Charlie/219375
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24685
 #EXTINF:-1 tvg-id="OuterMAX.us" group-title="MOVIES",OUTERMAX
 http://jjkdomain123.one:80/Charlie/Charlie/219374
 #EXTINF:-1 tvg-id="ThrillerMAX.us" group-title="MOVIES",TRILLERMAX
@@ -69,19 +67,19 @@ http://jjkdomain123.one:80/Charlie/Charlie/219373
 #EXTINF:-1 tvg-id="HallmarkChannel.us" group-title="MOVIES",HALLMARK
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3615
 #EXTINF:-1 tvg-id="HallmarkMoviesandMysteries.us" group-title="MOVIES",HALLMARK MOVIES AND MYSTERIES
-http://jjkdomain123.one:80/Charlie/Charlie/219781
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/15180
 #EXTINF:-1 tvg-id="HBO.us" group-title="MOVIES",HBO
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3646
 #EXTINF:-1 tvg-id="HBO2.us" group-title="MOVIES",HBO 2
-http://jjkdomain123.one:80/Charlie/Charlie/219403
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/8262
 #EXTINF:-1 tvg-id="HBOComedy.us" group-title="MOVIES",HBO COMEDY
-http://jjkdomain123.one:80/Charlie/Charlie/219409
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/8252
 #EXTINF:-1 tvg-id="HBOFamily.us" group-title="MOVIES",HBO FAMILY
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3702
 #EXTINF:-1 tvg-id="HBOSignature.us" group-title="MOVIES",HBO SIGNATURE
-http://jjkdomain123.one:80/Charlie/Charlie/219405
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11294
 #EXTINF:-1 tvg-id="HBOZone.us" group-title="MOVIES",HBO ZONE
-http://jjkdomain123.one:80/Charlie/Charlie/219404
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/8251
 #EXTINF:-1 tvg-id="Lifetime.us" group-title="MOVIES",LIFETIME
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3616
 #EXTINF:-1 tvg-id="LMN.us" group-title="MOVIES",LIFETIME MOVIE NETWORK
@@ -89,15 +87,15 @@ http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3676
 #EXTINF:-1 tvg-id="Showtime.us" group-title="MOVIES",SHOWTIME
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3647
 #EXTINF:-1 tvg-id="Showtime2.us" group-title="MOVIES",SHOWTIME 2
-http://jjkdomain123.one:80/Charlie/Charlie/219370
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10877
 #EXTINF:-1 tvg-id="ShowtimeExtreme.us" group-title="MOVIES",SHOWTIME EXTREME
-http://jjkdomain123.one:80/Charlie/Charlie/219399
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11638
 #EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" group-title="MOVIES",SHOWTIME FAMILY ZONE
-http://jjkdomain123.one:80/Charlie/Charlie/219398
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/61305
 #EXTINF:-1 tvg-id="ShowtimeNext.us" group-title="MOVIES",SHOWTIME NEXT
-http://jjkdomain123.one:80/Charlie/Charlie/219366
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/61306
 #EXTINF:-1 tvg-id="ShowtimeShowcase.us" group-title="MOVIES",SHOWTIME SHOWCASE
-http://jjkdomain123.one:80/Charlie/Charlie/219396
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11582
 #EXTINF:-1 tvg-id="Starz.us" group-title="MOVIES",STARZ
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3649
 #EXTINF:-1 tvg-id="StarzEncore.us" group-title="MOVIES",STARZ ENCORE
@@ -105,11 +103,11 @@ http://ptv.is:2095/t9m28tPG/j4PdbhNF/11900
 #EXTINF:-1 tvg-id="StarzEncoreAction.us" group-title="MOVIES",STARZ ENCORE ACTION
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/95963
 #EXTINF:-1 tvg-id="StarzEncoreFamily.us" group-title="MOVIES",STARZ ENCORE FAMILY
-http://jjkdomain123.one:80/Charlie/Charlie/219360
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24689
 #EXTINF:-1 tvg-id="StarzEncoreSuspense.us" group-title="MOVIES",STARZ ENCORE SUSPENSE
 http://jjkdomain123.one:80/Charlie/Charlie/219358
 #EXTINF:-1 tvg-id="TurnerClassicMovies.us" group-title="MOVIES",TURNER CLASSIC MOVIES
-http://jjkdomain123.one:80/Charlie/Charlie/2769945
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17445
 
 
 #EXTINF:-1 tvg-id="BabyFirstTV.us" group-title="KIDS",BABY FIRST
