@@ -372,89 +372,89 @@ http://51.154.28.81:2052/play/a08w
 
 
 
-#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="ABC" tvg-logo="https://www.seabreezecomputers.com/tv/images/abc.png" group-title="USA",ABC
+#EXTINF:-1 tvg-id="KABC.us" group-title="USA",ABC
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20970
-#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC Network" tvg-logo="https://www.pinclipart.com/picdir/middle/334-3341984_1280px-amc-logo-svg-amc-tv-logo-clipart.png" group-title="USA",AMC Network
+#EXTINF:-1 tvg-id="AMC.us" group-title="USA",AMC Network
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/29171
-#EXTINF:-1 tvg-id="ANT3IHD" tvg-name="ANTENNA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/1200px-Antenna_TV_logo.svg.png" group-title="USA",ANTENNA TV
+#EXTINF:-1 tvg-id="ANT3IHD" group-title="USA",ANTENNA TV
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/52052
-#EXTINF:-1 tvg-id="aspiretv.us" tvg-name="ASPIRE TV" tvg-logo="https://crazylegs.imgix.net/560_07ZrcB_default_aspirepng.png" group-title="USA",ASPIRE TV
+#EXTINF:-1 tvg-id="ASPiRE.us" group-title="USA",ASPIRE TV
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20977
-#EXTINF:-1 tvg-id="AXSTV" tvg-name="AXS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" group-title="USA",AXS TV
+#EXTINF:-1 tvg-id="AXSTV.us" group-title="USA",AXS TV
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20981
-#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC AMERICA" tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/07/BBC-AMERICA-Logo.jpg" group-title="USA",BBC AMERICA
+#EXTINF:-1 tvg-id="BBCAmerica.us" group-title="USA",BBC AMERICA
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20984
-#EXTINF:-1 tvg-id="bet.us" tvg-name="BET" tvg-logo="https://vladar.com/wp-content/uploads/2014/12/BET-Logo.jpg" group-title="USA",BET
+#EXTINF:-1 tvg-id="BET.us" group-title="USA",BET
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20990
-#EXTINF:-1 tvg-id="bether.us" tvg-name="BET HER" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/BET-her.png" group-title="USA",BET HER
+#EXTINF:-1 tvg-id="BETHer.us" group-title="USA",BET HER
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20987
-#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="BOUNCE TV" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/10/515d1f8b-bounce_logo_720x486.jpg" group-title="USA",BOUNCE TV
+#EXTINF:-1 tvg-id="BounceTV.us" group-title="USA",BOUNCE TV
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20994
-#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="CBS NEW YORK" tvg-logo="https://pbs.twimg.com/profile_images/997841169433350144/YNcP_Ort.jpg" group-title="USA",CBS NEW YORK
+#EXTINF:-1 tvg-id="KCBS.us" group-title="USA",CBS
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/26615
-#EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT" tvg-logo="https://cmt.mtvnimages.com/uri/mgid:ao:image:cmt.com:684213?quality=0.85&width=1029&height=581&crop=true" group-title="USA",CMT
+#EXTINF:-1 tvg-id="CMT.us" group-title="USA",CMT
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21005
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="COMEDY CENTRAL" tvg-logo="http://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="USA",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="ComedyCentral.us" group-title="USA",COMEDY CENTRAL
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21010
-#EXTINF:-1 tvg-id="comet.us" tvg-name="COMET TV" tvg-logo="http://www.noreruns.net/wp-content/uploads/2017/03/Comet-Logo.png" group-title="USA",COMET TV
+#EXTINF:-1 tvg-id="Comet.us" group-title="USA",COMET TV
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21011
-#EXTINF:-1 tvg-id="cozitvny.us" tvg-name="COZI TV" tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cozitv-1514327874.png?crop=1.00xw:1.00xh;0,0&resize=1200:*" group-title="USA",COZI TV
+#EXTINF:-1 tvg-id="COZITV.us" group-title="USA",COZI TV
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21014
-#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="FOX" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/01ce151d-afe6-4ee9-83e5-6cac24696fc1" group-title="USA",FOX
+#EXTINF:-1 tvg-id="FOXNet.us" group-title="USA",FOX
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21243
-#EXTINF:-1 tvg-id="freeform.us" tvg-name="FREEFORM" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2016/01/freeformlogo.jpg" group-title="USA",FREEFORM
+#EXTINF:-1 tvg-id="Freeform.us" group-title="USA",FREEFORM
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21044
-#EXTINF:-1 tvg-id="fusion.us" tvg-name="FUSE" tvg-logo="https://imgx.fubo.tv/station_logos/fuse_c.png" group-title="USA",FUSE
+#EXTINF:-1 tvg-id="Fuse.us" group-title="USA",FUSE
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21046
-#EXTINF:-1 tvg-id="FXHD" tvg-name="FX" tvg-logo="https://i.ytimg.com/vi/Ex-YLZfkE8g/maxresdefault.jpg" group-title="USA",FX
+#EXTINF:-1 tvg-id="FX.us" group-title="USA",FX
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21048
-#EXTINF:-1 tvg-id="FXM" tvg-name="FXM" tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="USA",FXM
+#EXTINF:-1 tvg-id="FXM.us" group-title="USA",FXM
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21049
-#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZwsTnUQWiWMJZIc2TYGZFp1dDjmv26N4Fx7voR2bvEevtF43H" group-title="USA",FXX
+#EXTINF:-1 tvg-id="FXX.us" group-title="USA",FXX
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21051
-#EXTINF:-1 tvg-id="fyi.us" tvg-name="FYI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdDfTq9VTrPrGbd8lOyEEnJheOecZKbCcrztBnAlerUxiG2ws6" group-title="USA",FYI
+#EXTINF:-1 tvg-id="FYI.us" group-title="USA",FYI
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21052
-#EXTINF:-1 tvg-id="insp.us" tvg-name="INSP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJZHV6yzgU5yw72caG643lf5JDQqNHVyNw2F1ZhXSTltKF3jQX" group-title="USA",INSP
+#EXTINF:-1 tvg-id="INSP.us" group-title="USA",INSP
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21068
-#EXTINF:-1 tvg-id="ion.us" tvg-name="ION TV" tvg-logo="https://2.bp.blogspot.com/-E__E_oYmXlc/UTWwxOzu9OI/AAAAAAAAY5Y/0Yn3eTdCupY/s1600/Ion+Television+logo+2013.png" group-title="USA",ION TV
+#EXTINF:-1 tvg-id="IONTelevision(Pacific).us" group-title="USA",ION TV
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/29182
-#EXTINF:-1 tvg-id="metv.us" tvg-name="ME TV" tvg-logo="https://metvcdn.metv.com/K7XBG-1567718383-142-uploader-FB_MeTV.jpg" group-title="USA",ME TV
+#EXTINF:-1 tvg-id="metv.us" group-title="USA",ME TV
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21078
-#EXTINF:-1 tvg-id="OXG" tvg-name="OXYGEN EAST" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41foAYh7e9L._SY355_.png" group-title="USA",OXYGEN EAST
+#EXTINF:-1 tvg-id="Oxygen.us" group-title="USA",OXYGEN EAST
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21101
-#EXTINF:-1 tvg-id="PARHD" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/08/paramount-network-logo.jpg" group-title="USA",PARAMOUNT NETWORK
+#EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="USA",PARAMOUNT NETWORK
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21103
-#EXTINF:-1 tvg-id="poptv.us" tvg-name="POP" tvg-logo="https://cdn.poptv.com/1905280072-poptv_header_presslogo.jpg" group-title="USA",POP
+#EXTINF:-1 tvg-id="POP.us" group-title="USA",POP
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21107
-#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="SUNDANCE TV" tvg-logo="https://i.ytimg.com/vi/9WQXzZdli-o/maxresdefault.jpg" group-title="USA",SUNDANCE TV
+#EXTINF:-1 tvg-id="SundanceTV.us" group-title="USA",SUNDANCE TV
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21117
-#EXTINF:-1 tvg-id="WMBD" tvg-name="SYFY" tvg-logo="https://imgx.fubo.tv/station_logos/syfy_c.png" group-title="USA",SYFY
+#EXTINF:-1 tvg-id="SYFY.us" group-title="USA",SYFY
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21118
-#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS EAST" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="USA",TBS EAST
+#EXTINF:-1 tvg-id="TBS.us" group-title="USA",TBS EAST
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21120
-#EXTINF:-1 tvg-id="WPSG" tvg-name="THE CW" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2015/07/The-CW-logo-880x654.png" group-title="USA",THE CW
+#EXTINF:-1 tvg-id="WDCW.us" group-title="USA",THE CW
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/75328
-#EXTINF:-1 tvg-id="TNTHD" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/155px-TNT_TV_logo.svg.png" group-title="USA",TNT
+#EXTINF:-1 tvg-id="TNT.us" group-title="USA",TNT
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21131
-#EXTINF:-1 tvg-id="TRUTVHD" tvg-name="truTV EAST" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/10/trutv-now-on-netflix.png" group-title="USA",truTV EAST
+#EXTINF:-1 tvg-id="truTV.us" group-title="USA",truTV EAST
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21134
-#EXTINF:-1 tvg-id="TVLNDHD" tvg-name="TV LAND" tvg-logo="https://www.kindpng.com/picc/m/21-213172_tv-land-clipart-png-download-tv-land-old.png" group-title="USA",TV LAND
+#EXTINF:-1 tvg-id="TVLand.us" group-title="USA",TV LAND
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21136
-#EXTINF:-1 tvg-id="tvone.us" tvg-name="TV One" tvg-logo="https://2.bp.blogspot.com/-DGvUuw23L9I/Tc9R3f0olfI/AAAAAAAADoE/atEdteoJR-Y/w1200-h630-p-k-no-nu/TVONE+08.jpg" group-title="USA",TV One
+#EXTINF:-1 tvg-id="TVONE.us" group-title="USA",TV One
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21137
-#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/USA_Network_logo_original.svg/1280px-USA_Network_logo_original.svg.png" group-title="USA",USA NETWORK
+#EXTINF:-1 tvg-id="USANetwork.us" group-title="USA",USA NETWORK
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21143
-#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1 (East)" tvg-logo="https://cdn.vox-cdn.com/thumbor/D6zAM_B5_ylO0BmsxvgVm6XmjlA=/0x46:500x379/1200x800/filters:focal(0x46:500x379)/cdn.vox-cdn.com/assets/4020833/1377292_10151782181788375_530158935_n.png" group-title="USA",VH1 (East)
+#EXTINF:-1 tvg-id="VH1.us" group-title="USA",VH1
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21145
-#EXTINF:-1 tvg-id="wetv.us" tvg-name="WE tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/WE_tv.svg/1200px-WE_tv.svg.png" group-title="USA",WE tv
+#EXTINF:-1 tvg-id="WEtv.us" group-title="USA",WE tv
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21149
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="WGN AMERICA" tvg-logo="https://wgnamerica.com/wp-content/uploads/2019/04/399ba294-6a5b-11e6-aa42-0269e4238363.jpg" group-title="USA",WGN AMERICA
+#EXTINF:-1 tvg-id="WGNODT.us" group-title="USA",WGN AMERICA
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21151
-#EXTINF:-1 tvg-id="cw11wpix.us" tvg-name="WPIX 11 NY" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/7908d23/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F02%2F60%2F664e4b0147ed88d7b4d74c57d768%2Fwpix-default-image-1280x720.png" group-title="USA",WPIX 11 NY
+#EXTINF:-1 tvg-id="WPIX.us" group-title="USA",WPIX 11 NY
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21152
 
 
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="CINEMAX (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="Movie Channel",CINEMAX (East)
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="Movie Channel",CINEMAX
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21199
 #EXTINF:-1 tvg-id="5starmax.us" tvg-name="CINEMAX 5 STARMAX" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-5-starmax-8614.jpg" group-title="Movie Channel",CINEMAX 5 STARMAX
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21201
@@ -486,7 +486,7 @@ http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/25444
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/25445
 #EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="HDNet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/HDNET_Movies_Logo.png/220px-HDNET_Movies_Logo.png" group-title="Movie Channel",HDNet
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/48654
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO (East)" tvg-logo="https://www.yonkerstribune.com/wp-content/uploads/2015/07/HBO_logo.png" group-title="Movie Channel",HBO (East)
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO" tvg-logo="https://www.yonkerstribune.com/wp-content/uploads/2015/07/HBO_logo.png" group-title="Movie Channel",HBO
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21262
 #EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Movie Channel",HBO 2
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21265
@@ -509,7 +509,7 @@ http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50526
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21074
 #EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="https://imgx.fubo.tv/station_logos/lifetime_movie_network19_c.png" group-title="USA",LIFETIME MOVIE NETWORK
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21073
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="SHOWTIME (East)" tvg-logo="https://i.imgur.com/cHKGKMb.png" group-title="Movie Channel",SHOWTIME (East)
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="SHOWTIME" tvg-logo="https://i.imgur.com/cHKGKMb.png" group-title="Movie Channel",SHOWTIME
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21320
 #EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="https://i.imgur.com/ccBpJKN.png" group-title="Movie Channel",SHOWTIME 2
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21323
@@ -527,7 +527,7 @@ http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21329
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21324
 #EXTINF:-1 tvg-id="SONYHD" tvg-name="Sony Movie Channel" tvg-logo="https://imgx.fubo.tv/station_logos/sony-movie-channel_c.png" group-title="Movie Channel",Sony Movie Channel
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/37725
-#EXTINF:-1 tvg-id="starz.us" tvg-name="STARZ (East)" tvg-logo="https://i.imgur.com/JVbYOdK.png" group-title="Movie Channel",STARZ (East)
+#EXTINF:-1 tvg-id="starz.us" tvg-name="STARZ" tvg-logo="https://i.imgur.com/JVbYOdK.png" group-title="Movie Channel",STARZ
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21341
 #EXTINF:-1 tvg-id="starzcinema.us" tvg-name="STARZ CINEMA" tvg-logo="https://i.imgur.com/Wg83S2c.png" group-title="Movie Channel",STARZ CINEMA
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21343
@@ -717,3 +717,4 @@ http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58580
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50215
 #EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://media.threatpost.com/wp-content/uploads/sites/103/2019/04/18162023/weather-channel1.jpg" group-title="USA",THE WEATHER CHANNEL
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21128
+
