@@ -372,201 +372,348 @@ http://51.154.28.81:2052/play/a08w
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ABC Chicago USA" tvg-logo="" group-title="ENTERTAINMENT",ABC Chicago USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3598
-#EXTINF:-1 tvg-id="" tvg-name="ABC Detroit USA" tvg-logo="" group-title="ENTERTAINMENT",ABC Detroit USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3594
-#EXTINF:-1 tvg-id="" tvg-name="AMC USA" tvg-logo="" group-title="ENTERTAINMENT",AMC USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3637
-#EXTINF:-1 tvg-id="" tvg-name="BBC AMERICA USA" tvg-logo="" group-title="ENTERTAINMENT",BBC AMERICA USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3607
-#EXTINF:-1 tvg-id="" tvg-name="BRAVO USA" tvg-logo="" group-title="ENTERTAINMENT",BRAVO USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3618
-#EXTINF:-1 tvg-id="" tvg-name="CBS Chicago USA" tvg-logo="" group-title="ENTERTAINMENT",CBS Chicago USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3601
-#EXTINF:-1 tvg-id="" tvg-name="CBS Detroit USA" tvg-logo="" group-title="ENTERTAINMENT",CBS Detroit USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3597
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL USA" tvg-logo="" group-title="ENTERTAINMENT",COMEDY CENTRAL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3612
-#EXTINF:-1 tvg-id="" tvg-name="FOX Detroit USA" tvg-logo="" group-title="ENTERTAINMENT",FOX Detroit USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3595
-#EXTINF:-1 tvg-id="" tvg-name="FOX Chicago USA" tvg-logo="" group-title="ENTERTAINMENT",FOX Chicago USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3599
-#EXTINF:-1 tvg-id="" tvg-name="Freeform USA" tvg-logo="" group-title="ENTERTAINMENT",Freeform USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3701
-#EXTINF:-1 tvg-id="" tvg-name="FX USA" tvg-logo="" group-title="ENTERTAINMENT",FX USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3638
-#EXTINF:-1 tvg-id="" tvg-name="FXM USA" tvg-logo="" group-title="ENTERTAINMENT",FXM USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3642
-#EXTINF:-1 tvg-id="" tvg-name="FXX USA" tvg-logo="" group-title="ENTERTAINMENT",FXX USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3639
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK USA" tvg-logo="" group-title="ENTERTAINMENT",PARAMOUNT NETWORK USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3641
-#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE USA" tvg-logo="" group-title="ENTERTAINMENT",SUNDANCE USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3643
-#EXTINF:-1 tvg-id="" tvg-name="SYFY USA" tvg-logo="" group-title="ENTERTAINMENT",SYFY USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3640
-#EXTINF:-1 tvg-id="" tvg-name="TBS USA" tvg-logo="" group-title="ENTERTAINMENT",TBS USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3611
-#EXTINF:-1 tvg-id="" tvg-name="THE CW USA" tvg-logo="" group-title="ENTERTAINMENT",THE CW USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3602
-#EXTINF:-1 tvg-id="" tvg-name="TNT USA" tvg-logo="" group-title="ENTERTAINMENT",TNT USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3606
-#EXTINF:-1 tvg-id="" tvg-name="TRU TV USA" tvg-logo="" group-title="ENTERTAINMENT",TRU TV USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3610
-#EXTINF:-1 tvg-id="" tvg-name="USA Network USA" tvg-logo="" group-title="ENTERTAINMENT",USA Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3605
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="ABC" tvg-logo="https://www.seabreezecomputers.com/tv/images/abc.png" group-title="USA",ABC
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20970
+#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC Network" tvg-logo="https://www.pinclipart.com/picdir/middle/334-3341984_1280px-amc-logo-svg-amc-tv-logo-clipart.png" group-title="USA",AMC Network
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/29171
+#EXTINF:-1 tvg-id="ANT3IHD" tvg-name="ANTENNA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/1200px-Antenna_TV_logo.svg.png" group-title="USA",ANTENNA TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/52052
+#EXTINF:-1 tvg-id="aspiretv.us" tvg-name="ASPIRE TV" tvg-logo="https://crazylegs.imgix.net/560_07ZrcB_default_aspirepng.png" group-title="USA",ASPIRE TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20977
+#EXTINF:-1 tvg-id="AXSTV" tvg-name="AXS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" group-title="USA",AXS TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20981
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC AMERICA" tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/07/BBC-AMERICA-Logo.jpg" group-title="USA",BBC AMERICA
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20984
+#EXTINF:-1 tvg-id="bet.us" tvg-name="BET" tvg-logo="https://vladar.com/wp-content/uploads/2014/12/BET-Logo.jpg" group-title="USA",BET
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20990
+#EXTINF:-1 tvg-id="bether.us" tvg-name="BET HER" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/BET-her.png" group-title="USA",BET HER
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20987
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="BOUNCE TV" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/10/515d1f8b-bounce_logo_720x486.jpg" group-title="USA",BOUNCE TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20994
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="CBS NEW YORK" tvg-logo="https://pbs.twimg.com/profile_images/997841169433350144/YNcP_Ort.jpg" group-title="USA",CBS NEW YORK
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/26615
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT" tvg-logo="https://cmt.mtvnimages.com/uri/mgid:ao:image:cmt.com:684213?quality=0.85&width=1029&height=581&crop=true" group-title="USA",CMT
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21005
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="COMEDY CENTRAL" tvg-logo="http://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="USA",COMEDY CENTRAL
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21010
+#EXTINF:-1 tvg-id="comet.us" tvg-name="COMET TV" tvg-logo="http://www.noreruns.net/wp-content/uploads/2017/03/Comet-Logo.png" group-title="USA",COMET TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21011
+#EXTINF:-1 tvg-id="cozitvny.us" tvg-name="COZI TV" tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cozitv-1514327874.png?crop=1.00xw:1.00xh;0,0&resize=1200:*" group-title="USA",COZI TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21014
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="FOX" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/01ce151d-afe6-4ee9-83e5-6cac24696fc1" group-title="USA",FOX
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21243
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="FREEFORM" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2016/01/freeformlogo.jpg" group-title="USA",FREEFORM
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21044
+#EXTINF:-1 tvg-id="fusion.us" tvg-name="FUSE" tvg-logo="https://imgx.fubo.tv/station_logos/fuse_c.png" group-title="USA",FUSE
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21046
+#EXTINF:-1 tvg-id="FXHD" tvg-name="FX" tvg-logo="https://i.ytimg.com/vi/Ex-YLZfkE8g/maxresdefault.jpg" group-title="USA",FX
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21048
+#EXTINF:-1 tvg-id="FXM" tvg-name="FXM" tvg-logo="https://www.pinpng.com/pngs/m/76-768859_fx-movies-logo-logo-del-canal-fxm-hd.png" group-title="USA",FXM
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21049
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZwsTnUQWiWMJZIc2TYGZFp1dDjmv26N4Fx7voR2bvEevtF43H" group-title="USA",FXX
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21051
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="FYI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdDfTq9VTrPrGbd8lOyEEnJheOecZKbCcrztBnAlerUxiG2ws6" group-title="USA",FYI
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21052
+#EXTINF:-1 tvg-id="insp.us" tvg-name="INSP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJZHV6yzgU5yw72caG643lf5JDQqNHVyNw2F1ZhXSTltKF3jQX" group-title="USA",INSP
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21068
+#EXTINF:-1 tvg-id="ion.us" tvg-name="ION TV" tvg-logo="https://2.bp.blogspot.com/-E__E_oYmXlc/UTWwxOzu9OI/AAAAAAAAY5Y/0Yn3eTdCupY/s1600/Ion+Television+logo+2013.png" group-title="USA",ION TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/29182
+#EXTINF:-1 tvg-id="metv.us" tvg-name="ME TV" tvg-logo="https://metvcdn.metv.com/K7XBG-1567718383-142-uploader-FB_MeTV.jpg" group-title="USA",ME TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21078
+#EXTINF:-1 tvg-id="OXG" tvg-name="OXYGEN EAST" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41foAYh7e9L._SY355_.png" group-title="USA",OXYGEN EAST
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21101
+#EXTINF:-1 tvg-id="PARHD" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/08/paramount-network-logo.jpg" group-title="USA",PARAMOUNT NETWORK
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21103
+#EXTINF:-1 tvg-id="poptv.us" tvg-name="POP" tvg-logo="https://cdn.poptv.com/1905280072-poptv_header_presslogo.jpg" group-title="USA",POP
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21107
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="SUNDANCE TV" tvg-logo="https://i.ytimg.com/vi/9WQXzZdli-o/maxresdefault.jpg" group-title="USA",SUNDANCE TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21117
+#EXTINF:-1 tvg-id="WMBD" tvg-name="SYFY" tvg-logo="https://imgx.fubo.tv/station_logos/syfy_c.png" group-title="USA",SYFY
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21118
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS EAST" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="USA",TBS EAST
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21120
+#EXTINF:-1 tvg-id="WPSG" tvg-name="THE CW" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2015/07/The-CW-logo-880x654.png" group-title="USA",THE CW
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/75328
+#EXTINF:-1 tvg-id="TNTHD" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/155px-TNT_TV_logo.svg.png" group-title="USA",TNT
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21131
+#EXTINF:-1 tvg-id="TRUTVHD" tvg-name="truTV EAST" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2018/10/trutv-now-on-netflix.png" group-title="USA",truTV EAST
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21134
+#EXTINF:-1 tvg-id="TVLNDHD" tvg-name="TV LAND" tvg-logo="https://www.kindpng.com/picc/m/21-213172_tv-land-clipart-png-download-tv-land-old.png" group-title="USA",TV LAND
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21136
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="TV One" tvg-logo="https://2.bp.blogspot.com/-DGvUuw23L9I/Tc9R3f0olfI/AAAAAAAADoE/atEdteoJR-Y/w1200-h630-p-k-no-nu/TVONE+08.jpg" group-title="USA",TV One
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21137
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/USA_Network_logo_original.svg/1280px-USA_Network_logo_original.svg.png" group-title="USA",USA NETWORK
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21143
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1 (East)" tvg-logo="https://cdn.vox-cdn.com/thumbor/D6zAM_B5_ylO0BmsxvgVm6XmjlA=/0x46:500x379/1200x800/filters:focal(0x46:500x379)/cdn.vox-cdn.com/assets/4020833/1377292_10151782181788375_530158935_n.png" group-title="USA",VH1 (East)
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21145
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="WE tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/WE_tv.svg/1200px-WE_tv.svg.png" group-title="USA",WE tv
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21149
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="WGN AMERICA" tvg-logo="https://wgnamerica.com/wp-content/uploads/2019/04/399ba294-6a5b-11e6-aa42-0269e4238363.jpg" group-title="USA",WGN AMERICA
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21151
+#EXTINF:-1 tvg-id="cw11wpix.us" tvg-name="WPIX 11 NY" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/7908d23/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F02%2F60%2F664e4b0147ed88d7b4d74c57d768%2Fwpix-default-image-1280x720.png" group-title="USA",WPIX 11 NY
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21152
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX USA" tvg-logo="" group-title="MOVIES",CINEMAX USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3648
-#EXTINF:-1 tvg-id="" tvg-name="EPIX USA" tvg-logo="" group-title="MOVIES",EPIX USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3650
-#EXTINF:-1 tvg-id="" tvg-name="HALLMARK USA" tvg-logo="" group-title="MOVIES",HALLMARK USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3615
-#EXTINF:-1 tvg-id="" tvg-name="HBO USA" tvg-logo="" group-title="MOVIES",HBO USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3646
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family USA" tvg-logo="" group-title="MOVIES",HBO Family USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3702
-#EXTINF:-1 tvg-id="" tvg-name="IFC USA" tvg-logo="" group-title="MOVIES",IFC USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3644
-#EXTINF:-1 tvg-id="" tvg-name="INDIE PLEX USA" tvg-logo="" group-title="MOVIES",INDIE PLEX USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3651
-#EXTINF:-1 tvg-id="" tvg-name="Longhorn Network USA" tvg-logo="" group-title="MOVIES",Longhorn Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3676
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME USA" tvg-logo="" group-title="MOVIES",LIFETIME USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3616
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME USA" tvg-logo="" group-title="MOVIES",SHOWTIME USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3647
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Family Zone USA" tvg-logo="" group-title="MOVIES",Showtime Family Zone USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3703
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES USA" tvg-logo="" group-title="MOVIES",SONY MOVIES USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3645
-#EXTINF:-1 tvg-id="" tvg-name="STARZ USA" tvg-logo="" group-title="MOVIES",STARZ USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3649
-#EXTINF:-1 tvg-id="" tvg-name="Starz Kids & Family USA" tvg-logo="" group-title="MOVIES",Starz Kids & Family USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3704
-#EXTINF:-1 tvg-id="" tvg-name="THE MOVIE CHANNEL USA" tvg-logo="" group-title="MOVIES",THE MOVIE CHANNEL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3652
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="CINEMAX (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="Movie Channel",CINEMAX (East)
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21199
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="CINEMAX 5 STARMAX" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-5-starmax-8614.jpg" group-title="Movie Channel",CINEMAX 5 STARMAX
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21201
+#EXTINF:-1 tvg-id="actionmax.us" tvg-name="ActionMax" tvg-logo="https://engage.brctv.com/sites/default/files/channel-lineup/logos/2019-08/actionmax_blackonyellow.jpg" group-title="Movie Channel",ActionMax
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50520
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="MOREMAX" tvg-logo="https://i.imgur.com/N5mnjZA.png" group-title="Movie Channel",MOREMAX
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50521
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="MOVIEMAX" tvg-logo="https://www.gntnigeria.com/certifications/moviemax/MovieMax_Latin_Atlansia.png" group-title="Movie Channel",MOVIEMAX
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50522
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="OUTERMAX" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/outermax-300x300.png" group-title="Movie Channel",OUTERMAX
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50523
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="THRILLERMAX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/db/ThrillerMax_2016.png/revision/latest?cb=20180120190010" group-title="Movie Channel",THRILLERMAX
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50524
+#EXTINF:-1 tvg-id="CNSNY" tvg-name="Cine Sony" tvg-logo="https://imgx.fubo.tv/station_logos/cine_sony_c.png" group-title="Movie Channel",Cine Sony
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50178
+#EXTINF:-1 tvg-id="EPIXHD" tvg-name="EPIX" tvg-logo="https://static.epg.best/us/EPIX.us.png" group-title="Movie Channel",EPIX
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21220
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="EPIX 2" tvg-logo="https://www.pesdish.com/wp-content/uploads/2016/04/epix2.png" group-title="Movie Channel",EPIX 2
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21221
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="EPIX DRIVE-IN" tvg-logo="http://p-img.movetv.com/cms/images/b41d04c13afa809c39cc92ddfc2e1187a4c0d872.png" group-title="Movie Channel",EPIX DRIVE-IN
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21222
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="EPIX HITS" tvg-logo="https://hd-report.com/wp-content/uploads/2015/09/epix-hits-logo.jpg" group-title="Movie Channel",EPIX HITS
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21223
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="HALLMARK CHANNEL" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/hallmark-channel-logo.jpg" group-title="USA",HALLMARK CHANNEL
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21059
+#EXTINF:-1 tvg-id="hallmarkdrama.us" tvg-name="HALLMARK DRAMA" tvg-logo="https://cdn.crownmediadev.com/82/b8/efefd2a143af9dd2ee62488d3358/hp17-slide-hallmarkdrama-853x570-02-f.jpg" group-title="USA",HALLMARK DRAMA
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/25444
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="HALLMARK MOVIES & MYSTERIES" tvg-logo="https://webfileswest.uswest.os.ctl.io/corporate.hallmark.com/wp-content/uploads/2017/10/CrownMedia-Tabs-HMKMoviesMysteries.jpg" group-title="USA",HALLMARK MOVIES & MYSTERIES
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/25445
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="HDNet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/HDNET_Movies_Logo.png/220px-HDNET_Movies_Logo.png" group-title="Movie Channel",HDNet
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/48654
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO (East)" tvg-logo="https://www.yonkerstribune.com/wp-content/uploads/2015/07/HBO_logo.png" group-title="Movie Channel",HBO (East)
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21262
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Movie Channel",HBO 2
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21265
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO Comedy" tvg-logo="https://archive.org/download/HboComedy/hbo%20comedy.png" group-title="Movie Channel",HBO Comedy
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50518
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO FAMILY" tvg-logo="https://www.pngkit.com/png/detail/223-2235572_mira-hbo-family-online-desde-tu-dispositivo-gratis.png" group-title="Movie Channel",HBO FAMILY
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21266
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE" tvg-logo="https://www.nicepng.com/png/detail/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png" group-title="Movie Channel",HBO SIGNATURE
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21267
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="Movie Channel",HBO Zone
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50519
+#EXTINF:-1 tvg-id="IFC" tvg-name="IFC" tvg-logo="https://e7.pngegg.com/pngimages/494/127/png-clipart-ifc-television-show-television-comedy-film-atat-uuml-rk-miscellaneous-television.png" group-title="USA",IFC
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21067
+#EXTINF:-1 tvg-id="indieplex.us" tvg-name="IndiePlex" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/indiexplex.png" group-title="Movie Channel",IndiePlex
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/48615
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="MoviePlex" tvg-logo="https://i1.pngguru.com/preview/610/415/806/tv-channel-icons-pack-starz-movieplex-color-png-icon.jpg" group-title="Movie Channel",MoviePlex
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/48616#EXTINF:-1 tvg-id="retroplex.us" tvg-name="RETROPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Retroplex_logo.png" group-title="Movie Channel",RETROPLEX
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50526
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="LIFETIME" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2020/01/lifetime-vector-logo.png" group-title="USA",LIFETIME
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21074
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="https://imgx.fubo.tv/station_logos/lifetime_movie_network19_c.png" group-title="USA",LIFETIME MOVIE NETWORK
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21073
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="SHOWTIME (East)" tvg-logo="https://i.imgur.com/cHKGKMb.png" group-title="Movie Channel",SHOWTIME (East)
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21320
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="https://i.imgur.com/ccBpJKN.png" group-title="Movie Channel",SHOWTIME 2
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21323
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="https://i.imgur.com/EnCoHPW.png" group-title="Movie Channel",SHOWTIME EXTREME
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21325
+#EXTINF:-1 tvg-id="rshowtimefamilyzone.us" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="https://www.pngkey.com/png/detail/0-1892_showtime-family-zone-logo.png" group-title="Movie Channel",SHOWTIME FAMILY ZONE
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21326
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="SHOWTIME NEXT" tvg-logo="https://i.imgur.com/xTviu42.png" group-title="Movie Channel",SHOWTIME NEXT
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21327
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="SHOWTIME SHOWCASE" tvg-logo="https://i.imgur.com/cHKGKMb.png" group-title="Movie Channel",SHOWTIME SHOWCASE
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21328
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="SHOWTIME WOMEN" tvg-logo="https://i.imgur.com/PzL8kOR.png" group-title="Movie Channel",SHOWTIME WOMEN
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21329
+#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="SHOxBET" tvg-logo="https://i.imgur.com/PoLjo8o.png" group-title="Movie Channel",SHOxBET
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21324
+#EXTINF:-1 tvg-id="SONYHD" tvg-name="Sony Movie Channel" tvg-logo="https://imgx.fubo.tv/station_logos/sony-movie-channel_c.png" group-title="Movie Channel",Sony Movie Channel
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/37725
+#EXTINF:-1 tvg-id="starz.us" tvg-name="STARZ (East)" tvg-logo="https://i.imgur.com/JVbYOdK.png" group-title="Movie Channel",STARZ (East)
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21341
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="STARZ CINEMA" tvg-logo="https://i.imgur.com/Wg83S2c.png" group-title="Movie Channel",STARZ CINEMA
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21343
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="Starz Comedy" tvg-logo="https://i.imgur.com/6CpqTqh.png" group-title="Movie Channel",Starz Comedy
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/41146
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="STARZ EDGE" tvg-logo="https://i.imgur.com/32vUR3n.png" group-title="Movie Channel",STARZ EDGE
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21345
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="STARZ ENCORE" tvg-logo="https://i.imgur.com/Vczsq91.png" group-title="Movie Channel",STARZ ENCORE
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21346
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="Starz Encore Action" tvg-logo="https://i.imgur.com/MEcLRLq.png" group-title="Movie Channel",Starz Encore Action
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/41147
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="STARZ ENCORE BLACK" tvg-logo="https://i.imgur.com/3g09iwe.png" group-title="Movie Channel",STARZ ENCORE BLACK
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21348
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="Starz Encore Classic" tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/Encore-Classic.png" group-title="Movie Channel",Starz Encore Classic
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50525
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="STARZ ENCORE FAMILY" tvg-logo="https://i.imgur.com/4Z8UyXC.png" group-title="Movie Channel",STARZ ENCORE FAMILY
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21350
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="STARZ ENCORE SUSPENSE" tvg-logo="https://i.imgur.com/bS3mwWt.png" group-title="Movie Channel",STARZ ENCORE SUSPENSE
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21351
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="https://i.imgur.com/DhSluI9.png" group-title="Movie Channel",STARZ ENCORE WESTERNS
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21353
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="STARZ IN BLACK" tvg-logo="https://i.imgur.com/zDdTZ2r.png" group-title="Movie Channel",STARZ IN BLACK
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21354
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="STARZ KIDS & FAMILY" tvg-logo="https://i.imgur.com/40QmLEu.png" group-title="Movie Channel",STARZ KIDS & FAMILY
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21355
+#EXTINF:-1 tvg-id="TCMHD" tvg-name="TCM" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/turner-classic-movies-tcm-vector-logo.png" group-title="USA",TCM
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21122
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Baby First USA" tvg-logo="" group-title="USA-New",Baby First USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3689
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang USA" tvg-logo="" group-title="KIDS",Boomerang USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3698
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network USA" tvg-logo="" group-title="KIDS",Cartoon Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3699
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel USA" tvg-logo="" group-title="KIDS",Disney Channel USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3691
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior USA" tvg-logo="" group-title="KIDS",Disney Junior USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3693
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD USA" tvg-logo="" group-title="KIDS",Disney XD USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3692
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon USA" tvg-logo="" group-title="KIDS",Nickelodeon USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3694
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr USA" tvg-logo="" group-title="KIDS",Nick Jr USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3695
-#EXTINF:-1 tvg-id="" tvg-name="Nicktoons USA" tvg-logo="" group-title="KIDS",Nicktoons USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3696
-#EXTINF:-1 tvg-id="" tvg-name="TeenNick USA" tvg-logo="" group-title="KIDS",TeenNick USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3697
-#EXTINF:-1 tvg-id="" tvg-name="PBS Kids USA" tvg-logo="" group-title="KIDS",PBS Kids USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3690
-#EXTINF:-1 tvg-id="" tvg-name="Universal Kids USA" tvg-logo="" group-title="KIDS",Universal Kids USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3700
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="BABY FIRST" tvg-logo="https://imag.malavida.com/mvimgbig/download-fs/babytv-22214-1.jpg" group-title="KIDZ",BABY FIRST
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20983
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="BOOMERANG" tvg-logo="https://imgx.fubo.tv/station_logos/boomerang_c.png" group-title="KIDZ",BOOMERANG
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20993
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="CARTOON NETWORK EAST" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="KIDZ",CARTOON NETWORK EAST
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20999
+#EXTINF:-1 tvg-id="DISN" tvg-name="DISNEY CHANNEL EAST" tvg-logo="https://i.ytimg.com/vi/grTOEd3twlo/maxresdefault.jpg" group-title="KIDZ",DISNEY CHANNEL EAST
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21025
+#EXTINF:-1 tvg-id="DJCHHD" tvg-name="DISNEY JR" tvg-logo="http://www.logotypes101.com/free_vector_logo_png/104695/045E0B88FFA7AC043C07D8F63B13B114/Disney_Junior" group-title="KIDZ",DISNEY JR
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21028
+#EXTINF:-1 tvg-id="DXDHD" tvg-name="DISNEY XD EAST" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2019/08/disney-xd-vector-logo.png" group-title="KIDZ",DISNEY XD EAST
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21029
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="NICKELODEON" tvg-logo="https://imgx.fubo.tv/station_logos/nickelodeon_c.png" group-title="KIDZ",NICKELODEON
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21095
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="NICK JR" tvg-logo="https://imgx.fubo.tv/station_logos/nickjr_c.png" group-title="KIDZ",NICK JR
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21090
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="NICK TOONS" tvg-logo="https://imgx.fubo.tv/station_logos/nicktoons_c.png" group-title="KIDZ",NICK TOONS
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21093
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="TEEN NICK" tvg-logo="https://i.ytimg.com/vi/zHeH_sDeZqE/maxresdefault.jpg" group-title="USA",TEEN NICK
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21123
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="PBS KIDS" tvg-logo="https://www.logolynx.com/images/logolynx/64/6484331e33fe80972532b38f9820cda1.png" group-title="KIDZ",PBS KIDS
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21104
+#EXTINF:-1 tvg-id="SPR" tvg-name="UNIVERSAL KIDS" tvg-logo="https://media-exp1.licdn.com/dms/image/C561BAQGSeBiWKDl_sA/company-background_10000/0?e=2159024400&v=beta&t=O1xd1LOesgf_RXcLABgrpdQ77JVxD7KQnZ-ggb1pJto" group-title="KIDZ",UNIVERSAL KIDS
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21141
 
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E USA" tvg-logo="" group-title="DOCUMENTARIES",A&E USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3604
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET USA" tvg-logo="" group-title="DOCUMENTARIES",ANIMAL PLANET USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3626
-#EXTINF:-1 tvg-id="" tvg-name="COOKING CHANNEL USA" tvg-logo="" group-title="DOCUMENTARIES",COOKING CHANNEL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3632
-#EXTINF:-1 tvg-id="" tvg-name="DESTINATION AMERICA USA" tvg-logo="" group-title="DOCUMENTARIES",DESTINATION AMERICA USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3629
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL USA" tvg-logo="" group-title="DOCUMENTARIES",DISCOVERY CHANNEL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3622
-#EXTINF:-1 tvg-id="" tvg-name="DIY USA" tvg-logo="" group-title="DOCUMENTARIES",DIY USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3635
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK USA" tvg-logo="" group-title="DOCUMENTARIES",FOOD NETWORK USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3631
-#EXTINF:-1 tvg-id="" tvg-name="HGTV USA" tvg-logo="" group-title="DOCUMENTARIES",HGTV USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3634
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY USA" tvg-logo="" group-title="DOCUMENTARIES",HISTORY USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3628
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO USA" tvg-logo="" group-title="DOCUMENTARIES",NAT GEO USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3623
-#EXTINF:-1 tvg-id="" tvg-name="OWN USA" tvg-logo="" group-title="DOCUMENTARIES",OWN USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3619
-#EXTINF:-1 tvg-id="" tvg-name="ID USA" tvg-logo="" group-title="DOCUMENTARIES",ID USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3624
-#EXTINF:-1 tvg-id="" tvg-name="PBS USA" tvg-logo="" group-title="DOCUMENTARIES",PBS USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3603
-#EXTINF:-1 tvg-id="" tvg-name="POP USA" tvg-logo="" group-title="DOCUMENTARIES",POP USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3608
-#EXTINF:-1 tvg-id="" tvg-name="SCIENCE USA" tvg-logo="" group-title="DOCUMENTARIES",SCIENCE USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3625
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL USA" tvg-logo="" group-title="DOCUMENTARIES",TRAVEL CHANNEL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3633
-#EXTINF:-1 tvg-id="" tvg-name="TLC USA" tvg-logo="" group-title="DOCUMENTARIES",TLC USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3614
-#EXTINF:-1 tvg-id="" tvg-name="VICE USA" tvg-logo="" group-title="DOCUMENTARIES",VICE USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3613
-#EXTINF:-1 tvg-id="" tvg-name="WE TV USA" tvg-logo="" group-title="DOCUMENTARIES",WE TV USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3609
+#EXTINF:-1 tvg-id="aande.us" tvg-name="A&E" tvg-logo="https://imgx.fubo.tv/station_logos/a_e_c.png" group-title="USA",A&E
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20971
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="AMERICAN HEROES CHANNEL" tvg-logo="https://imgx.fubo.tv/station_logos/animal-planet_c.png" group-title="USA",AMERICAN HEROES CHANNEL
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20974
+#EXTINF:-1 tvg-id="APLHD" tvg-name="ANIMAL PLANET" tvg-logo="https://imgx.fubo.tv/station_logos/animal-planet_c.png" group-title="USA",ANIMAL PLANET
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20975
+#EXTINF:-1 tvg-id="awe.us" tvg-name="AWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg" group-title="USA",AWE
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/28515
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="BRAVO" tvg-logo="https://www.pngkey.com/png/detail/87-877271_bravo-iptv-channel-bravo-channel-logo-png-logo.png" group-title="USA",BRAVO
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20996
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="COOKING CHANNEL" tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/10/COOK_BrandLogo_Black_US_master-rev-1.png" group-title="USA",COOKING CHANNEL
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21012
+#EXTINF:-1 tvg-id="court.us" tvg-name="COURT TV" tvg-logo="https://storage.googleapis.com/www-courttv-uploads/2019/05/4038d65d-courttv_logo_800x800.jpg" group-title="USA",COURT TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21039
+#EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="CRIME & INVESTIGATION" tvg-logo="http://frosat.net/images/logotv/original/crime_investigation_network_uk_hd.jpg" group-title="USA",CRIME & INVESTIGATION
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21015
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="DESTINATION AMERICA" tvg-logo="https://img.favpng.com/25/10/20/logo-destination-america-brand-television-channel-png-favpng-4V6AycsZH3X6Ua9mBHhJHJzCq.jpg" group-title="USA",DESTINATION AMERICA
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21018
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="DISCOVERY" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png" group-title="USA",DISCOVERY
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21024
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="DISCOVERY FAMILY" tvg-logo="https://img.over-blog-kiwi.com/0/87/49/59/20170809/ob_6cd627_discovery-family.jpg" group-title="USA",DISCOVERY FAMILY
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21020
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="DISCOVERY LIFE" tvg-logo="https://www.nicepng.com/png/detail/134-1341779_discovery-life-channel-us-logo-discovery-life-channel.png" group-title="USA",DISCOVERY LIFE
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21021
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www.nicepng.com/png/detail/15-153394_discovery-science-discovery-science-tv-logo.png" group-title="USA",DISCOVERY SCIENCE
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21022
+#EXTINF:-1 tvg-id="DIYHD" tvg-name="DIY NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXAO0Vw-M6kmDHDMbSKp0ztKyf3jSGMFlksas6JcA3PwW5lX1&s" group-title="USA",DIY NETWORK
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21031
+#EXTINF:-1 tvg-id="FOODPHD" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Food_Network_-_Logo_2016.png/475px-Food_Network_-_Logo_2016.png" group-title="USA",FOOD NETWORK
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21040
+#EXTINF:-1 tvg-id="GETTV" tvg-name="getTV" tvg-logo="https://imgx.fubo.tv/station_logos/getTV_c.png" group-title="USA",getTV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50199
+#EXTINF:-1 tvg-id="GRIT" tvg-name="Grit TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png" group-title="USA",Grit TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/52151
+#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="Heroes & Icons" tvg-logo="https://www.sitcomsonline.com/photos/heroesandiconslogo2.jpg" group-title="USA",Heroes & Icons
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/48557
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV" tvg-logo="https://cdn.realscreen.com/wp/wp-content/uploads/2020/01/HGTV1.jpg?3111af" group-title="USA",HGTV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21063
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="HISTORY CHANNEL" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-8sX_-LEg0EejHhjueyB69ntrn97Adcn8qog=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA",HISTORY CHANNEL
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21065
+#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN" tvg-logo="https://imgx.fubo.tv/station_logos/hln_c.png" group-title="USA",HLN
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21066
+#EXTINF:-1 tvg-id="hsn.home.shopping.network.us" tvg-name="HSN" tvg-logo="https://rattlesnaketime.files.wordpress.com/2014/11/halden-zimmermann-hsn.png" group-title="USA",HSN
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/29170
+#EXTINF:-1 tvg-id="INSIUHD" tvg-name="Insight TV" tvg-logo="https://imgx.fubo.tv/station_logos/insight_tv_2020_c.png" group-title="USA",Insight TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50204
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://mpng.subpng.com/20180425/kce/kisspng-investigation-discovery-television-show-television-id-5ae02359c8ac76.729127991524638553822.jpg" group-title="USA",INVESTIGATION DISCOVERY
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21069
+#EXTINF:-1 tvg-id="justicecentral.us" tvg-name="JUSTICE CENTRAL" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg" group-title="USA",JUSTICE CENTRAL
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21071
+#EXTINF:-1 tvg-id="LAFF" tvg-name="LAFF" tvg-logo="https://www.laff.com/wp-content/uploads/2015/04/laff-logov2.jpg" group-title="USA",LAFF
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50463
+#EXTINF:-1 tvg-id="LAWC" tvg-name="Law & Crime" tvg-logo="https://imgx.fubo.tv/station_logos/law_crime_c.png" group-title="USA",Law & Crime
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/49425
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/national-geographic-symbol.jpg" group-title="USA",NATIONAL GEOGRAPHIC
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21087
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="NAT GEO WILD" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/nat-geo-wild.jpg" group-title="USA",NAT GEO WILD
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21086
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="OUTSIDE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnfarnxj2n9wGfMhTQADRdeP3YeMgDwX5RLw&usqp=CAU" group-title="USA",OUTSIDE TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21098
+#EXTINF:-1 tvg-id="OWNHD" tvg-name="OWN" tvg-logo="https://static.oprah.com/images/OWN_2/images/own-generic-568x320.jpg" group-title="USA",OWN
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21100
+#EXTINF:-1 tvg-id="afrotv.us" tvg-name="PBS" tvg-logo="http://venomhosting.services/guide_files/guide_logo/NEWLOGOS/PBS.png" group-title="USA",PBS
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/87020
+#EXTINF:-1 tvg-id="REELZ" tvg-name="REELZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Reelz_Channel.svg/1200px-Reelz_Channel.svg.png" group-title="USA",REELZ
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21110
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="REVOLT" tvg-logo="https://exstreamist.com/wp-content/uploads/2017/08/watch-revolt-online.png" group-title="USA",REVOLT
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21112
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="USA",Smithsonian Channel
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/41871
+#EXTINF:-1 tvg-id="TASTE" tvg-name="TASTEMADE" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/06/Tastemade-Logo-New-600x375.png" group-title="USA",TASTEMADE
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21119
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="TLC" tvg-logo="https://banner2.cleanpng.com/20180622/wp/kisspng-tlc-television-show-television-channel-discovery-c-5b2dbdc760d131.0937740515297243593966.jpg" group-title="USA",TLC
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21130
+#EXTINF:-1 tvg-id="travelchannel.us" tvg-name="TRAVEL CHANNEL" tvg-logo="https://imgx.fubo.tv/station_logos/travel_channel_c.png" group-title="USA",TRAVEL CHANNEL
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21133
+#EXTINF:-1 tvg-id="viceland.us" tvg-name="VICELAND" tvg-logo="https://imgx.fubo.tv/station_logos/viceland_c.png" group-title="USA",VICELAND
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21147
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ACC Network USA" tvg-logo="" group-title="SPORTS",ACC Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3675
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports USA" tvg-logo="" group-title="SPORTS",BeIN Sports USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3677
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Xtra USA" tvg-logo="" group-title="SPORTS",BeIN Sports Xtra USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3678
-#EXTINF:-1 tvg-id="" tvg-name="Big Ten Network USA" tvg-logo="" group-title="SPORTS",Big Ten Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3674
-#EXTINF:-1 tvg-id="" tvg-name="CBS Sports USA" tvg-logo="" group-title="SPORTS",CBS Sports USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3663
-#EXTINF:-1 tvg-id="" tvg-name="ESPN USA" tvg-logo="" group-title="SPORTS",ESPN USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3683
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 USA" tvg-logo="" group-title="SPORTS",ESPN 2 USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3684
-#EXTINF:-1 tvg-id="" tvg-name="ESPN News USA" tvg-logo="" group-title="SPORTS",ESPN News USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3654
-#EXTINF:-1 tvg-id="" tvg-name="ESPN U USA" tvg-logo="" group-title="SPORTS",ESPN U USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3655
-#EXTINF:-1 tvg-id="" tvg-name="Fight Network USA" tvg-logo="" group-title="SPORTS",Fight Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3681
-#EXTINF:-1 tvg-id="" tvg-name="FS1 USA" tvg-logo="" group-title="SPORTS",FS1 USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3660
-#EXTINF:-1 tvg-id="" tvg-name="FS2 USA" tvg-logo="" group-title="SPORTS",FS2 USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3661
-#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus USA" tvg-logo="" group-title="SPORTS",Fox Soccer Plus USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3688
-#EXTINF:-1 tvg-id="" tvg-name="MLB USA" tvg-logo="" group-title="SPORTS",MLB USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3658
-#EXTINF:-1 tvg-id="" tvg-name="MOTORTREND USA" tvg-logo="" group-title="SPORTS",MOTORTREND USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3636
-#EXTINF:-1 tvg-id="" tvg-name="NBA USA" tvg-logo="" group-title="SPORTS",NBA USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3657
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports USA" tvg-logo="" group-title="SPORTS",NBC Sports USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3662
-#EXTINF:-1 tvg-id="" tvg-name="NBC Golf USA" tvg-logo="" group-title="SPORTS",NBC Golf USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3679
-#EXTINF:-1 tvg-id="" tvg-name="NESN USA" tvg-logo="" group-title="SPORTS",NESN USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3667
-#EXTINF:-1 tvg-id="" tvg-name="NFL USA" tvg-logo="" group-title="SPORTS",NFL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3656
-#EXTINF:-1 tvg-id="" tvg-name="NHL USA" tvg-logo="" group-title="SPORTS",NHL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3659
-#EXTINF:-1 tvg-id="" tvg-name="SEC Network USA" tvg-logo="" group-title="SPORTS",SEC Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3686
-#EXTINF:-1 tvg-id="" tvg-name="Tennis USA" tvg-logo="" group-title="SPORTS",Tennis USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3680
-#EXTINF:-1 tvg-id="" tvg-name="WWE USA" tvg-logo="" group-title="SPORTS",WWE USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3682
+#EXTINF:-1 tvg-id="cspan.us" tvg-name="C-SPAN 1" tvg-logo="https://d1.awsstatic.com/case-studies/600x400_CSPAN_Logo.e8ed4732701e3eaccce7941b851b2d95d55f54a8.png" group-title="USA",C-SPAN 1
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20998
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="Motor Trend" tvg-logo="https://st.motortrend.com/app/themes/motortrend/mantle/modules/assets/motortrend-logo-share.png" group-title="USA",Motor Trend
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21144
+#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="NBC" tvg-logo="https://imgx.fubo.tv/station_logos/nbc_c.png" group-title="USA",NBC
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21089
+#EXTINF:-1 tvg-id="rfdtv.us" tvg-name="RFD-TV" tvg-logo="https://aic.ucdavis.edu/wp-content/uploads/2018/07/RFD-TV.jpeg" group-title="USA",RFD-TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21113
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CNBC USA" tvg-logo="" group-title="NEWS",CNBC USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3714
-#EXTINF:-1 tvg-id="" tvg-name="E! USA" tvg-logo="" group-title="NEWS",E! USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3621
+#EXTINF:-1 tvg-id="ABCNL" tvg-name="ABC News Live" tvg-logo="https://www.seabreezecomputers.com/tv/images/abc.png" group-title="USA",ABC News Live
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/48652
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="BBC World News" tvg-logo="https://www.sandiegotrends.com/wp-content/uploads/2019/03/www-bbc-com-news-world.jpg" group-title="USA",BBC World News
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/40986
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="BLOOMBERG" tvg-logo="https://digitalhealth.london/wp-content/uploads/2019/01/Bloomberg-Logo.jpg" group-title="USA",BLOOMBERG
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20992
+#EXTINF:-1 tvg-id="" tvg-name="BNC" tvg-logo="https://cdn.mos.cms.futurecdn.net/pHSB4iqoxNhyxkgH6rpLXM-1200-80.jpg" group-title="USA",BNC
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/63420
+#EXTINF:-1 tvg-id="cheddar.news.us" tvg-name="Chedder News" tvg-logo="https://i.pinimg.com/originals/f8/73/d7/f873d713cd6a4340e1abf8cfa49deacd.png" group-title="USA",Chedder News
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/34648
+#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="Cheddar Business" tvg-logo="https://imgx.fubo.tv/station_logos/Cheddar-Busness-News_c.png" group-title="USA",Cheddar Business
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/48618
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="CNBC World" tvg-logo="https://imgx.fubo.tv/station_logos/cnbc_world_c.png" group-title="USA",CNBC World
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50181
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-rK1utAw4dkq7lDfWt_utGMz4SviThxXeX9g=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA",CNBC
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21007
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://www.logodesignlove.com/wp-content/uploads/2010/06/cnn-logo-white-on-red.jpg" group-title="USA",CNN
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21009
+#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="CNN International" tvg-logo="https://www.vhv.rs/dpng/d/419-4198182_cnn-international-logo-png-transparent-cnn-en-espaol.png" group-title="USA",CNN International
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58510
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E!" tvg-logo="https://angelamobilemakeup.com/wp-content/uploads/2017/12/E-Entertainment-TV.jpg" group-title="USA",E!
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21036
+#EXTINF:-1 tvg-id="FNCHD" tvg-name="FOX News" tvg-logo="https://w7.pngwing.com/pngs/523/117/png-transparent-fox-news-fake-news-united-states-cable-news-news-broadcasting-cnn-fox-business-logo-text-logo-news.png" group-title="USA",FOX News
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21041
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="FOX Business Network" tvg-logo="https://imgx.fubo.tv/station_logos/foxbusiness_c.png" group-title="USA",FOX Business Network
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/37623
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC" tvg-logo="https://imgx.fubo.tv/station_logos/msnbc_c.png" group-title="USA",MSNBC
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21079
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="https://s3-us-west-1.amazonaws.com/static-spin-com/files/2016/09/MTV-HD-Logo-640x441.jpg" group-title="USA",MTV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21084
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="MTV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST-RC2QlmibHGr3ZsIty4MoBdKln8NuanBDx0qxVPXV39F584I" group-title="USA",MTV 2
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21080
+#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="MTV Classic" tvg-logo="https://www.theyoungfolks.com/wp-content/uploads/2016/08/MTV-Classic.jpg" group-title="USA",MTV Classic
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/28914
+#EXTINF:-1 tvg-id="mtvlive.us" tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="USA",MTV LIVE
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21082
+#EXTINF:-1 tvg-id="mtvu.us" tvg-name="MTV U" tvg-logo="https://www.sec.gov/Archives/edgar/data/1339947/000133994717000049/mtvu.jpg" group-title="USA",MTV U
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/28915
+#EXTINF:-1 tvg-id="NEWSMXH" tvg-name="Newsmax TV" tvg-logo="https://imgx.fubo.tv/station_logos/newsmaxTV_c.png" group-title="USA",Newsmax TV
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58580
+#EXTINF:-1 tvg-id="newsy.us" tvg-name="Newsy" tvg-logo="https://imgx.fubo.tv/station_logos/newsy_c.png" group-title="USA",Newsy
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50215
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://media.threatpost.com/wp-content/uploads/sites/103/2019/04/18162023/weather-channel1.jpg" group-title="USA",THE WEATHER CHANNEL
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21128
