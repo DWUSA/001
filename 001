@@ -234,6 +234,8 @@ http://gtv23.xyz:80/50005000/50005000/220431.m3u8
 http://gtv23.xyz:80/50005000/50005000/176175.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" group-title="SPORTS",TENNIS CHANNEL
 http://gtv23.xyz:80/50005000/50005000/220448.m3u8
+#EXTINF:-1 tvg-id="WillowCricket.us" group-title="SPORTS",WILLOW CRICKET
+http://gtv23.xyz:80/50005000/50005000/1104162.ts
 #EXTINF:-1 tvg-id="" group-title="SPORTS",WWE NETWORK
 http://gtv23.xyz:80/50005000/50005000/220389.m3u8
 
