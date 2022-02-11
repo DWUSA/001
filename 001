@@ -555,3 +555,272 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f9ebb06f0b3d000746fb
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV DOCUMENTARIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ABC" group-title="ENTERTAINMENT",ABC
+http://gtv23.xyz:80/rossi/rossi/648292.m3u8
+#EXTINF:-1 tvg-id="AMC.us" group-title="ENTERTAINMENT",AMC
+http://gtv23.xyz:80/rossi/rossi/175787.m3u8
+#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",ANTENNA TV
+http://gtv23.xyz:80/rossi/rossi/175795.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us" group-title="ENTERTAINMENT",BBC AMERICA
+http://gtv23.xyz:80/rossi/rossi/1846782.m3u8
+#EXTINF:-1 tvg-id="BET.us" group-title="ENTERTAINMENT",BET
+http://gtv23.xyz:80/rossi/rossi/175801.m3u8
+#EXTINF:-1 tvg-id="Bravo.us" group-title="ENTERTAINMENT",BRAVO
+http://gtv23.xyz:80/rossi/rossi/175805.m3u8
+#EXTINF:-1 tvg-id="WCBS.us" group-title="ENTERTAINMENT",CBS
+http://gtv23.xyz:80/rossi/rossi/648409.m3u8
+#EXTINF:-1 tvg-id="CMT.us" group-title="ENTERTAINMENT",CMT
+http://gtv23.xyz:80/rossi/rossi/177079.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us" group-title="ENTERTAINMENT",COMEDY CENTRAL
+http://gtv23.xyz:80/rossi/rossi/175813.m3u8
+#EXTINF:-1 tvg-id="COZITV.us" group-title="ENTERTAINMENT",COZI TV
+http://gtv23.xyz:80/rossi/rossi/175820.m3u8
+#EXTINF:-1 tvg-id="FOXNet.us" group-title="ENTERTAINMENT",FOX
+http://gtv23.xyz:80/rossi/rossi/648532.m3u8
+#EXTINF:-1 tvg-id="Freeform.us" group-title="ENTERTAINMENT",FREEFORM
+http://gtv23.xyz:80/rossi/rossi/175852.m3u8
+#EXTINF:-1 tvg-id="Fuse.us" group-title="ENTERTAINMENT",FUSE
+http://gtv23.xyz:80/rossi/rossi/175857.m3u8
+#EXTINF:-1 tvg-id="FX.us" group-title="ENTERTAINMENT",FX
+http://gtv23.xyz:80/rossi/rossi/176031.m3u8
+#EXTINF:-1 tvg-id="FXX.us" group-title="ENTERTAINMENT",FXX
+http://gtv23.xyz:80/rossi/rossi/176039.m3u8
+#EXTINF:-1 tvg-id="FXM.us" group-title="ENTERTAINMENT",FXM
+http://gtv23.xyz:80/rossi/rossi/176036.m3u8
+#EXTINF:-1 tvg-id="FYI.us" group-title="ENTERTAINMENT",FYI
+http://gtv23.xyz:80/rossi/rossi/175859.m3u8
+#EXTINF:-1 tvg-id="ion.us" group-title="ENTERTAINMENT",ION TV
+http://gtv23.xyz:80/rossi/rossi/715673.m3u8
+#EXTINF:-1 tvg-id="Oxygen.us" group-title="ENTERTAINMENT",OXYGEN
+http://gtv23.xyz:80/rossi/rossi/175911.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="ENTERTAINMENT",PARAMOUNT
+http://gtv23.xyz:80/rossi/rossi/175914.m3u8
+#EXTINF:-1 tvg-id="POP.us" group-title="ENTERTAINMENT",POP
+http://gtv23.xyz:80/rossi/rossi/581833.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.us" group-title="ENTERTAINMENT",SUNDANCE
+http://gtv23.xyz:80/rossi/rossi/176085.m3u8
+#EXTINF:-1 tvg-id="SYFY.us" group-title="ENTERTAINMENT",SYFY
+http://gtv23.xyz:80/rossi/rossi/175933.m3u8
+#EXTINF:-1 tvg-id="TBS.us" group-title="ENTERTAINMENT",TBS
+http://gtv23.xyz:80/rossi/rossi/175938.m3u8
+#EXTINF:-1 tvg-id="WDCW.us" group-title="ENTERTAINMENT",THE CW
+http://gtv23.xyz:80/rossi/rossi/648451.m3u8
+#EXTINF:-1 tvg-id="TNT.us" group-title="ENTERTAINMENT",TNT
+http://gtv23.xyz:80/rossi/rossi/175951.m3u8
+#EXTINF:-1 tvg-id="truTV.us" group-title="ENTERTAINMENT",TRUTV
+http://gtv23.xyz:80/rossi/rossi/175960.m3u8
+#EXTINF:-1 tvg-id="TVLand.us" group-title="ENTERTAINMENT",TV LAND
+http://gtv23.xyz:80/rossi/rossi/175964.m3u8
+#EXTINF:-1 tvg-id="TVONE.us" group-title="ENTERTAINMENT",TV ONE
+http://gtv23.xyz:80/rossi/rossi/175963.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us" group-title="ENTERTAINMENT",USA NETWORK
+http://gtv23.xyz:80/rossi/rossi/175967.m3u8
+#EXTINF:-1 tvg-id="VH1.us" group-title="ENTERTAINMENT",VH1
+http://gtv23.xyz:80/rossi/rossi/229001.m3u8
+#EXTINF:-1 tvg-id="WEtv.us" group-title="ENTERTAINMENT",WE TV
+http://gtv23.xyz:80/rossi/rossi/175974.m3u8
+
+
+#EXTINF:-1 tvg-id="5StarMAX.us" group-title="MOVIES",5 STARMAX
+http://gtv23.xyz:80/rossi/rossi/176010.m3u8
+#EXTINF:-1 tvg-id="ActionMAX.us" group-title="MOVIES",ACTIONMAX
+http://gtv23.xyz:80/rossi/rossi/176011.m3u8
+#EXTINF:-1 tvg-id="Cinemax.us" group-title="MOVIES",CINEMAX
+http://gtv23.xyz:80/rossi/rossi/176013.m3u8
+#EXTINF:-1 tvg-id="MoreMAX.us" group-title="MOVIES",MOREMAX
+http://gtv23.xyz:80/rossi/rossi/176016.m3u8
+#EXTINF:-1 tvg-id="MovieMax.us" group-title="MOVIES",MOVIEMAX
+http://gtv23.xyz:80/rossi/rossi/176018.m3u8
+#EXTINF:-1 tvg-id="OuterMAX.us" group-title="MOVIES",OUTERMAX
+http://gtv23.xyz:80/rossi/rossi/176020.m3u8
+#EXTINF:-1 tvg-id="ThrillerMAX.us" group-title="MOVIES",TRILLERMAX
+http://gtv23.xyz:80/rossi/rossi/176021.m3u8
+#EXTINF:-1 tvg-id="Epix.us" group-title="MOVIES",EPIX
+http://gtv23.xyz:80/rossi/rossi/176026.m3u8
+#EXTINF:-1 tvg-id="EPIX2.us" group-title="MOVIES",EPIX 2
+http://gtv23.xyz:80/rossi/rossi/176030.m3u8
+#EXTINF:-1 tvg-id="EpixDrivein.us" group-title="MOVIES",EPIX DRIVE-IN
+http://gtv23.xyz:80/rossi/rossi/176027.m3u8
+#EXTINF:-1 tvg-id="EpixHits.us" group-title="MOVIES",EPIX HITS
+http://gtv23.xyz:80/rossi/rossi/176028.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us" group-title="MOVIES",HALLMARK
+http://gtv23.xyz:80/rossi/rossi/175864.m3u8
+#EXTINF:-1 tvg-id="HallmarkDrama.us" group-title="MOVIES",HALLMARK DRAMA
+http://gtv23.xyz:80/rossi/rossi/175866.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesandMysteries.us" group-title="MOVIES",HALLMARK MOVIES AND MYSTERIES
+http://gtv23.xyz:80/rossi/rossi/175870.m3u8
+#EXTINF:-1 tvg-id="HBO.us" group-title="MOVIES",HBO
+http://gtv23.xyz:80/rossi/rossi/176044.m3u8
+#EXTINF:-1 tvg-id="HBO2.us" group-title="MOVIES",HBO 2
+http://gtv23.xyz:80/rossi/rossi/176041.m3u8
+#EXTINF:-1 tvg-id="HBOComedy.us" group-title="MOVIES",HBO COMEDY
+http://gtv23.xyz:80/rossi/rossi/176042.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.us" group-title="MOVIES",HBO FAMILY
+http://gtv23.xyz:80/rossi/rossi/176047.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.us" group-title="MOVIES",HBO SIGNATURE
+http://gtv23.xyz:80/rossi/rossi/176048.m3u8
+#EXTINF:-1 tvg-id="HBOZone.us" group-title="MOVIES",HBO ZONE
+http://gtv23.xyz:80/rossi/rossi/176052.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us" group-title="MOVIES",LIFETIME
+http://gtv23.xyz:80/rossi/rossi/175891.m3u8
+#EXTINF:-1 tvg-id="LMN.us" group-title="MOVIES",LIFETIME MOVIE NETWORK
+http://gtv23.xyz:80/rossi/rossi/176369.m3u8
+#EXTINF:-1 tvg-id="Showtime.us" group-title="MOVIES",SHOWTIME
+http://gtv23.xyz:80/rossi/rossi/176056.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us" group-title="MOVIES",SHOWTIME 2
+http://gtv23.xyz:80/rossi/rossi/176054.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" group-title="MOVIES",SHOWTIME EXTREME
+http://gtv23.xyz:80/rossi/rossi/176059.m3u8
+#EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" group-title="MOVIES",SHOWTIME FAMILY ZONE
+http://gtv23.xyz:80/rossi/rossi/176060.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNext.us" group-title="MOVIES",SHOWTIME NEXT
+http://gtv23.xyz:80/rossi/rossi/176061.m3u8
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" group-title="MOVIES",SHOWTIME SHOWCASE
+http://gtv23.xyz:80/rossi/rossi/176063.m3u8
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" group-title="MOVIES",SONY MOVIE CHANNEL
+http://gtv23.xyz:80/rossi/rossi/176066.m3u8
+#EXTINF:-1 tvg-id="Starz.us" group-title="MOVIES",STARZ
+http://gtv23.xyz:80/rossi/rossi/176071.m3u8
+#EXTINF:-1 tvg-id="StarzCinema.us" group-title="MOVIES",STARZ CINEMA
+http://gtv23.xyz:80/rossi/rossi/176068.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us" group-title="MOVIES",STARZ COMEDY
+http://gtv23.xyz:80/rossi/rossi/176069.m3u8
+#EXTINF:-1 tvg-id="StarzEncore.us" group-title="MOVIES",STARZ ENCORE
+http://gtv23.xyz:80/rossi/rossi/176076.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" group-title="MOVIES",STARZ ENCORE ACTION
+http://gtv23.xyz:80/rossi/rossi/176072.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" group-title="MOVIES",STARZ ENCORE CLASSIC
+http://gtv23.xyz:80/rossi/rossi/176075.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" group-title="MOVIES",STARZ ENCORE FAMILY
+http://gtv23.xyz:80/rossi/rossi/176078.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" group-title="MOVIES",STARZ ENCORE SUSPENSE
+http://gtv23.xyz:80/rossi/rossi/176079.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" group-title="MOVIES",STARZ ENCORE WESTERNS
+http://gtv23.xyz:80/rossi/rossi/176081.m3u8
+#EXTINF:-1 tvg-id="starzkidsfamily.us" group-title="MOVIES",STARZ KIDS AND FAMILY
+http://gtv23.xyz:80/rossi/rossi/176083.m3u8
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" group-title="MOVIES",TURNER CLASSIC MOVIES
+http://gtv23.xyz:80/rossi/rossi/784931.m3u8
+
+
+#EXTINF:-1 tvg-id="BabyFirstTV.us" group-title="KIDS",BABY FIRST
+http://gtv23.xyz:80/rossi/rossi/176236.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us" group-title="KIDS",BOOMERANG
+http://gtv23.xyz:80/rossi/rossi/176238.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="KIDS",CARTOON NETWORK
+http://gtv23.xyz:80/rossi/rossi/176241.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us" group-title="KIDS",DISNEY CHANNEL
+http://gtv23.xyz:80/rossi/rossi/176246.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us" group-title="KIDS",DISNEY JR.
+http://gtv23.xyz:80/rossi/rossi/176252.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us" group-title="KIDS",DISNEY XD
+http://gtv23.xyz:80/rossi/rossi/176257.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="KIDS",NICKELODEON
+http://gtv23.xyz:80/rossi/rossi/176267.m3u8
+#EXTINF:-1 tvg-id="NickJr.us" group-title="KIDS",NICK JR
+http://gtv23.xyz:80/rossi/rossi/176264.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us" group-title="KIDS",NICKTOONS
+http://gtv23.xyz:80/rossi/rossi/176266.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us" group-title="KIDS",TEEN NICK
+http://gtv23.xyz:80/rossi/rossi/176265.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us" group-title="KIDS",PBS KIDS
+http://gtv23.xyz:80/rossi/rossi/176263.m3u8
+#EXTINF:-1 tvg-id="UniversalKids.us" group-title="KIDS",UNIVERSAL KIDS
+http://gtv23.xyz:80/rossi/rossi/1699093.m3u8
+
+
+#EXTINF:-1 tvg-id="AandE(East).us" group-title="DOCUMENTARIES",A&E
+http://gtv23.xyz:80/rossi/rossi/175784.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet(East)(src01).us" group-title="DOCUMENTARIES",ANIMAL PLANET
+http://gtv23.xyz:80/rossi/rossi/175791.m3u8
+#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIES",COOKING CHANNEL
+http://gtv23.xyz:80/rossi/rossi/175816.m3u8
+#EXTINF:-1 tvg-id="DestinationAmerica(src01).us" group-title="DOCUMENTARIES",DESTINATION AMERICA
+http://gtv23.xyz:80/rossi/rossi/175825.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" group-title="DOCUMENTARIES",DISCOVERY CHANNEL
+http://gtv23.xyz:80/rossi/rossi/175826.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.us" group-title="DOCUMENTARIES",FOOD NETWORK
+http://gtv23.xyz:80/rossi/rossi/175847.m3u8
+#EXTINF:-1 tvg-id="HGTV.us" group-title="DOCUMENTARIES",HGTV
+http://gtv23.xyz:80/rossi/rossi/175873.m3u8
+#EXTINF:-1 tvg-id="History.us" group-title="DOCUMENTARIES",HISTORY
+http://gtv23.xyz:80/rossi/rossi/175878.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" group-title="DOCUMENTARIES",INVESTIGATION DISCOVERY
+http://gtv23.xyz:80/rossi/rossi/175883.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" group-title="DOCUMENTARIES",NATIONAL GEOGRAPHIC
+http://gtv23.xyz:80/rossi/rossi/175899.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" group-title="DOCUMENTARIES",NAT GEO WILD
+http://gtv23.xyz:80/rossi/rossi/175901.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" group-title="DOCUMENTARIES",OUTDOOR CHANNEL
+http://gtv23.xyz:80/rossi/rossi/175906.m3u8
+#EXTINF:-1 tvg-id="TLC.us" group-title="DOCUMENTARIES",TLC
+http://gtv23.xyz:80/rossi/rossi/175946.m3u8
+#EXTINF:-1 tvg-id="TheTravelChannel.us" group-title="DOCUMENTARIES",TRAVEL CHANNEL
+http://gtv23.xyz:80/rossi/rossi/175958.m3u8
+
+
+#EXTINF:-1 tvg-id="BigTenNetwork.us" group-title="SPORTS",BIG TEN NETWORK
+http://gtv23.xyz:80/rossi/rossi/220402.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" group-title="SPORTS",CBS SPORTS NETWORK
+http://gtv23.xyz:80/rossi/rossi/176607.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" group-title="SPORTS",ESPN
+http://gtv23.xyz:80/rossi/rossi/220406.m3u8
+#EXTINF:-1 tvg-id="ESPN2(src01).us" group-title="SPORTS",ESPN2
+http://gtv23.xyz:80/rossi/rossi/220407.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" group-title="SPORTS",ESPNU
+http://gtv23.xyz:80/rossi/rossi/220412.m3u8
+#EXTINF:-1 tvg-id="ESPNEWS.us" group-title="SPORTS",ESPNEWS
+http://gtv23.xyz:80/rossi/rossi/220410.m3u8
+#EXTINF:-1 tvg-id="FS1.us" group-title="SPORTS",FS1
+http://gtv23.xyz:80/rossi/rossi/220387.m3u8
+#EXTINF:-1 tvg-id="FS2.us" group-title="SPORTS",FS2
+http://gtv23.xyz:80/rossi/rossi/220388.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us" group-title="SPORTS",GOLF CHANNEL
+http://gtv23.xyz:80/rossi/rossi/220424.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork(src01).us" group-title="SPORTS",MLB NETWORK
+http://gtv23.xyz:80/rossi/rossi/176144.m3u8
+#EXTINF:-1 tvg-id="MOTORTREND.us" group-title="SPORTS",MOTOR TREND
+http://gtv23.xyz:80/rossi/rossi/175834.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" group-title="SPORTS",NBA TV
+http://gtv23.xyz:80/rossi/rossi/176154.m3u8
+#EXTINF:-1 tvg-id="WNBC.us" group-title="SPORTS",NBC
+http://gtv23.xyz:80/rossi/rossi/220431.m3u8
+#EXTINF:-1 tvg-id="NFLNETWORK.us" group-title="SPORTS",NFL NETWORK
+http://gtv23.xyz:80/rossi/rossi/176175.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" group-title="SPORTS",TENNIS CHANNEL
+http://gtv23.xyz:80/rossi/rossi/220448.m3u8
+#EXTINF:-1 tvg-id="WillowCricket.us" group-title="SPORTS",WILLOW CRICKET
+http://gtv23.xyz:80/rossi/rossi/1104162.m3u8
+#EXTINF:-1 tvg-id="" group-title="SPORTS",WWE NETWORK
+http://gtv23.xyz:80/rossi/rossi/220389.m3u8
+
+
+#EXTINF:- tvg-id="ABCNewsLive.us" group-title="NEWS",ABC NEWS
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_44.m3u8
+#EXTINF:- tvg-id="BBCWorldNews.us" group-title="NEWS",BBC WORLD NEWS
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/40986
+#EXTINF:- tvg-id="Bloomberg.us" group-title="NEWS",BLOOMBERG
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20992
+#EXTINF:- tvg-id="" group-title="NEWS",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:- tvg-id="CNN.us" group-title="NEWS",CNN
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21009
+#EXTINF:- tvg-id="FoxNewsChannel.us" group-title="NEWS",FOX NEWS
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21041
+#EXTINF:- tvg-id="MSNBC.us" group-title="NEWS",MSNBC
+http://1128480543.rsc.cdn77.org/yg2eCdIXV-hG4QKNrlh93g==,1642732509/1128480543/tracks-v1a1/mono.m3u8
