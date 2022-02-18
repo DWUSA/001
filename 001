@@ -55,8 +55,7 @@ http://gtv23.xyz:80/50005000/50005000/175951.m3u8
 #EXTINF:-1 tvg-id="truTV.us" group-title="ENTERTAINMENT",TRUTV
 http://gtv23.xyz:80/50005000/50005000/175960.m3u8
 #EXTINF:-1 tvg-id="TVLand.us" group-title="ENTERTAINMENT",TV LAND
-http://gtv23.xyz:80/50005000/50005000/175964.m3u8
-#EXTINF:-1 tvg-id="TVONE.us" group-title="ENTERTAINMENT",TV ONE
+https://h2.ustvgo.la/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIyIDExOjQyOjEwIFBNJmhhc2hfdmFsdWU9TlU3SytaclpENEJUWkNnMlBZcmhPQT09JnZhbGlkbWludXRlcz0yNDA=#EXTINF:-1 tvg-id="TVONE.us" group-title="ENTERTAINMENT",TV ONE
 http://gtv23.xyz:80/50005000/50005000/175963.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" group-title="ENTERTAINMENT",USA NETWORK
 http://gtv23.xyz:80/50005000/50005000/175967.m3u8
