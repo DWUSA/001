@@ -13,43 +13,43 @@ http://gtv23.xyz:80/50005000/50005000/175801.ts
 #EXTINF:-1 tvg-id="Bravo.us" group-title="ENTERTAINMENT",BRAVO
 http://gtv23.xyz:80/50005000/50005000/175805.ts
 #EXTINF:-1 tvg-id="WCBS.us" group-title="ENTERTAINMENT",CBS
-http://gtv23.xyz:80/50005000/50005000/648409.ts
+https://h4.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDM6NDMgQU0maGFzaF92YWx1ZT1HNzBWTnEwS3hjT1RsdGZweGw2Y0pnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="CMT.us" group-title="ENTERTAINMENT",CMT
-http://gtv23.xyz:80/50005000/50005000/177079.ts
+https://h2.ustvgo.la/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDQ6MTAgQU0maGFzaF92YWx1ZT12bnlwa0ovL3ZZTVExU3JiNWQ3Ry9BPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="ComedyCentral.us" group-title="ENTERTAINMENT",COMEDY CENTRAL
-http://gtv23.xyz:80/50005000/50005000/175813.ts
+https://h5.ustvgo.la/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDI6NDYgQU0maGFzaF92YWx1ZT1KSzlDUlpVeWsxVExLMVZKZzVRVW1BPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="COZITV.us" group-title="ENTERTAINMENT",COZI TV
 http://gtv23.xyz:80/50005000/50005000/175820.ts
 #EXTINF:-1 tvg-id="FOXNet.us" group-title="ENTERTAINMENT",FOX
-http://gtv23.xyz:80/50005000/50005000/648532.ts
+https://h2.ustvgo.la/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDQ6NDIgQU0maGFzaF92YWx1ZT1iWWcyMTI1MUhib3cyamt5Vy9OdW93PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="Freeform.us" group-title="ENTERTAINMENT",FREEFORM
-http://gtv23.xyz:80/50005000/50005000/175852.ts
+https://h1.ustvgo.la/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDU6MDYgQU0maGFzaF92YWx1ZT1vbXdnMmpqWFJZZU51WUIxbFlCMFdRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="Fuse.us" group-title="ENTERTAINMENT",FUSE
 http://gtv23.xyz:80/50005000/50005000/175857.ts
 #EXTINF:-1 tvg-id="FX.us" group-title="ENTERTAINMENT",FX
-http://gtv23.xyz:80/50005000/50005000/176031.ts
+https://h1.ustvgo.la/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDU6NDggQU0maGFzaF92YWx1ZT1GWFR2WG5vNVNZWGlLWDdwQWFnL3RBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="FXX.us" group-title="ENTERTAINMENT",FXX
-http://gtv23.xyz:80/50005000/50005000/176039.ts
+https://h3.ustvgo.la/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDY6MTQgQU0maGFzaF92YWx1ZT1hWVkyelBsK3ZjY09KNGlaa1F1WUxBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="FXM.us" group-title="ENTERTAINMENT",FXM
-http://gtv23.xyz:80/50005000/50005000/176036.ts
+https://h3.ustvgo.la/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDY6MzggQU0maGFzaF92YWx1ZT15QkVPUi83V0t4MlN2MGtYaURlQ0lnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="FYI.us" group-title="ENTERTAINMENT",FYI
 http://gtv23.xyz:80/50005000/50005000/175859.ts
 #EXTINF:-1 tvg-id="ion.us" group-title="ENTERTAINMENT",ION TV
-http://gtv23.xyz:80/50005000/50005000/715673.ts
+https://h5.ustvgo.la/IONNY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDc6NTIgQU0maGFzaF92YWx1ZT1xVG5QbUxuY2Fxb3JYNUNWM2JaSjZBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="Oxygen.us" group-title="ENTERTAINMENT",OXYGEN
-http://gtv23.xyz:80/50005000/50005000/175911.ts
+https://h5.ustvgo.la/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDc6MTEgQU0maGFzaF92YWx1ZT11RFhtOGlIWmpuWlg2QklnZGdEZHVnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="ENTERTAINMENT",PARAMOUNT
 http://gtv23.xyz:80/50005000/50005000/175914.ts
 #EXTINF:-1 tvg-id="POP.us" group-title="ENTERTAINMENT",POP
-http://gtv23.xyz:80/50005000/50005000/581833.ts
+https://h4.ustvgo.la/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDg6MzMgQU0maGFzaF92YWx1ZT1xNk11ZVkwSy94NzAxVTJKbzcvSXFnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="SundanceTV.us" group-title="ENTERTAINMENT",SUNDANCE
-http://gtv23.xyz:80/50005000/50005000/176085.ts
+https://h2.ustvgo.la/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDk6MDYgQU0maGFzaF92YWx1ZT1yckt2bmc4VXhhWWNldUN6RTZuUlRRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="SYFY.us" group-title="ENTERTAINMENT",SYFY
-http://gtv23.xyz:80/50005000/50005000/175933.ts
+https://h2.ustvgo.la/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDk6MzQgQU0maGFzaF92YWx1ZT1VQ25nSUt1NmRqcjUwTUlSYjFyNDJ3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="TBS.us" group-title="ENTERTAINMENT",TBS
 https://h2.ustvgo.la/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIyIDExOjU2OjU3IFBNJmhhc2hfdmFsdWU9anZwUkRVSXZSdVYxZjFiU2x5RTFnZz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 tvg-id="WDCW.us" group-title="ENTERTAINMENT",THE CW
-http://gtv23.xyz:80/50005000/50005000/648451.ts
+https://h1.ustvgo.la/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MTA6MDEgQU0maGFzaF92YWx1ZT1iakg2S0ZRY01NdUpqTVp3RG5MMXZBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="TNT.us" group-title="ENTERTAINMENT",TNT
 http://gtv23.xyz:80/50005000/50005000/175951.ts
 #EXTINF:-1 tvg-id="truTV.us" group-title="ENTERTAINMENT",TRUTV
@@ -63,7 +63,7 @@ http://gtv23.xyz:80/50005000/50005000/175967.ts
 #EXTINF:-1 tvg-id="VH1.us" group-title="ENTERTAINMENT",VH1
 http://gtv23.xyz:80/50005000/50005000/229001.ts
 #EXTINF:-1 tvg-id="WEtv.us" group-title="ENTERTAINMENT",WE TV
-http://gtv23.xyz:80/50005000/50005000/175974.ts
+https://h1.ustvgo.la/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MTA6MzMgQU0maGFzaF92YWx1ZT10V0pVSWZrWCtvMEk5NTBWazhyS2hRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
 #EXTINF:-1 tvg-id="5StarMAX.us" group-title="MOVIES",5 STARMAX
@@ -71,7 +71,7 @@ http://gtv23.xyz:80/50005000/50005000/176010.ts
 #EXTINF:-1 tvg-id="ActionMAX.us" group-title="MOVIES",ACTIONMAX
 http://gtv23.xyz:80/50005000/50005000/176011.ts
 #EXTINF:-1 tvg-id="Cinemax.us" group-title="MOVIES",CINEMAX
-http://gtv23.xyz:80/50005000/50005000/176013.ts
+https://h2.ustvgo.la/Cinemax/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MTQ6MzEgQU0maGFzaF92YWx1ZT1sMlpYd3E1Vmg1WDlvY0pRYkpZeEp3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="MoreMAX.us" group-title="MOVIES",MOREMAX
 http://gtv23.xyz:80/50005000/50005000/176016.ts
 #EXTINF:-1 tvg-id="MovieMax.us" group-title="MOVIES",MOVIEMAX
@@ -151,21 +151,21 @@ http://gtv23.xyz:80/50005000/50005000/784931.ts
 #EXTINF:-1 tvg-id="BabyFirstTV.us" group-title="KIDS",BABY FIRST
 http://gtv23.xyz:80/50005000/50005000/176236.ts
 #EXTINF:-1 tvg-id="Boomerang.us" group-title="KIDS",BOOMERANG
-http://gtv23.xyz:80/50005000/50005000/176238.ts
+https://h3.ustvgo.la/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MTE6MjYgQU0maGFzaF92YWx1ZT15czd0Z25jSjlLUHhCWUJ4ZFBGRFBRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="KIDS",CARTOON NETWORK
-http://gtv23.xyz:80/50005000/50005000/176241.ts
+https://h3.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MTE6NDkgQU0maGFzaF92YWx1ZT1jOXd2dFpJOGVQYjV5UHhPNDlOYmxBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="DisneyChannel.us" group-title="KIDS",DISNEY CHANNEL
-http://gtv23.xyz:80/50005000/50005000/176246.ts
+https://h5.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MTI6MjEgQU0maGFzaF92YWx1ZT1BR0doL2RUOVBiYmJ5SUlmQmZsWGlRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="DisneyJunior.us" group-title="KIDS",DISNEY JR.
-http://gtv23.xyz:80/50005000/50005000/176252.ts
+https://h5.ustvgo.la/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MTI6NDMgQU0maGFzaF92YWx1ZT1sdy9GTytDSFJQVFQzSmJFRHVTK2lBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="DisneyXD.us" group-title="KIDS",DISNEY XD
-http://gtv23.xyz:80/50005000/50005000/176257.ts
+https://h4.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MTM6MTEgQU0maGFzaF92YWx1ZT1jcmljMS9hamo5UklKdFViRkU1dGNRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="Nickelodeon.us" group-title="KIDS",NICKELODEON
-http://gtv23.xyz:80/50005000/50005000/176267.ts
+https://h4.ustvgo.la/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MTM6MzkgQU0maGFzaF92YWx1ZT1lWSsxaStlUVZrRno0U3BoY291NW1RPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="NickJr.us" group-title="KIDS",NICK JR
 http://gtv23.xyz:80/50005000/50005000/176264.ts
 #EXTINF:-1 tvg-id="Nicktoons.us" group-title="KIDS",NICKTOONS
-http://gtv23.xyz:80/50005000/50005000/176266.ts
+https://h2.ustvgo.la/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MTQ6MDIgQU0maGFzaF92YWx1ZT1ZOXhvdzFZaUVDUnhWTW5EMi9Rb0pnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="TeenNick.us" group-title="KIDS",TEEN NICK
 http://gtv23.xyz:80/50005000/50005000/176265.ts
 #EXTINF:-1 tvg-id="PBSKids.us" group-title="KIDS",PBS KIDS
