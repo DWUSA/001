@@ -15,7 +15,7 @@ http://gtv23.xyz:80/50005000/50005000/175805.ts
 #EXTINF:-1 tvg-id="WCBS.us" group-title="ENTERTAINMENT",CBS
 https://h4.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDM6NDMgQU0maGFzaF92YWx1ZT1HNzBWTnEwS3hjT1RsdGZweGw2Y0pnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="CMT.us" group-title="ENTERTAINMENT",CMT
-https://h2.ustvgo.la/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDQ6MTAgQU0maGFzaF92YWx1ZT12bnlwa0ovL3ZZTVExU3JiNWQ3Ry9BPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h3.ustvgo.la/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIyIDExOjA5OjE5IFBNJmhhc2hfdmFsdWU9NXZSRlQwdmtNVEI3OVdGdk11ODFEUT09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 tvg-id="ComedyCentral.us" group-title="ENTERTAINMENT",COMEDY CENTRAL
 https://h5.ustvgo.la/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDI6NDYgQU0maGFzaF92YWx1ZT1KSzlDUlpVeWsxVExLMVZKZzVRVW1BPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="COZITV.us" group-title="ENTERTAINMENT",COZI TV
@@ -47,15 +47,15 @@ https://h2.ustvgo.la/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 tvg-id="SYFY.us" group-title="ENTERTAINMENT",SYFY
 https://h2.ustvgo.la/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MDk6MzQgQU0maGFzaF92YWx1ZT1VQ25nSUt1NmRqcjUwTUlSYjFyNDJ3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="TBS.us" group-title="ENTERTAINMENT",TBS
-https://h2.ustvgo.la/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIyIDExOjU2OjU3IFBNJmhhc2hfdmFsdWU9anZwUkRVSXZSdVYxZjFiU2x5RTFnZz09JnZhbGlkbWludXRlcz0yNDA=
+https://h2.ustvgo.la/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIyIDExOjA4OjU1IFBNJmhhc2hfdmFsdWU9akZ0SFUzWHJHR0dWU0htdGkwZTdVQT09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 tvg-id="WDCW.us" group-title="ENTERTAINMENT",THE CW
-https://h1.ustvgo.la/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDI6MTA6MDEgQU0maGFzaF92YWx1ZT1iakg2S0ZRY01NdUpqTVp3RG5MMXZBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIyIDExOjEwOjAxIFBNJmhhc2hfdmFsdWU9NW9wTXJGbHN5WEZhWFpzK1NVMmdyUT09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 tvg-id="TNT.us" group-title="ENTERTAINMENT",TNT
 http://gtv23.xyz:80/50005000/50005000/175951.ts
 #EXTINF:-1 tvg-id="truTV.us" group-title="ENTERTAINMENT",TRUTV
 https://h1.ustvgo.la/TruTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIyIDExOjU3OjM5IFBNJmhhc2hfdmFsdWU9YXZKS2VjRkkzQndVS1FlVHpFTmNrZz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 tvg-id="TVLand.us" group-title="ENTERTAINMENT",TV LAND
-https://h2.ustvgo.la/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIyIDExOjQyOjEwIFBNJmhhc2hfdmFsdWU9TlU3SytaclpENEJUWkNnMlBZcmhPQT09JnZhbGlkbWludXRlcz0yNDA=
+https://h1.ustvgo.la/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIyIDExOjA3OjUwIFBNJmhhc2hfdmFsdWU9R01xWHlBOXQrYTJDdko1VGUvUE1VUT09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 tvg-id="TVONE.us" group-title="ENTERTAINMENT",TV ONE
 http://gtv23.xyz:80/50005000/50005000/175963.ts
 #EXTINF:-1 tvg-id="USANetwork.us" group-title="ENTERTAINMENT",USA NETWORK
