@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://m3u4u.com/epg/3m97ypwpw8tkjzmndxq5"
 
 #EXTINF:-1 tvg-id="ABC" group-title="ENTERTAINMENT",ABC
 http://soberon.us:25461/bullnew/soberonnew/193
@@ -227,7 +227,7 @@ http://soberon.us:25461/bullnew/soberonnew/303
 #EXTINF:-1 tvg-id="MOTORTREND.us" group-title="SPORTS",MOTOR TREND
 http://gtv23.xyz:80/50005000/50005000/175834.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" group-title="SPORTS",NBA TV
-http://soberon.us:25461/bullnew/soberonnew/312
+http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WNBC.us" group-title="SPORTS",NBC
 http://soberon.us:25461/bullnew/soberonnew/313
 #EXTINF:-1 tvg-id="NFLNETWORK.us" group-title="SPORTS",NFL NETWORK
