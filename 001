@@ -1,10 +1,10 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/epg/3m97ypwpw8tkjzmndxq5"
+#EXTM3U
 
-#EXTINF:-1 tvg-id="ABC" group-title="ENTERTAINMENT",ABC
+#EXTINF:-1 group-title="ENTERTAINMENT",ABC
 http://soberon.us:25461/bullnew/soberonnew/193
 #EXTINF:-1 tvg-id="AMC.us" group-title="ENTERTAINMENT",AMC
 http://soberon.us:25461/bullnew/soberonnew/208
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",ANTENNA TV
+#EXTINF:-1 group-title="ENTERTAINMENT",ANTENNA TV
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71314
 #EXTINF:-1 tvg-id="BBCAmerica.us" group-title="ENTERTAINMENT",BBC AMERICA
 http://soberon.us:25461/bullnew/soberonnew/211
@@ -12,7 +12,7 @@ http://soberon.us:25461/bullnew/soberonnew/211
 http://soberon.us:25461/bullnew/soberonnew/213
 #EXTINF:-1 tvg-id="Bravo.us" group-title="ENTERTAINMENT",BRAVO
 http://soberon.us:25461/bullnew/soberonnew/217
-#EXTINF:-1 tvg-id="WCBS.us" group-title="ENTERTAINMENT",CBS
+#EXTINF:-1 group-title="ENTERTAINMENT",CBS
 http://soberon.us:25461/bullnew/soberonnew/219
 #EXTINF:-1 tvg-id="CMT.us" group-title="ENTERTAINMENT",CMT
 http://soberon.us:25461/bullnew/soberonnew/234
@@ -256,571 +256,416 @@ https://1028107998.rsc.cdn77.org/pUQJhbl73aXzUBOb43g60w==,1645262051/ls-54548-2/
 http://1128480543.rsc.cdn77.org/yg2eCdIXV-hG4QKNrlh93g==,1642732509/1128480543/tracks-v1a1/mono.m3u8
 
 
+
 #EXTINF:-1 tvg-ID="4Seven.uk" group-title="UK ENTERTAINMENT",4SEVEN
-http://gtv23.xyz:80/50005000/50005000/189872.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17296
 #EXTINF:-1 tvg-ID="5SELECT.uk" group-title="UK ENTERTAINMENT",5SELECT
-http://gtv23.xyz:80/50005000/50005000/391500.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/69495
 #EXTINF:-1 tvg-ID="5STAR(src02).uk" group-title="UK ENTERTAINMENT",5STAR
-http://gtv23.xyz:80/50005000/50005000/189874.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17386
 #EXTINF:-1 tvg-ID="5USA.uk" group-title="UK ENTERTAINMENT",5 USA
-http://gtv23.xyz:80/50005000/50005000/391253.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/69497
 #EXTINF:-1 tvg-ID="AMC(src01).uk" group-title="UK ENTERTAINMENT",AMC
-http://gtv23.xyz:80/50005000/50005000/391263.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17358
 #EXTINF:-1 tvg-ID="BBCFour.uk" group-title="UK ENTERTAINMENT",BBC FOUR
-http://gtv23.xyz:80/50005000/50005000/1858077.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17331
 #EXTINF:-1 tvg-ID="CBSDrama.uk" group-title="UK ENTERTAINMENT",CBS DRAMA
-http://gtv23.xyz:80/50005000/50005000/391272.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17380
 #EXTINF:-1 tvg-ID="CBSJustice.uk" group-title="UK ENTERTAINMENT",CBS JUSTICE
-http://gtv23.xyz:80/50005000/50005000/189918.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17382
 #EXTINF:-1 tvg-ID="CBSReality.uk" group-title="UK ENTERTAINMENT",CBS REALITY
-http://gtv23.xyz:80/50005000/50005000/189918.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17379
 #EXTINF:-1 tvg-ID="ComedyCentral.uk" group-title="UK ENTERTAINMENT",COMEDY CENTRAL
-http://gtv23.xyz:80/50005000/50005000/189929.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17377
 #EXTINF:-1 tvg-ID="iONTV.uk" group-title="UK ENTERTAINMENT",ION TV
 http://51.154.28.81:2052/play/a05d
 #EXTINF:-1 tvg-ID="ITV(src02).uk" group-title="UK ENTERTAINMENT",ITV
-http://gtv23.xyz:80/50005000/50005000/1151892.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17295
 #EXTINF:-1 tvg-ID="ITV2(src01).uk" group-title="UK ENTERTAINMENT",ITV2
-http://gtv23.xyz:80/50005000/50005000/391480.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17397
 #EXTINF:-1 tvg-ID="ITV3(src01).uk" group-title="UK ENTERTAINMENT",ITV3
-http://gtv23.xyz:80/50005000/50005000/199506.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17396
 #EXTINF:-1 tvg-ID="ITV4(src01).uk" group-title="UK ENTERTAINMENT",ITV4
-http://gtv23.xyz:80/50005000/50005000/189961.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17395
 #EXTINF:-1 tvg-ID="ITVBe(src01).uk" group-title="UK ENTERTAINMENT",ITV BE
-http://gtv23.xyz:80/50005000/50005000/189962.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17394
 #EXTINF:-1 tvg-ID="CITV(src01).uk" group-title="UK ENTERTAINMENT",CITV
-http://gtv23.xyz:80/50005000/50005000/189911.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17339
 #EXTINF:-1 tvg-ID="Paramount(src01).uk" group-title="UK ENTERTAINMENT",PARAMOUNT
-http://gtv23.xyz:80/50005000/50005000/189873.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/70075
 #EXTINF:-1 tvg-ID="Sky1(src01).uk" group-title="UK ENTERTAINMENT"SKY 1
-http://gtv23.xyz:80/50005000/50005000/189999.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17352
 #EXTINF:-1 tvg-ID="Sky2(src01).uk" group-title="UK ENTERTAINMENT"SKY 2
-http://gtv23.xyz:80/50005000/50005000/190005.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/69493
 #EXTINF:-1 tvg-ID="SkyAtlantic.uk" group-title="UK ENTERTAINMENT"SKY ATLANTIC
-http://gtv23.xyz:80/50005000/50005000/190001.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17338
 #EXTINF:-1 tvg-ID="SkyWitness.uk" group-title="UK ENTERTAINMENT",SKY WITNESS
-http://gtv23.xyz:80/50005000/50005000/391344.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/69492
 #EXTINF:-1 tvg-ID="SyFy(src01).uk" group-title="UK ENTERTAINMENT",SYFY
-http://gtv23.xyz:80/50005000/50005000/391330.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17362
 #EXTINF:-1 tvg-ID="TVOne.uk" group-title="UK ENTERTAINMENT",TV ONE
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17300
+#EXTINF:-1 tvg-ID="TVOne.uk" group-title="UK ENTERTAINMENT",UNIVERSAL
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17357
 
 
 #EXTINF:-1 tvg-ID="Film4.uk" group-title="UK MOVIES",FILM 4
-http://gtv23.xyz:80/50005000/50005000/189945.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17354
 #EXTINF:-1 tvg-ID="GreatMovies.uk" group-title="UK MOVIES",GREAT MOVIES
-http://gtv23.xyz:80/50005000/50005000/1851508.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17346
 #EXTINF:-1 tvg-ID="HorrorChannel.uk" group-title="UK MOVIES" ,HORROR CHANNEL
-http://gtv23.xyz:80/50005000/50005000/391308.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17355
 #EXTINF:-1 tvg-ID="SkyCinemaAction.uk" group-title="UK MOVIES",SKY CINEMA ACTION
-http://gtv23.xyz:80/50005000/50005000/391351.ts
+http://soberon.us:25461/bullnew/soberonnew/477
 #EXTINF:-1 tvg-ID="SkyCinemaAnimation.uk" group-title="UK MOVIES",SKY CINEMA ANIMATION
-http://gtv23.xyz:80/50005000/50005000/1663386.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254317
 #EXTINF:-1 tvg-ID="SkyCinemaComedy.uk" group-title="UK MOVIES",SKY CINEMA COMEDY
-http://gtv23.xyz:80/50005000/50005000/228290.ts
+http://soberon.us:25461/bullnew/soberonnew/478
 #EXTINF:-1 tvg-ID="" group-title="UK MOVIES",SKY CINEMA CRIME & TRILLER
-http://gtv23.xyz:80/50005000/50005000/391353.ts
+http://soberon.us:25461/bullnew/soberonnew/486
 #EXTINF:-1 tvg-ID="SkyCinemaDrama.uk" group-title="UK MOVIES",SKY CINEMA DRAMA
-http://gtv23.xyz:80/50005000/50005000/228295.ts
+http://soberon.us:25461/bullnew/soberonnew/480
 #EXTINF:-1 tvg-ID="SkyCinemaFamily.uk" group-title="UK MOVIES",SKY CINEMA FAMILY
-http://gtv23.xyz:80/50005000/50005000/391349.ts
+http://soberon.us:25461/bullnew/soberonnew/481
 #EXTINF:-1 tvg-ID="SkyCinemaGreats.uk" group-title="UK MOVIES",SKY CINEMA GREATS
-http://gtv23.xyz:80/50005000/50005000/228287.ts
+http://soberon.us:25461/bullnew/soberonnew/482
 #EXTINF:-1 tvg-ID="SkyCinemaHits.uk" group-title="UK MOVIES",SKY CINEMA HITS
-http://gtv23.xyz:80/50005000/50005000/228286.ts
+http://soberon.us:25461/bullnew/soberonnew/483
 #EXTINF:-1 tvg-ID="SkyCinemaHits.uk" group-title="UK MOVIES",SKY CINEMA PREMIERE
-http://gtv23.xyz:80/50005000/50005000/228272.ts
+http://soberon.us:25461/bullnew/soberonnew/484
 #EXTINF:-1 tvg-ID="SkyCinemaSciFiandHorror.uk" group-title="UK MOVIES",SKY CINEMA SCIFI AND HORROR
-http://gtv23.xyz:80/50005000/50005000/228281.ts
-#EXTINF:-1 tvg-ID="SkyCinemaSelect.uk" group-title="UK MOVIES",SKY CINEMA SELECT
-http://gtv23.xyz:80/50005000/50005000/391354.ts
+http://soberon.us:25461/bullnew/soberonnew/485
 #EXTINF:-1 tvg-ID="SkyCinemaThriller.uk" group-title="UK MOVIES",SKY CINEMA TRILLER
-http://gtv23.xyz:80/50005000/50005000/228284.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17341
 #EXTINF:-1 tvg-ID="" group-title="UK MOVIES",SKY DISNEY
-http://gtv23.xyz:80/50005000/50005000/1661205.ts
+http://soberon.us:25461/bullnew/soberonnew/479
 #EXTINF:-1 tvg-ID="SonyChannel(src01).uk" group-title="UK MOVIES",SONY CHANNEL
-http://gtv23.xyz:80/50005000/50005000/190007.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17367
 #EXTINF:-1 tvg-ID="SonyAction(src01).uk" group-title="UK MOVIES",SONY MOVIES ACTION
-http://gtv23.xyz:80/50005000/50005000/175780.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/69511
 #EXTINF:-1 tvg-ID="TalkingPictures.uk" group-title="UK MOVIES",TALKINGPICTURES
 http://gtv23.xyz:80/50005000/50005000/190013.ts
 #EXTINF:-1 tvg-ID="" group-title="UK MOVIES",TCM
-http://gtv23.xyz:80/50005000/50005000/1396375.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17363
 #EXTINF:-1 tvg-ID="" group-title="UK MOVIES",TRUE MOVIES
 http://gtv23.xyz:80/50005000/50005000/1768481.ts
 #EXTINF:-1 tvg-ID="" group-title="UK MOVIES",UNIVERSAL CHANNEL
-http://gtv23.xyz:80/50005000/50005000/1768482.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17357
 
 
 #EXTINF:-1 tvg-ID="BabyTV.uk" group-title="UK KIDS",BABY TV
-http://gtv23.xyz:80/50005000/50005000/189889.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17336
 #EXTINF:-1 tvg-ID="CBeebies.uk" group-title="UK KIDS",BBC CBEEBIES
-http://gtv23.xyz:80/50005000/50005000/189915.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/69482
 #EXTINF:-1 tvg-ID="Boomerang.uk" group-title="UK KIDS",BOOMERANG
-http://gtv23.xyz:80/50005000/50005000/391241.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17334
 #EXTINF:-1 tvg-ID="CartoonNetwork.uk" group-title="UK KIDS",CARTOON NETWORK
-http://gtv23.xyz:80/50005000/50005000/1769152.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17323
 #EXTINF:-1 tvg-ID="Cartoonito.uk" group-title="UK KIDS",CARTOONITO
-http://gtv23.xyz:80/50005000/50005000/189913.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/69483
 #EXTINF:-1 tvg-ID="DisneyChannel.uk" group-title="UK KIDS",DISNEY CHANNEL
-http://gtv23.xyz:80/50005000/50005000/1661120.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17325
 #EXTINF:-1 tvg-ID="DisneyJunior.uk" group-title="UK KIDS",DISNEY JUNIOR
-http://gtv23.xyz:80/50005000/50005000/391238.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17697
 #EXTINF:-1 tvg-ID="Nickelodeon.uk" group-title="UK KIDS",NICKELODEON
-http://gtv23.xyz:80/50005000/50005000/189984.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17332
 #EXTINF:-1 tvg-ID="NickJr.uk" group-title="UK KIDS",NICK JUNIOR
-http://gtv23.xyz:80/50005000/50005000/189981.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17329
 #EXTINF:-1 tvg-ID="NickJrToo.uk" group-title="UK KIDS",NICK JUNIOR TOO
-http://gtv23.xyz:80/50005000/50005000/189982.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17330
 #EXTINF:-1 tvg-ID="Nicktoons.uk" group-title="UK KIDS",NICK TOONS
-http://gtv23.xyz:80/50005000/50005000/189983.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17328
 #EXTINF:-1 tvg-ID="Pop.uk" group-title="UK KIDS",POP CHANNEL
-http://gtv23.xyz:80/50005000/50005000/189986.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17298
 #EXTINF:-1 tvg-ID="TinyPop.uk" group-title="UK KIDS",TINY POP
-http://gtv23.xyz:80/50005000/50005000/190016.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17319
 
 
 #EXTINF:-1 tvg-ID="AnimalPlanet.uk" group-title="UK DOCUMENTARIES",ANIMAL PLANET
-http://gtv23.xyz:80/50005000/50005000/391170.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17315
 #EXTINF:-1 tvg-ID="BoxNation.uk" group-title="UK SPORTS",BOX NATION
-http://gtv23.xyz:80/50005000/50005000/189910.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17272
 #EXTINF:-1 tvg-ID="DMAX.uk" group-title="UK DOCUMENTARIES",DMAX
-http://gtv23.xyz:80/50005000/50005000/189939.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/69503
 #EXTINF:-1 tvg-ID="Dave.uk" group-title="UK DOCUMENTARIES",DAVE
-http://gtv23.xyz:80/50005000/50005000/189931.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/69502
 #EXTINF:-1 tvg-ID="FoodNetwork.uk" group-title="UK DOCUMENTARIES",FOOD NETWORK
-http://gtv23.xyz:80/50005000/50005000/189947.ts
-#EXTINF:-1 tvg-ID="HGTV.uk" group-title="UK DOCUMENTARIES",HGTV
-http://gtv23.xyz:80/50005000/50005000/1077497.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17699
 #EXTINF:-1 tvg-ID="Quest.uk" group-title="UK DOCUMENTARIES",QUEST
-http://gtv23.xyz:80/50005000/50005000/391501.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/69488
 #EXTINF:-1 tvg-ID="SkyDocumentaries.uk" group-title="UK DOCUMENTARIES",SKY DOCUMENTARIES
-http://gtv23.xyz:80/50005000/50005000/1400759.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/277146
 
 
 #EXTINF:-1 tvg-ID="Eurosport1.uk" group-title="UK SPORTS",EUROSPORT 1
-http://gtv23.xyz:80/50005000/50005000/391450.ts
+https://s4.fctelerium.com:999/hls/eurosp1.m3u8?md5=q_ApGPjuUecCNihWJ7HBlg&expires=1645760408
 #EXTINF:-1 tvg-ID="Eurosport2.uk" group-title="UK SPORTS",EUROSPORT 2
-http://gtv23.xyz:80/50005000/50005000/1847082.ts
+https://s3.fctelerium.com:999/hls/eurosp2.m3u8?md5=_atqWE80D_TKpdROFVkKzw&expires=1645760457
 #EXTINF:-1 tvg-ID="" group-title="UK SPORTS",FIGHT BOX
-http://gtv23.xyz:80/50005000/50005000/391470.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/77990
 #EXTINF:-1 tvg-ID="SkySportsArena.uk" group-title="UK SPORTS",SKY SPORTS ARENA
-http://gtv23.xyz:80/50005000/50005000/1846772.ts
+http://soberon.us:25461/bullnew/soberonnew/475
 #EXTINF:-1 tvg-ID="SkySportsMainEvent.uk" group-title="UK SPORTS",SKY SPORTS MAIN EVENT
-http://gtv23.xyz:80/50005000/50005000/1847084.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17286
 #EXTINF:-1 tvg-ID="SkySportsRacing.uk" group-title="UK SPORTS",SKY SPORTS RACING
-http://gtv23.xyz:80/50005000/50005000/189989.ts
-#EXTINF:-1 tvg-ID="SportystuffTV.uk" group-title="UK SPORTS",SportyStuff
-http://gtv23.xyz:80/50005000/50005000/1400414.ts
-#EXTINF:-1 tvg-ID="TalkSport.uk" group-title="UK SPORTS",TALKSPORTS
-http://gtv23.xyz:80/50005000/50005000/190013.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17289
 
 
 #EXTINF:-1 tvg-ID="AlJazeera.uk" group-title="UK NEWS",Al JAZEERA HD
-http://gtv23.xyz:80/50005000/50005000/189879.ts
-#EXTINF:-1 tvg-ID="CNBC.uk" group-title="UK NEWS",CNBC NEWS
-http://gtv23.xyz:80/50005000/50005000/189923.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/243953
 #EXTINF:-1 tvg-ID="euronews.uk" group-title="UK NEWS",EURONEWS
-http://gtv23.xyz:80/50005000/50005000/391197.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17694
 #EXTINF:-1 tvg-ID="SkyNews.uk" group-title="UK NEWS",SKY NEWS
-http://gtv23.xyz:80/50005000/50005000/190003.ts
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/41680
 
 
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",90210
+#EXTINF:-1 group-title="PLUTO PLUTO ENTERTAINMENT",90210
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",AMC STORIES
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",AMC STORIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",BAYWATCH
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",BAYWATCH
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",BOUNCE XL
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",BOUNCE XL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",BRITISH DRAMA
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",BRITISH DRAMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",CMT
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",CMT
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcc42446750e200093b15e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",DEGRASSI
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",DEGRASSI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c6eeb85c05dfc257e5a50c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",FUSE BEAT
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",FUSE BEAT
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176fddda3a6160007f60433/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",MORE TV DRAMA
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",MORE TV DRAMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PARAMOUNT+ PICKS
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",PARAMOUNT+ PICKS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PEOPLE TV
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",PEOPLE TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV BET
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",PLUTO TV BET
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV BET HER
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",PLUTO TV BET HER
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV DRAMA LIFE
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",PLUTO TV COMEDY CENTRAL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fc7b66-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d8e6980-4a42-4645-8bd4-e9f35a842585&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",PLUTO TV DRAMA LIFE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV LOVE STORIES
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",PLUTO TV LOVE STORIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e181520cfa000771ce79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV MTV
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",PLUTO TV MTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV SOAPS
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",PLUTO TV SOAPS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610c5f80f71f660007a2ad8e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV SUSPENSE
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",PLUTO TV SUSPENSE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",SCIFI
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",SCIFI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",SHOWTIME SELECTS
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",SHOWTIME SELECTS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",STAR TREK
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",TV LAND DRAMA
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",TV LAND DRAMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",TV LAND SITCOMS
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",TV LAND SITCOMS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",FLIX OF FURY
+#EXTINF:-1 group-title="PLUTO MOVIES",FLIX OF FURY
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PARAMOUNT MOVIE CHANNEL
+#EXTINF:-1 group-title="PLUTO MOVIES",PARAMOUNT MOVIE CHANNEL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV 70S REWIND
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV 70S REWIND
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV 80S REWIND
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV 80S REWIND
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV 90S THROWBACK
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV 90S THROWBACK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV ACTION
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV ACTION
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV CLASSIC MOVIES
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV CLASSIC MOVIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV COMEDY
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV COMEDY
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV CRIME MOVIES
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV CRIME MOVIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV CULT FILMS
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV CULT FILMS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV DRAMA
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV DRAMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV FANTASTIC
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV FANTASTIC
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV HORROR
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV HORROR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV REACTION
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV REACTION
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV ROMANCE
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV ROMANCE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV SPOTLIGHT
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV SPOTLIGHT
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV STAFF PICKS
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV STAFF PICKS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV TERROR
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV TERROR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV TRILLERS
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV TRILLERS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV WESTERNS
+#EXTINF:-1 group-title="PLUTO MOVIES",PLUTO TV WESTERNS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",THE ASYLUMS
+#EXTINF:-1 group-title="PLUTO MOVIES",THE ASYLUMS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",BBC KIDS
+#EXTINF:-1 group-title="PLUTO KIDS",BBC KIDS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb00b4b6455d0007493b0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",FIND OUT WHY
+#EXTINF:-1 group-title="PLUTO KIDS",FIND OUT WHY
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9368c7ad900082bc9a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",FOREVER KIDS
+#EXTINF:-1 group-title="PLUTO KIDS",FOREVER KIDS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",GARFIELD AND FRIENDS
+#EXTINF:-1 group-title="PLUTO KIDS",GARFIELD AND FRIENDS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",KARTOON CHANNEL
+#EXTINF:-1 group-title="PLUTO KIDS",KARTOON CHANNEL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",KIDS MOVIE CLUB
+#EXTINF:-1 group-title="PLUTO KIDS",KIDS MOVIE CLUB
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",LITTLE STARS UNIVERSE
+#EXTINF:-1 group-title="PLUTO KIDS",LITTLE STARS UNIVERSE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV NICK
+#EXTINF:-1 group-title="PLUTO KIDS",PLUTO TV NICK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV NICK JR
+#EXTINF:-1 group-title="PLUTO KIDS",PLUTO TV NICK JR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",NICK TOTALLY TURTLES
+#EXTINF:-1 group-title="PLUTO KIDS",NICK TOTALLY TURTLES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",RAINBOW SQUAD
+#EXTINF:-1 group-title="PLUTO KIDS",RAINBOW SQUAD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275a5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",TEAM SPIRIT
+#EXTINF:-1 group-title="PLUTO KIDS",TEAM SPIRIT
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",PLUTO TV DOCUMENTARIES
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",AMERICA'S TEST KITCHEN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fe5022-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=df6a6b9b-0689-4b00-b2bf-76029b5346c3&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",BBC FOOD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a89-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a9809e5-d2cc-4c81-83bd-f32abd6ba656&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",BBC HOME
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a88-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cc32be4-4aaf-4114-8ef1-506a40b4c05f&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",DOG THE BOUNTY HUNTER
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fc5452-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ab79839-816a-41ed-a9c2-9c8e65b64cf7&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",FEAR FACTOR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fb9104-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c26933d6-c2bd-4bfe-b3aa-efb9b8d6c13f&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",FOOD TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fb9102-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3c583db5-4365-4806-989e-170b3bd972be&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",IRON CHEF
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6148c756ce8091000748d113/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ffd6c8-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7bd732bc-ade0-46cc-bef7-fc888bebc17e&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",PLUTO TV ANIMALS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fb42e3-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af80ec80-538c-4698-a58c-7a9ad9f7537d&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",PLUTO TV CARS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fb69f0-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab06df28-6037-4b83-945a-fdbead1877d7&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",PLUTO TV DOCUMENTARIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",PLUTO TV HISTORY
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fbb816-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=389b2872-f463-425a-8e66-46039e2b67f7&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",PLUTO TV LIVES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fbb816-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=389b2872-f463-425a-8e66-46039e2b67f7&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",PLUTO TV PARANORMAL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fbdf23-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25341fd6-3689-4b7e-818b-70fe42b754d2&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",PLUTO TV SCIENCE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fb42e1-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc96cb17-65a5-47ba-a150-b7195ec62ddc&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",PLUTO TV SPIKE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fb69f3-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=54a3556e-428f-4232-ab13-d5cdbc2a5bea&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",PLUTO TV SPIKE OUTDOORS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fc5456-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=840f46fa-1ad9-46fa-9d84-6c4b6329c29c&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",PLUTO TV TRAVEL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fbb815-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d671086-918b-4373-aed1-11b122a816a1&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",REALITY
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf0b06d2d855ee15115e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fd65c4-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=48de78e9-e0fe-4ad6-9abc-c935c6762081&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",RESCUE 911
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fec557-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fffe8a40-1a81-4e6c-bf00-13db234b6a61&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",SKILLS + TRILLS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff6190-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c08e8164-f3cb-4a3c-bbab-a21cb0cdcf4c&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PLUTO DOCUMENTARIES",SURVIVOR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fec556-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30b71b31-aa42-4f60-9562-8e96360fdf94&userId=&serverSideAds=true
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="ABC" group-title="ENTERTAINMENT",ABC
-http://gtv23.xyz:80/rossi/rossi/648292.m3u8
-#EXTINF:-1 tvg-id="AMC.us" group-title="ENTERTAINMENT",AMC
-http://gtv23.xyz:80/rossi/rossi/175787.m3u8
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT",ANTENNA TV
-http://gtv23.xyz:80/rossi/rossi/175795.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica.us" group-title="ENTERTAINMENT",BBC AMERICA
-http://gtv23.xyz:80/rossi/rossi/1846782.m3u8
-#EXTINF:-1 tvg-id="BET.us" group-title="ENTERTAINMENT",BET
-http://gtv23.xyz:80/rossi/rossi/175801.m3u8
-#EXTINF:-1 tvg-id="Bravo.us" group-title="ENTERTAINMENT",BRAVO
-http://gtv23.xyz:80/rossi/rossi/175805.m3u8
-#EXTINF:-1 tvg-id="WCBS.us" group-title="ENTERTAINMENT",CBS
-http://gtv23.xyz:80/rossi/rossi/648409.m3u8
-#EXTINF:-1 tvg-id="CMT.us" group-title="ENTERTAINMENT",CMT
-http://gtv23.xyz:80/rossi/rossi/177079.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us" group-title="ENTERTAINMENT",COMEDY CENTRAL
-http://gtv23.xyz:80/rossi/rossi/175813.m3u8
-#EXTINF:-1 tvg-id="COZITV.us" group-title="ENTERTAINMENT",COZI TV
-http://gtv23.xyz:80/rossi/rossi/175820.m3u8
-#EXTINF:-1 tvg-id="FOXNet.us" group-title="ENTERTAINMENT",FOX
-http://gtv23.xyz:80/rossi/rossi/648532.m3u8
-#EXTINF:-1 tvg-id="Freeform.us" group-title="ENTERTAINMENT",FREEFORM
-http://gtv23.xyz:80/rossi/rossi/175852.m3u8
-#EXTINF:-1 tvg-id="Fuse.us" group-title="ENTERTAINMENT",FUSE
-http://gtv23.xyz:80/rossi/rossi/175857.m3u8
-#EXTINF:-1 tvg-id="FX.us" group-title="ENTERTAINMENT",FX
-http://gtv23.xyz:80/rossi/rossi/176031.m3u8
-#EXTINF:-1 tvg-id="FXX.us" group-title="ENTERTAINMENT",FXX
-http://gtv23.xyz:80/rossi/rossi/176039.m3u8
-#EXTINF:-1 tvg-id="FXM.us" group-title="ENTERTAINMENT",FXM
-http://gtv23.xyz:80/rossi/rossi/176036.m3u8
-#EXTINF:-1 tvg-id="FYI.us" group-title="ENTERTAINMENT",FYI
-http://gtv23.xyz:80/rossi/rossi/175859.m3u8
-#EXTINF:-1 tvg-id="ion.us" group-title="ENTERTAINMENT",ION TV
-http://gtv23.xyz:80/rossi/rossi/715673.m3u8
-#EXTINF:-1 tvg-id="Oxygen.us" group-title="ENTERTAINMENT",OXYGEN
-http://gtv23.xyz:80/rossi/rossi/175911.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="ENTERTAINMENT",PARAMOUNT
-http://gtv23.xyz:80/rossi/rossi/175914.m3u8
-#EXTINF:-1 tvg-id="POP.us" group-title="ENTERTAINMENT",POP
-http://gtv23.xyz:80/rossi/rossi/581833.m3u8
-#EXTINF:-1 tvg-id="SundanceTV.us" group-title="ENTERTAINMENT",SUNDANCE
-http://gtv23.xyz:80/rossi/rossi/176085.m3u8
-#EXTINF:-1 tvg-id="SYFY.us" group-title="ENTERTAINMENT",SYFY
-http://gtv23.xyz:80/rossi/rossi/175933.m3u8
-#EXTINF:-1 tvg-id="TBS.us" group-title="ENTERTAINMENT",TBS
-http://gtv23.xyz:80/rossi/rossi/175938.m3u8
-#EXTINF:-1 tvg-id="WDCW.us" group-title="ENTERTAINMENT",THE CW
-http://gtv23.xyz:80/rossi/rossi/648451.m3u8
-#EXTINF:-1 tvg-id="TNT.us" group-title="ENTERTAINMENT",TNT
-http://gtv23.xyz:80/rossi/rossi/175951.m3u8
-#EXTINF:-1 tvg-id="truTV.us" group-title="ENTERTAINMENT",TRUTV
-http://gtv23.xyz:80/rossi/rossi/175960.m3u8
-#EXTINF:-1 tvg-id="TVLand.us" group-title="ENTERTAINMENT",TV LAND
-http://gtv23.xyz:80/rossi/rossi/175964.m3u8
-#EXTINF:-1 tvg-id="TVONE.us" group-title="ENTERTAINMENT",TV ONE
-http://gtv23.xyz:80/rossi/rossi/175963.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" group-title="ENTERTAINMENT",USA NETWORK
-http://gtv23.xyz:80/rossi/rossi/175967.m3u8
-#EXTINF:-1 tvg-id="VH1.us" group-title="ENTERTAINMENT",VH1
-http://gtv23.xyz:80/rossi/rossi/229001.m3u8
-#EXTINF:-1 tvg-id="WEtv.us" group-title="ENTERTAINMENT",WE TV
-http://gtv23.xyz:80/rossi/rossi/175974.m3u8
-
-
-#EXTINF:-1 tvg-id="5StarMAX.us" group-title="MOVIES",5 STARMAX
-http://gtv23.xyz:80/rossi/rossi/176010.m3u8
-#EXTINF:-1 tvg-id="ActionMAX.us" group-title="MOVIES",ACTIONMAX
-http://gtv23.xyz:80/rossi/rossi/176011.m3u8
-#EXTINF:-1 tvg-id="Cinemax.us" group-title="MOVIES",CINEMAX
-http://gtv23.xyz:80/rossi/rossi/176013.m3u8
-#EXTINF:-1 tvg-id="MoreMAX.us" group-title="MOVIES",MOREMAX
-http://gtv23.xyz:80/rossi/rossi/176016.m3u8
-#EXTINF:-1 tvg-id="MovieMax.us" group-title="MOVIES",MOVIEMAX
-http://gtv23.xyz:80/rossi/rossi/176018.m3u8
-#EXTINF:-1 tvg-id="OuterMAX.us" group-title="MOVIES",OUTERMAX
-http://gtv23.xyz:80/rossi/rossi/176020.m3u8
-#EXTINF:-1 tvg-id="ThrillerMAX.us" group-title="MOVIES",TRILLERMAX
-http://gtv23.xyz:80/rossi/rossi/176021.m3u8
-#EXTINF:-1 tvg-id="Epix.us" group-title="MOVIES",EPIX
-http://gtv23.xyz:80/rossi/rossi/176026.m3u8
-#EXTINF:-1 tvg-id="EPIX2.us" group-title="MOVIES",EPIX 2
-http://gtv23.xyz:80/rossi/rossi/176030.m3u8
-#EXTINF:-1 tvg-id="EpixDrivein.us" group-title="MOVIES",EPIX DRIVE-IN
-http://gtv23.xyz:80/rossi/rossi/176027.m3u8
-#EXTINF:-1 tvg-id="EpixHits.us" group-title="MOVIES",EPIX HITS
-http://gtv23.xyz:80/rossi/rossi/176028.m3u8
-#EXTINF:-1 tvg-id="HallmarkChannel.us" group-title="MOVIES",HALLMARK
-http://gtv23.xyz:80/rossi/rossi/175864.m3u8
-#EXTINF:-1 tvg-id="HallmarkDrama.us" group-title="MOVIES",HALLMARK DRAMA
-http://gtv23.xyz:80/rossi/rossi/175866.m3u8
-#EXTINF:-1 tvg-id="HallmarkMoviesandMysteries.us" group-title="MOVIES",HALLMARK MOVIES AND MYSTERIES
-http://gtv23.xyz:80/rossi/rossi/175870.m3u8
-#EXTINF:-1 tvg-id="HBO.us" group-title="MOVIES",HBO
-http://gtv23.xyz:80/rossi/rossi/176044.m3u8
-#EXTINF:-1 tvg-id="HBO2.us" group-title="MOVIES",HBO 2
-http://gtv23.xyz:80/rossi/rossi/176041.m3u8
-#EXTINF:-1 tvg-id="HBOComedy.us" group-title="MOVIES",HBO COMEDY
-http://gtv23.xyz:80/rossi/rossi/176042.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.us" group-title="MOVIES",HBO FAMILY
-http://gtv23.xyz:80/rossi/rossi/176047.m3u8
-#EXTINF:-1 tvg-id="HBOSignature.us" group-title="MOVIES",HBO SIGNATURE
-http://gtv23.xyz:80/rossi/rossi/176048.m3u8
-#EXTINF:-1 tvg-id="HBOZone.us" group-title="MOVIES",HBO ZONE
-http://gtv23.xyz:80/rossi/rossi/176052.m3u8
-#EXTINF:-1 tvg-id="Lifetime.us" group-title="MOVIES",LIFETIME
-http://gtv23.xyz:80/rossi/rossi/175891.m3u8
-#EXTINF:-1 tvg-id="LMN.us" group-title="MOVIES",LIFETIME MOVIE NETWORK
-http://gtv23.xyz:80/rossi/rossi/176369.m3u8
-#EXTINF:-1 tvg-id="Showtime.us" group-title="MOVIES",SHOWTIME
-http://gtv23.xyz:80/rossi/rossi/176056.m3u8
-#EXTINF:-1 tvg-id="Showtime2.us" group-title="MOVIES",SHOWTIME 2
-http://gtv23.xyz:80/rossi/rossi/176054.m3u8
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us" group-title="MOVIES",SHOWTIME EXTREME
-http://gtv23.xyz:80/rossi/rossi/176059.m3u8
-#EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" group-title="MOVIES",SHOWTIME FAMILY ZONE
-http://gtv23.xyz:80/rossi/rossi/176060.m3u8
-#EXTINF:-1 tvg-id="ShowtimeNext.us" group-title="MOVIES",SHOWTIME NEXT
-http://gtv23.xyz:80/rossi/rossi/176061.m3u8
-#EXTINF:-1 tvg-id="ShowtimeShowcase.us" group-title="MOVIES",SHOWTIME SHOWCASE
-http://gtv23.xyz:80/rossi/rossi/176063.m3u8
-#EXTINF:-1 tvg-id="SonyMovieChannel.us" group-title="MOVIES",SONY MOVIE CHANNEL
-http://gtv23.xyz:80/rossi/rossi/176066.m3u8
-#EXTINF:-1 tvg-id="Starz.us" group-title="MOVIES",STARZ
-http://gtv23.xyz:80/rossi/rossi/176071.m3u8
-#EXTINF:-1 tvg-id="StarzCinema.us" group-title="MOVIES",STARZ CINEMA
-http://gtv23.xyz:80/rossi/rossi/176068.m3u8
-#EXTINF:-1 tvg-id="StarzComedy.us" group-title="MOVIES",STARZ COMEDY
-http://gtv23.xyz:80/rossi/rossi/176069.m3u8
-#EXTINF:-1 tvg-id="StarzEncore.us" group-title="MOVIES",STARZ ENCORE
-http://gtv23.xyz:80/rossi/rossi/176076.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreAction.us" group-title="MOVIES",STARZ ENCORE ACTION
-http://gtv23.xyz:80/rossi/rossi/176072.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreClassic.us" group-title="MOVIES",STARZ ENCORE CLASSIC
-http://gtv23.xyz:80/rossi/rossi/176075.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreFamily.us" group-title="MOVIES",STARZ ENCORE FAMILY
-http://gtv23.xyz:80/rossi/rossi/176078.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" group-title="MOVIES",STARZ ENCORE SUSPENSE
-http://gtv23.xyz:80/rossi/rossi/176079.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" group-title="MOVIES",STARZ ENCORE WESTERNS
-http://gtv23.xyz:80/rossi/rossi/176081.m3u8
-#EXTINF:-1 tvg-id="starzkidsfamily.us" group-title="MOVIES",STARZ KIDS AND FAMILY
-http://gtv23.xyz:80/rossi/rossi/176083.m3u8
-#EXTINF:-1 tvg-id="TurnerClassicMovies.us" group-title="MOVIES",TURNER CLASSIC MOVIES
-http://gtv23.xyz:80/rossi/rossi/784931.m3u8
-
-
-#EXTINF:-1 tvg-id="BabyFirstTV.us" group-title="KIDS",BABY FIRST
-http://gtv23.xyz:80/rossi/rossi/176236.m3u8
-#EXTINF:-1 tvg-id="Boomerang.us" group-title="KIDS",BOOMERANG
-http://gtv23.xyz:80/rossi/rossi/176238.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="KIDS",CARTOON NETWORK
-http://gtv23.xyz:80/rossi/rossi/176241.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us" group-title="KIDS",DISNEY CHANNEL
-http://gtv23.xyz:80/rossi/rossi/176246.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us" group-title="KIDS",DISNEY JR.
-http://gtv23.xyz:80/rossi/rossi/176252.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us" group-title="KIDS",DISNEY XD
-http://gtv23.xyz:80/rossi/rossi/176257.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="KIDS",NICKELODEON
-http://gtv23.xyz:80/rossi/rossi/176267.m3u8
-#EXTINF:-1 tvg-id="NickJr.us" group-title="KIDS",NICK JR
-http://gtv23.xyz:80/rossi/rossi/176264.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us" group-title="KIDS",NICKTOONS
-http://gtv23.xyz:80/rossi/rossi/176266.m3u8
-#EXTINF:-1 tvg-id="TeenNick.us" group-title="KIDS",TEEN NICK
-http://gtv23.xyz:80/rossi/rossi/176265.m3u8
-#EXTINF:-1 tvg-id="PBSKids.us" group-title="KIDS",PBS KIDS
-http://gtv23.xyz:80/rossi/rossi/176263.m3u8
-#EXTINF:-1 tvg-id="UniversalKids.us" group-title="KIDS",UNIVERSAL KIDS
-http://gtv23.xyz:80/rossi/rossi/1699093.m3u8
-
-
-#EXTINF:-1 tvg-id="AandE(East).us" group-title="DOCUMENTARIES",A&E
-http://gtv23.xyz:80/rossi/rossi/175784.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet(East)(src01).us" group-title="DOCUMENTARIES",ANIMAL PLANET
-http://gtv23.xyz:80/rossi/rossi/175791.m3u8
-#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIES",COOKING CHANNEL
-http://gtv23.xyz:80/rossi/rossi/175816.m3u8
-#EXTINF:-1 tvg-id="DestinationAmerica(src01).us" group-title="DOCUMENTARIES",DESTINATION AMERICA
-http://gtv23.xyz:80/rossi/rossi/175825.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" group-title="DOCUMENTARIES",DISCOVERY CHANNEL
-http://gtv23.xyz:80/rossi/rossi/175826.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.us" group-title="DOCUMENTARIES",FOOD NETWORK
-http://gtv23.xyz:80/rossi/rossi/175847.m3u8
-#EXTINF:-1 tvg-id="HGTV.us" group-title="DOCUMENTARIES",HGTV
-http://gtv23.xyz:80/rossi/rossi/175873.m3u8
-#EXTINF:-1 tvg-id="History.us" group-title="DOCUMENTARIES",HISTORY
-http://gtv23.xyz:80/rossi/rossi/175878.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" group-title="DOCUMENTARIES",INVESTIGATION DISCOVERY
-http://gtv23.xyz:80/rossi/rossi/175883.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us" group-title="DOCUMENTARIES",NATIONAL GEOGRAPHIC
-http://gtv23.xyz:80/rossi/rossi/175899.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" group-title="DOCUMENTARIES",NAT GEO WILD
-http://gtv23.xyz:80/rossi/rossi/175901.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" group-title="DOCUMENTARIES",OUTDOOR CHANNEL
-http://gtv23.xyz:80/rossi/rossi/175906.m3u8
-#EXTINF:-1 tvg-id="TLC.us" group-title="DOCUMENTARIES",TLC
-http://gtv23.xyz:80/rossi/rossi/175946.m3u8
-#EXTINF:-1 tvg-id="TheTravelChannel.us" group-title="DOCUMENTARIES",TRAVEL CHANNEL
-http://gtv23.xyz:80/rossi/rossi/175958.m3u8
-
-
-#EXTINF:-1 tvg-id="BigTenNetwork.us" group-title="SPORTS",BIG TEN NETWORK
-http://gtv23.xyz:80/rossi/rossi/220402.m3u8
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" group-title="SPORTS",CBS SPORTS NETWORK
-http://gtv23.xyz:80/rossi/rossi/176607.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" group-title="SPORTS",ESPN
-http://gtv23.xyz:80/rossi/rossi/220406.m3u8
-#EXTINF:-1 tvg-id="ESPN2(src01).us" group-title="SPORTS",ESPN2
-http://gtv23.xyz:80/rossi/rossi/220407.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us" group-title="SPORTS",ESPNU
-http://gtv23.xyz:80/rossi/rossi/220412.m3u8
-#EXTINF:-1 tvg-id="ESPNEWS.us" group-title="SPORTS",ESPNEWS
-http://gtv23.xyz:80/rossi/rossi/220410.m3u8
-#EXTINF:-1 tvg-id="FS1.us" group-title="SPORTS",FS1
-http://gtv23.xyz:80/rossi/rossi/220387.m3u8
-#EXTINF:-1 tvg-id="FS2.us" group-title="SPORTS",FS2
-http://gtv23.xyz:80/rossi/rossi/220388.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.us" group-title="SPORTS",GOLF CHANNEL
-http://gtv23.xyz:80/rossi/rossi/220424.m3u8
-#EXTINF:-1 tvg-id="MLBNetwork(src01).us" group-title="SPORTS",MLB NETWORK
-http://gtv23.xyz:80/rossi/rossi/176144.m3u8
-#EXTINF:-1 tvg-id="MOTORTREND.us" group-title="SPORTS",MOTOR TREND
-http://gtv23.xyz:80/rossi/rossi/175834.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" group-title="SPORTS",NBA TV
-http://gtv23.xyz:80/rossi/rossi/176154.m3u8
-#EXTINF:-1 tvg-id="WNBC.us" group-title="SPORTS",NBC
-http://gtv23.xyz:80/rossi/rossi/220431.m3u8
-#EXTINF:-1 tvg-id="NFLNETWORK.us" group-title="SPORTS",NFL NETWORK
-http://gtv23.xyz:80/rossi/rossi/176175.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us" group-title="SPORTS",TENNIS CHANNEL
-http://gtv23.xyz:80/rossi/rossi/220448.m3u8
-#EXTINF:-1 tvg-id="WillowCricket.us" group-title="SPORTS",WILLOW CRICKET
-http://gtv23.xyz:80/rossi/rossi/1104162.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",WWE NETWORK
-http://gtv23.xyz:80/rossi/rossi/220389.m3u8
-
-
-#EXTINF:- tvg-id="ABCNewsLive.us" group-title="NEWS",ABC NEWS
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_44.m3u8
-#EXTINF:- tvg-id="BBCWorldNews.us" group-title="NEWS",BBC WORLD NEWS
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/40986
-#EXTINF:- tvg-id="Bloomberg.us" group-title="NEWS",BLOOMBERG
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20992
-#EXTINF:- tvg-id="" group-title="NEWS",CBS NEWS
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:- tvg-id="CNN.us" group-title="NEWS",CNN
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21009
-#EXTINF:- tvg-id="FoxNewsChannel.us" group-title="NEWS",FOX NEWS
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21041
-#EXTINF:- tvg-id="MSNBC.us" group-title="NEWS",MSNBC
-http://1128480543.rsc.cdn77.org/yg2eCdIXV-hG4QKNrlh93g==,1642732509/1128480543/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24/7",8 SIMPLE RULES
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254234
+#EXTINF:-1 group-title="24/7",ALF
+http://soberon.us:25461/bullnew/soberonnew/2927
+#EXTINF:-1 group-title="24/7",AMERICAN DAD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254248
+#EXTINF:-1 group-title="24/7",BACK TO THE FUTURE
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254258
+#EXTINF:-1 group-title="24/7",BATMAN
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254262
+#EXTINF:-1 group-title="24/7",BECKER
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254417
+#EXTINF:-1 group-title="24/7",BEWITCHED
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254268
+#EXTINF:-1 group-title="24/7",BLUE BLOODS
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254271
+#EXTINF:-1 group-title="24/7",BOBS BURGERS
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254273
+#EXTINF:-1 group-title="24/7",BONAZA
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254274
+#EXTINF:-1 group-title="24/7",BROOKLYN NINE-NINE
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254280
+#EXTINF:-1 group-title="24/7",BURN NOTICE
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254283
+#EXTINF:-1 group-title="24/7",CRIMINAL MINDS
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254299
+#EXTINF:-1 group-title="24/7",CSI
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fe9e4a-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8780f56a-a476-4363-a2bb-e1e547b25541&userId=&serverSideAds=true
+#EXTINF:-1 group-title="24/7",CURIOUS GEORGE
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254465
+#EXTINF:-1 group-title="24/7",DOCTOR WHO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fcc982-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=233f7f28-784e-44d3-8593-c592f1c16de7&userId=&serverSideAds=true
+#EXTINF:-1 group-title="24/7",DUCK TALES
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254320
+#EXTINF:-1 group-title="24/7",EVERYBODY LOVES RAYMOND
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254328
+#EXTINF:-1 group-title="24/7",FAMILY GUY
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254331
+#EXTINF:-1 group-title="24/7",FAMILY MATTERS
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254332
+#EXTINF:-1 group-title="24/7",FAMILY TIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff137d-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b07477ef-7240-4e51-add5-892a974e607d&userId=&serverSideAds=true
+#EXTINF:-1 group-title="24/7",FRESH PRINCE OF BEL-AIR
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254344
+#EXTINF:-1 group-title="24/7",FUTURAMA
+http://soberon.us:25461/bullnew/soberonnew/2925
+#EXTINF:-1 group-title="24/7",GOOD LUCK CHARLIE
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254431
+#EXTINF:-1 group-title="24/7",GUNSMOKE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f75771dfc72a00071fd0e0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ffafb0-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ca080f0-cb19-41e7-8f39-42e384bcba5e&userId=&serverSideAds=true
+#EXTINF:-1 group-title="24/7",HARRY POTTER
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254370
+#EXTINF:-1 group-title="24/7",HAWAII FIVE-0
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254371
+#EXTINF:-1 group-title="24/7",HOGAN'S HEROES
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254377
+#EXTINF:-1 group-title="24/7",HOME IMPROVEMENTS
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254378
+#EXTINF:-1 group-title="24/7",KING OF QUEENS
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254403
+#EXTINF:-1 group-title="24/7",KUNG FU PANDA
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254407
+#EXTINF:-1 group-title="24/7",LAW AND ORDER
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254411
+#EXTINF:-1 group-title="24/7",MALCOM IN THE MIDDLE
+http://soberon.us:25461/bullnew/soberonnew/2947
+#EXTINF:-1 group-title="24/7",SEINFIELD
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/278918
+#EXTINF:-1 group-title="24/7",STAR TREK
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="24/7",THE ANDY GRIFFITH SHOW
+#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",THE BEVERLY HILLBILLIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7796e470510900070d4e3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a80-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b42529e4-d813-45ab-93fc-9856c8c8c865&userId=&serverSideAds=true
+#EXTINF:-1 group-title="24/7",THE BIG BANG THEORY
+http://soberon.us:25461/bullnew/soberonnew/2931
+#EXTINF:-1 group-title="24/7",THE GOLDEN GIRLS
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/278919
+#EXTINF:-1 group-title="24/7",THE JEFFERSONS
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/278917
+#EXTINF:-1 group-title="24/7",THE MIDDLE
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/254448
+#EXTINF:-1 group-title="24/7",THE WALKING DEAD
