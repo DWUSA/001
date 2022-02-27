@@ -4,7 +4,7 @@
 http://soberon.us:25461/bullnew/soberonnew/193
 #EXTINF:-1 tvg-ID="AMC.us" group-title="ENTERTAINMENT",AMC
 http://soberon.us:25461/bullnew/soberonnew/208
-#EXTINF:-1 tvg-ID="" group-title="ENTERTAINMENT",ANTENNA TV
+#EXTINF:-1 tvg-ID="AntennaTV.us" group-title="ENTERTAINMENT",ANTENNA TV
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71314
 #EXTINF:-1 tvg-ID="BBCAmerica.us" group-title="ENTERTAINMENT",BBC AMERICA
 http://soberon.us:25461/bullnew/soberonnew/211
