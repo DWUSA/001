@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ENTERTAINMENT",ABC
+#EXTINF:-1 tvg-id="COZITV.us" group-title="ENTERTAINMENT",ABC
 http://soberon.us:25461/bullnew/soberonnew/193
-#EXTINF:-1 group-title="ENTERTAINMENT",AMC
+#EXTINF:-1 tvg-id="AMC.us" group-title="ENTERTAINMENT",AMC
 http://soberon.us:25461/bullnew/soberonnew/208
-#EXTINF:-1 group-title="ENTERTAINMENT",ANTENNA TV
+#EXTINF:-1 tvg-id="COZITV.us" group-title="ENTERTAINMENT",ANTENNA TV
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71314
-#EXTINF:-1 tvg-id="BBCAmerica.us" group-title="ENTERTAINMENT",BBC AMERICA
+#EXTINF:-1 tvg-id="COZITV.us" tvg-id="BBCAmerica.us" group-title="ENTERTAINMENT",BBC AMERICA
 http://soberon.us:25461/bullnew/soberonnew/211
-#EXTINF:-1 tvg-id="BET.us" group-title="ENTERTAINMENT",BET
+#EXTINF:-1 tvg-id="COZITV.us" tvg-id="BET.us" group-title="ENTERTAINMENT",BET
 http://soberon.us:25461/bullnew/soberonnew/213
-#EXTINF:-1 tvg-id="Bravo.us" group-title="ENTERTAINMENT",BRAVO
+#EXTINF:-1 tvg-id="COZITV.us" tvg-id="Bravo.us" group-title="ENTERTAINMENT",BRAVO
 http://soberon.us:25461/bullnew/soberonnew/217
-#EXTINF:-1 group-title="ENTERTAINMENT",CBS
+#EXTINF:-1 tvg-id="COZITV.us" group-title="ENTERTAINMENT",CBS
 http://soberon.us:25461/bullnew/soberonnew/219
 #EXTINF:-1 tvg-id="CMT.us" group-title="ENTERTAINMENT",CMT
 https://h2.ustvgo.la/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDc6MjU6MzkgUE0maGFzaF92YWx1ZT1KUDFWOEpvcTZ3MFJDYnRaQUpjSDl3PT0mdmFsaWRtaW51dGVzPTI0MA==
