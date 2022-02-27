@@ -1,258 +1,258 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="COZITV.us" group-title="ENTERTAINMENT",ABC
+#EXTINF:-1 tvg-ID="KABC.us" group-title="ENTERTAINMENT",ABC
 http://soberon.us:25461/bullnew/soberonnew/193
-#EXTINF:-1 tvg-id="AMC.us" group-title="ENTERTAINMENT",AMC
+#EXTINF:-1 tvg-ID="AMC.us" group-title="ENTERTAINMENT",AMC
 http://soberon.us:25461/bullnew/soberonnew/208
-#EXTINF:-1 tvg-id="COZITV.us" group-title="ENTERTAINMENT",ANTENNA TV
+#EXTINF:-1 tvg-ID="" group-title="ENTERTAINMENT",ANTENNA TV
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71314
-#EXTINF:-1 tvg-id="COZITV.us" tvg-id="BBCAmerica.us" group-title="ENTERTAINMENT",BBC AMERICA
+#EXTINF:-1 tvg-ID="BBCAmerica.us" group-title="ENTERTAINMENT",BBC AMERICA
 http://soberon.us:25461/bullnew/soberonnew/211
-#EXTINF:-1 tvg-id="COZITV.us" tvg-id="BET.us" group-title="ENTERTAINMENT",BET
+#EXTINF:-1 tvg-ID="BET.us" group-title="ENTERTAINMENT",BET
 http://soberon.us:25461/bullnew/soberonnew/213
-#EXTINF:-1 tvg-id="COZITV.us" tvg-id="Bravo.us" group-title="ENTERTAINMENT",BRAVO
+#EXTINF:-1 tvg-ID="Bravo.us" group-title="ENTERTAINMENT",BRAVO
 http://soberon.us:25461/bullnew/soberonnew/217
-#EXTINF:-1 tvg-id="COZITV.us" group-title="ENTERTAINMENT",CBS
+#EXTINF:-1 tvg-ID="KCBS.us" group-title="ENTERTAINMENT",CBS
 http://soberon.us:25461/bullnew/soberonnew/219
-#EXTINF:-1 tvg-id="CMT.us" group-title="ENTERTAINMENT",CMT
-https://h2.ustvgo.la/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDc6MjU6MzkgUE0maGFzaF92YWx1ZT1KUDFWOEpvcTZ3MFJDYnRaQUpjSDl3PT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1 tvg-id="ComedyCentral.us" group-title="ENTERTAINMENT",COMEDY CENTRAL
+#EXTINF:-1 tvg-ID="CMT.us" group-title="ENTERTAINMENT",CMT
+http://soberon.us:25461/bullnew/soberonnew/234
+#EXTINF:-1 tvg-ID="ComedyCentral.us" group-title="ENTERTAINMENT",COMEDY CENTRAL
 http://soberon.us:25461/bullnew/soberonnew/237
-#EXTINF:-1 tvg-id="COZITV.us" group-title="ENTERTAINMENT",COZI TV
+#EXTINF:-1 tvg-ID="COZITV.us" group-title="ENTERTAINMENT",COZI TV
 http://soberon.us:25461/bullnew/soberonnew/239
-#EXTINF:-1 tvg-id="FOXNet.us" group-title="ENTERTAINMENT",FOX
+#EXTINF:-1 tvg-ID="FOXNet.us" group-title="ENTERTAINMENT",FOX
 http://soberon.us:25461/bullnew/soberonnew/261
-#EXTINF:-1 tvg-id="Freeform.us" group-title="ENTERTAINMENT",FREEFORM
+#EXTINF:-1 tvg-ID="Freeform.us" group-title="ENTERTAINMENT",FREEFORM
 http://soberon.us:25461/bullnew/soberonnew/277
-#EXTINF:-1 tvg-id="Fuse.us" group-title="ENTERTAINMENT",FUSE
+#EXTINF:-1 tvg-ID="Fuse.us" group-title="ENTERTAINMENT",FUSE
 http://soberon.us:25461/bullnew/soberonnew/278
-#EXTINF:-1 tvg-id="FX.us" group-title="ENTERTAINMENT",FX
+#EXTINF:-1 tvg-ID="FX.us" group-title="ENTERTAINMENT",FX
 http://soberon.us:25461/bullnew/soberonnew/280
-#EXTINF:-1 tvg-id="FXX.us" group-title="ENTERTAINMENT",FXX
+#EXTINF:-1 tvg-ID="FXX.us" group-title="ENTERTAINMENT",FXX
 http://soberon.us:25461/bullnew/soberonnew/282
-#EXTINF:-1 tvg-id="FXM.us" group-title="ENTERTAINMENT",FXM
+#EXTINF:-1 tvg-ID="FXM.us" group-title="ENTERTAINMENT",FXM
 http://soberon.us:25461/bullnew/soberonnew/281
-#EXTINF:-1 tvg-id="FYI.us" group-title="ENTERTAINMENT",FYI
+#EXTINF:-1 tvg-ID="FYI.us" group-title="ENTERTAINMENT",FYI
 http://soberon.us:25461/bullnew/soberonnew/283
-#EXTINF:-1 tvg-id="ion.us" group-title="ENTERTAINMENT",ION TV
+#EXTINF:-1 tvg-ID="ion.us" group-title="ENTERTAINMENT",ION TV
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/163361
-#EXTINF:-1 tvg-id="Oxygen.us" group-title="ENTERTAINMENT",OXYGEN
+#EXTINF:-1 tvg-ID="Oxygen.us" group-title="ENTERTAINMENT",OXYGEN
 http://soberon.us:25461/bullnew/soberonnew/340
-#EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="ENTERTAINMENT",PARAMOUNT
+#EXTINF:-1 tvg-ID="ParamountNetwork.us" group-title="ENTERTAINMENT",PARAMOUNT
 http://soberon.us:25461/bullnew/soberonnew/344
-#EXTINF:-1 tvg-id="POP.us" group-title="ENTERTAINMENT",POP
+#EXTINF:-1 tvg-ID="POP.us" group-title="ENTERTAINMENT",POP
 http://soberon.us:25461/bullnew/soberonnew/346
-#EXTINF:-1 tvg-id="SundanceTV.us" group-title="ENTERTAINMENT",SUNDANCE
+#EXTINF:-1 tvg-ID="SundanceTV.us" group-title="ENTERTAINMENT",SUNDANCE
 http://soberon.us:25461/bullnew/soberonnew/360
-#EXTINF:-1 tvg-id="SYFY.us" group-title="ENTERTAINMENT",SYFY
+#EXTINF:-1 tvg-ID="SYFY.us" group-title="ENTERTAINMENT",SYFY
 http://soberon.us:25461/bullnew/soberonnew/361
-#EXTINF:-1 tvg-id="TBS.us" group-title="ENTERTAINMENT",TBS
+#EXTINF:-1 tvg-ID="TBS.us" group-title="ENTERTAINMENT",TBS
 http://soberon.us:25461/bullnew/soberonnew/362
-#EXTINF:-1 tvg-id="WDCW.us" group-title="ENTERTAINMENT",THE CW
+#EXTINF:-1 tvg-ID="WDCW.us" group-title="ENTERTAINMENT",THE CW
 http://soberon.us:25461/bullnew/soberonnew/240
-#EXTINF:-1 tvg-id="TNT.us" group-title="ENTERTAINMENT",TNT
+#EXTINF:-1 tvg-ID="TNT.us" group-title="ENTERTAINMENT",TNT
 http://soberon.us:25461/bullnew/soberonnew/372
-#EXTINF:-1 tvg-id="truTV.us" group-title="ENTERTAINMENT",TRUTV
+#EXTINF:-1 tvg-ID="truTV.us" group-title="ENTERTAINMENT",TRUTV
 http://soberon.us:25461/bullnew/soberonnew/374
-#EXTINF:-1 tvg-id="TVLand.us" group-title="ENTERTAINMENT",TV LAND
+#EXTINF:-1 tvg-ID="TVLand.us" group-title="ENTERTAINMENT",TV LAND
 http://soberon.us:25461/bullnew/soberonnew/376
-#EXTINF:-1 tvg-id="TVONE.us" group-title="ENTERTAINMENT",TV ONE
+#EXTINF:-1 tvg-ID="TVONE.us" group-title="ENTERTAINMENT",TV ONE
 http://soberon.us:25461/bullnew/soberonnew/377
-#EXTINF:-1 tvg-id="USANetwork.us" group-title="ENTERTAINMENT",USA NETWORK
+#EXTINF:-1 tvg-ID="USANetwork.us" group-title="ENTERTAINMENT",USA NETWORK
 http://soberon.us:25461/bullnew/soberonnew/381
-#EXTINF:-1 tvg-id="VH1.us" group-title="ENTERTAINMENT",VH1
+#EXTINF:-1 tvg-ID="VH1.us" group-title="ENTERTAINMENT",VH1
 http://soberon.us:25461/bullnew/soberonnew/383
-#EXTINF:-1 tvg-id="WEtv.us" group-title="ENTERTAINMENT",WE TV
+#EXTINF:-1 tvg-ID="WEtv.us" group-title="ENTERTAINMENT",WE TV
 http://soberon.us:25461/bullnew/soberonnew/385
 
 
-#EXTINF:-1 tvg-id="5StarMAX.us" group-title="MOVIES",5 STARMAX
+#EXTINF:-1 tvg-ID="5StarMAX.us" group-title="MOVIES",5 STARMAX
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71868
-#EXTINF:-1 tvg-id="ActionMAX.us" group-title="MOVIES",ACTIONMAX
+#EXTINF:-1 tvg-ID="ActionMAX.us" group-title="MOVIES",ACTIONMAX
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71867
-#EXTINF:-1 tvg-id="Cinemax.us" group-title="MOVIES",CINEMAX
+#EXTINF:-1 tvg-ID="Cinemax.us" group-title="MOVIES",CINEMAX
 http://soberon.us:25461/bullnew/soberonnew/233
-#EXTINF:-1 tvg-id="MoreMAX.us" group-title="MOVIES",MOREMAX
+#EXTINF:-1 tvg-ID="MoreMAX.us" group-title="MOVIES",MOREMAX
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71900
-#EXTINF:-1 tvg-id="MovieMax.us" group-title="MOVIES",MOVIEMAX
+#EXTINF:-1 tvg-ID="MovieMax.us" group-title="MOVIES",MOVIEMAX
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71903
-#EXTINF:-1 tvg-id="OuterMAX.us" group-title="MOVIES",OUTERMAX
+#EXTINF:-1 tvg-ID="OuterMAX.us" group-title="MOVIES",OUTERMAX
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71902
-#EXTINF:-1 tvg-id="ThrillerMAX.us" group-title="MOVIES",TRILLERMAX
+#EXTINF:-1 tvg-ID="ThrillerMAX.us" group-title="MOVIES",TRILLERMAX
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71901
-#EXTINF:-1 tvg-id="Epix.us" group-title="MOVIES",EPIX
+#EXTINF:-1 tvg-ID="Epix.us" group-title="MOVIES",EPIX
 http://soberon.us:25461/bullnew/soberonnew/252
-#EXTINF:-1 tvg-id="EPIX2.us" group-title="MOVIES",EPIX 2
+#EXTINF:-1 tvg-ID="EPIX2.us" group-title="MOVIES",EPIX 2
 http://soberon.us:25461/bullnew/soberonnew/253
-#EXTINF:-1 tvg-id="EpixDrivein.us" group-title="MOVIES",EPIX DRIVE-IN
+#EXTINF:-1 tvg-ID="EpixDrivein.us" group-title="MOVIES",EPIX DRIVE-IN
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71384
-#EXTINF:-1 tvg-id="EpixHits.us" group-title="MOVIES",EPIX HITS
+#EXTINF:-1 tvg-ID="EpixHits.us" group-title="MOVIES",EPIX HITS
 http://soberon.us:25461/bullnew/soberonnew/254
-#EXTINF:-1 tvg-id="HallmarkChannel.us" group-title="MOVIES",HALLMARK
+#EXTINF:-1 tvg-ID="HallmarkChannel.us" group-title="MOVIES",HALLMARK
 http://soberon.us:25461/bullnew/soberonnew/287
-#EXTINF:-1 tvg-id="HallmarkDrama.us" group-title="MOVIES",HALLMARK DRAMA
+#EXTINF:-1 tvg-ID="HallmarkDrama.us" group-title="MOVIES",HALLMARK DRAMA
 http://soberon.us:25461/bullnew/soberonnew/288
-#EXTINF:-1 tvg-id="HallmarkMoviesandMysteries.us" group-title="MOVIES",HALLMARK MOVIES AND MYSTERIES
+#EXTINF:-1 tvg-ID="HallmarkMoviesandMysteries.us" group-title="MOVIES",HALLMARK MOVIES AND MYSTERIES
 http://soberon.us:25461/bullnew/soberonnew/289
-#EXTINF:-1 tvg-id="HBO.us" group-title="MOVIES",HBO
+#EXTINF:-1 tvg-ID="HBO.us" group-title="MOVIES",HBO
 http://soberon.us:25461/bullnew/soberonnew/290
-#EXTINF:-1 tvg-id="HBO2.us" group-title="MOVIES",HBO 2
+#EXTINF:-1 tvg-ID="HBO2.us" group-title="MOVIES",HBO 2
 http://soberon.us:25461/bullnew/soberonnew/581
-#EXTINF:-1 tvg-id="HBOComedy.us" group-title="MOVIES",HBO COMEDY
+#EXTINF:-1 tvg-ID="HBOComedy.us" group-title="MOVIES",HBO COMEDY
 http://soberon.us:25461/bullnew/soberonnew/422
-#EXTINF:-1 tvg-id="HBOFamily.us" group-title="MOVIES",HBO FAMILY
+#EXTINF:-1 tvg-ID="HBOFamily.us" group-title="MOVIES",HBO FAMILY
 http://soberon.us:25461/bullnew/soberonnew/291
-#EXTINF:-1 tvg-id="HBOSignature.us" group-title="MOVIES",HBO SIGNATURE
+#EXTINF:-1 tvg-ID="HBOSignature.us" group-title="MOVIES",HBO SIGNATURE
 http://soberon.us:25461/bullnew/soberonnew/292
-#EXTINF:-1 tvg-id="HBOZone.us" group-title="MOVIES",HBO ZONE
+#EXTINF:-1 tvg-ID="HBOZone.us" group-title="MOVIES",HBO ZONE
 http://soberon.us:25461/bullnew/soberonnew/293
-#EXTINF:-1 tvg-id="Lifetime.us" group-title="MOVIES",LIFETIME
+#EXTINF:-1 tvg-ID="Lifetime.us" group-title="MOVIES",LIFETIME
 http://soberon.us:25461/bullnew/soberonnew/300
-#EXTINF:-1 tvg-id="LMN.us" group-title="MOVIES",LIFETIME MOVIE NETWORK
+#EXTINF:-1 tvg-ID="LMN.us" group-title="MOVIES",LIFETIME MOVIE NETWORK
 http://soberon.us:25461/bullnew/soberonnew/1169
-#EXTINF:-1 tvg-id="Showtime.us" group-title="MOVIES",SHOWTIME
+#EXTINF:-1 tvg-ID="Showtime.us" group-title="MOVIES",SHOWTIME
 http://soberon.us:25461/bullnew/soberonnew/348
-#EXTINF:-1 tvg-id="Showtime2.us" group-title="MOVIES",SHOWTIME 2
+#EXTINF:-1 tvg-ID="Showtime2.us" group-title="MOVIES",SHOWTIME 2
 http://soberon.us:25461/bullnew/soberonnew/349
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us" group-title="MOVIES",SHOWTIME EXTREME
+#EXTINF:-1 tvg-ID="ShowtimeExtreme.us" group-title="MOVIES",SHOWTIME EXTREME
 http://soberon.us:25461/bullnew/soberonnew/350
-#EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" group-title="MOVIES",SHOWTIME FAMILY ZONE
+#EXTINF:-1 tvg-ID="ShowtimeFamilyzone.us" group-title="MOVIES",SHOWTIME FAMILY ZONE
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71896
-#EXTINF:-1 tvg-id="ShowtimeNext.us" group-title="MOVIES",SHOWTIME NEXT
+#EXTINF:-1 tvg-ID="ShowtimeNext.us" group-title="MOVIES",SHOWTIME NEXT
 http://gtv23.xyz:80/50005000/50005000/176061.m3u8
-#EXTINF:-1 tvg-id="ShowtimeShowcase.us" group-title="MOVIES",SHOWTIME SHOWCASE
+#EXTINF:-1 tvg-ID="ShowtimeShowcase.us" group-title="MOVIES",SHOWTIME SHOWCASE
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71894
-#EXTINF:-1 tvg-id="SonyMovieChannel.us" group-title="MOVIES",SONY MOVIE CHANNEL
+#EXTINF:-1 tvg-ID="SonyMovieChannel.us" group-title="MOVIES",SONY MOVIE CHANNEL
 http://soberon.us:25461/bullnew/soberonnew/449
-#EXTINF:-1 tvg-id="Starz.us" group-title="MOVIES",STARZ
+#EXTINF:-1 tvg-ID="Starz.us" group-title="MOVIES",STARZ
 http://soberon.us:25461/bullnew/soberonnew/356
-#EXTINF:-1 tvg-id="StarzCinema.us" group-title="MOVIES",STARZ CINEMA
+#EXTINF:-1 tvg-ID="StarzCinema.us" group-title="MOVIES",STARZ CINEMA
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71864
-#EXTINF:-1 tvg-id="StarzComedy.us" group-title="MOVIES",STARZ COMEDY
+#EXTINF:-1 tvg-ID="StarzComedy.us" group-title="MOVIES",STARZ COMEDY
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71887
-#EXTINF:-1 tvg-id="StarzEncore.us" group-title="MOVIES",STARZ ENCORE
+#EXTINF:-1 tvg-ID="StarzEncore.us" group-title="MOVIES",STARZ ENCORE
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71870
-#EXTINF:-1 tvg-id="StarzEncoreAction.us" group-title="MOVIES",STARZ ENCORE ACTION
+#EXTINF:-1 tvg-ID="StarzEncoreAction.us" group-title="MOVIES",STARZ ENCORE ACTION
 http://soberon.us:25461/bullnew/soberonnew/452
-#EXTINF:-1 tvg-id="StarzEncoreClassic.us" group-title="MOVIES",STARZ ENCORE CLASSIC
+#EXTINF:-1 tvg-ID="StarzEncoreClassic.us" group-title="MOVIES",STARZ ENCORE CLASSIC
 http://soberon.us:25461/bullnew/soberonnew/453
-#EXTINF:-1 tvg-id="StarzEncoreFamily.us" group-title="MOVIES",STARZ ENCORE FAMILY
+#EXTINF:-1 tvg-ID="StarzEncoreFamily.us" group-title="MOVIES",STARZ ENCORE FAMILY
 http://soberon.us:25461/bullnew/soberonnew/454
-#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" group-title="MOVIES",STARZ ENCORE SUSPENSE
+#EXTINF:-1 tvg-ID="StarzEncoreSuspense.us" group-title="MOVIES",STARZ ENCORE SUSPENSE
 http://soberon.us:25461/bullnew/soberonnew/455
-#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" group-title="MOVIES",STARZ ENCORE WESTERNS
+#EXTINF:-1 tvg-ID="StarzEncoreWesterns.us" group-title="MOVIES",STARZ ENCORE WESTERNS
 http://soberon.us:25461/bullnew/soberonnew/358
-#EXTINF:-1 tvg-id="starzkidsfamily.us" group-title="MOVIES",STARZ KIDS AND FAMILY
+#EXTINF:-1 tvg-ID="starzkidsfamily.us" group-title="MOVIES",STARZ KIDS AND FAMILY
 http://soberon.us:25461/bullnew/soberonnew/451
-#EXTINF:-1 tvg-id="TurnerClassicMovies.us" group-title="MOVIES",TURNER CLASSIC MOVIES
+#EXTINF:-1 tvg-ID="TurnerClassicMovies.us" group-title="MOVIES",TURNER CLASSIC MOVIES
 http://soberon.us:25461/bullnew/soberonnew/363
 
 
-#EXTINF:-1 tvg-id="BabyFirstTV.us" group-title="KIDS",BABY FIRST
+#EXTINF:-1 tvg-ID="BabyFirstTV.us" group-title="KIDS",BABY FIRST
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71459
-#EXTINF:-1 tvg-id="Boomerang.us" group-title="KIDS",BOOMERANG
+#EXTINF:-1 tvg-ID="Boomerang.us" group-title="KIDS",BOOMERANG
 http://soberon.us:25461/bullnew/soberonnew/216
-#EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="KIDS",CARTOON NETWORK
+#EXTINF:-1 tvg-ID="CartoonNetwork.us" group-title="KIDS",CARTOON NETWORK
 http://soberon.us:25461/bullnew/soberonnew/218
-#EXTINF:-1 tvg-id="DisneyChannel.us" group-title="KIDS",DISNEY CHANNEL
+#EXTINF:-1 tvg-ID="DisneyChannel.us" group-title="KIDS",DISNEY CHANNEL
 http://soberon.us:25461/bullnew/soberonnew/246
-#EXTINF:-1 tvg-id="DisneyJunior.us" group-title="KIDS",DISNEY JR.
+#EXTINF:-1 tvg-ID="DisneyJunior.us" group-title="KIDS",DISNEY JR.
 http://soberon.us:25461/bullnew/soberonnew/247
-#EXTINF:-1 tvg-id="DisneyXD.us" group-title="KIDS",DISNEY XD
+#EXTINF:-1 tvg-ID="DisneyXD.us" group-title="KIDS",DISNEY XD
 http://soberon.us:25461/bullnew/soberonnew/248
-#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="KIDS",NICKELODEON
+#EXTINF:-1 tvg-ID="Nickelodeon.us" group-title="KIDS",NICKELODEON
 http://soberon.us:25461/bullnew/soberonnew/335
-#EXTINF:-1 tvg-id="NickJr.us" group-title="KIDS",NICK JR
+#EXTINF:-1 tvg-ID="NickJr.us" group-title="KIDS",NICK JR
 http://soberon.us:25461/bullnew/soberonnew/336
-#EXTINF:-1 tvg-id="Nicktoons.us" group-title="KIDS",NICKTOONS
+#EXTINF:-1 tvg-ID="Nicktoons.us" group-title="KIDS",NICKTOONS
 http://soberon.us:25461/bullnew/soberonnew/337
-#EXTINF:-1 tvg-id="TeenNick.us" group-title="KIDS",TEEN NICK
+#EXTINF:-1 tvg-ID="TeenNick.us" group-title="KIDS",TEEN NICK
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71312
-#EXTINF:-1 tvg-id="PBSKids.us" group-title="KIDS",PBS KIDS
+#EXTINF:-1 tvg-ID="PBSKids.us" group-title="KIDS",PBS KIDS
 http://soberon.us:25461/bullnew/soberonnew/345
-#EXTINF:-1 tvg-id="UniversalKids.us" group-title="KIDS",UNIVERSAL KIDS
+#EXTINF:-1 tvg-ID="UniversalKids.us" group-title="KIDS",UNIVERSAL KIDS
 http://soberon.us:25461/bullnew/soberonnew/380
 
 
-#EXTINF:-1 tvg-id="AandE(East).us" group-title="DOCUMENTARIES",A&E
+#EXTINF:-1 tvg-ID="AandE(East).us" group-title="DOCUMENTARIES",A&E
 http://soberon.us:25461/bullnew/soberonnew/195
-#EXTINF:-1 tvg-id="AnimalPlanet(East)(src01).us" group-title="DOCUMENTARIES",ANIMAL PLANET
+#EXTINF:-1 tvg-ID="AnimalPlanet(East)(src01).us" group-title="DOCUMENTARIES",ANIMAL PLANET
 http://soberon.us:25461/bullnew/soberonnew/210
-#EXTINF:-1 tvg-id="" group-title="DOCUMENTARIES",COOKING CHANNEL
+#EXTINF:-1 tvg-ID="" group-title="DOCUMENTARIES",COOKING CHANNEL
 http://soberon.us:25461/bullnew/soberonnew/238
-#EXTINF:-1 tvg-id="DestinationAmerica(src01).us" group-title="DOCUMENTARIES",DESTINATION AMERICA
+#EXTINF:-1 tvg-ID="DestinationAmerica(src01).us" group-title="DOCUMENTARIES",DESTINATION AMERICA
 http://soberon.us:25461/bullnew/soberonnew/241
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" group-title="DOCUMENTARIES",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-ID="DiscoveryChannel.us" group-title="DOCUMENTARIES",DISCOVERY CHANNEL
 http://soberon.us:25461/bullnew/soberonnew/242
-#EXTINF:-1 tvg-id="FoodNetwork.us" group-title="DOCUMENTARIES",FOOD NETWORK
+#EXTINF:-1 tvg-ID="FoodNetwork.us" group-title="DOCUMENTARIES",FOOD NETWORK
 http://soberon.us:25461/bullnew/soberonnew/260
-#EXTINF:-1 tvg-id="HGTV.us" group-title="DOCUMENTARIES",HGTV
+#EXTINF:-1 tvg-ID="HGTV.us" group-title="DOCUMENTARIES",HGTV
 http://soberon.us:25461/bullnew/soberonnew/294
-#EXTINF:-1 tvg-id="History.us" group-title="DOCUMENTARIES",HISTORY
+#EXTINF:-1 tvg-ID="History.us" group-title="DOCUMENTARIES",HISTORY
 http://soberon.us:25461/bullnew/soberonnew/295
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" group-title="DOCUMENTARIES",INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-ID="InvestigationDiscovery.us" group-title="DOCUMENTARIES",INVESTIGATION DISCOVERY
 http://soberon.us:25461/bullnew/soberonnew/299
-#EXTINF:-1 tvg-id="NationalGeographic.us" group-title="DOCUMENTARIES",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-ID="NationalGeographic.us" group-title="DOCUMENTARIES",NATIONAL GEOGRAPHIC
 http://soberon.us:25461/bullnew/soberonnew/310
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" group-title="DOCUMENTARIES",NAT GEO WILD
+#EXTINF:-1 tvg-ID="NationalGeographicWild.us" group-title="DOCUMENTARIES",NAT GEO WILD
 http://soberon.us:25461/bullnew/soberonnew/311
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" group-title="DOCUMENTARIES",OUTDOOR CHANNEL
+#EXTINF:-1 tvg-ID="NationalGeographicWild.us" group-title="DOCUMENTARIES",OUTDOOR CHANNEL
 http://soberon.us:25461/bullnew/soberonnew/338
-#EXTINF:-1 tvg-id="TLC.us" group-title="DOCUMENTARIES",TLC
+#EXTINF:-1 tvg-ID="TLC.us" group-title="DOCUMENTARIES",TLC
 http://soberon.us:25461/bullnew/soberonnew/371
-#EXTINF:-1 tvg-id="TheTravelChannel.us" group-title="DOCUMENTARIES",TRAVEL CHANNEL
+#EXTINF:-1 tvg-ID="TheTravelChannel.us" group-title="DOCUMENTARIES",TRAVEL CHANNEL
 http://soberon.us:25461/bullnew/soberonnew/373
 
 
-#EXTINF:-1 tvg-id="BigTenNetwork.us" group-title="SPORTS",BIG TEN NETWORK
+#EXTINF:-1 tvg-ID="BigTenNetwork.us" group-title="SPORTS",BIG TEN NETWORK
 http://soberon.us:25461/bullnew/soberonnew/215
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" group-title="SPORTS",CBS SPORTS NETWORK
+#EXTINF:-1 tvg-ID="CBSSportsNetwork.us" group-title="SPORTS",CBS SPORTS NETWORK
 http://soberon.us:25461/bullnew/soberonnew/1279
-#EXTINF:-1 tvg-id="ESPN.us" group-title="SPORTS",ESPN
+#EXTINF:-1 tvg-ID="ESPN.us" group-title="SPORTS",ESPN
 http://soberon.us:25461/bullnew/soberonnew/255
-#EXTINF:-1 tvg-id="ESPN2(src01).us" group-title="SPORTS",ESPN2
+#EXTINF:-1 tvg-ID="ESPN2(src01).us" group-title="SPORTS",ESPN2
 http://soberon.us:25461/bullnew/soberonnew/256
-#EXTINF:-1 tvg-id="ESPNU.us" group-title="SPORTS",ESPNU
+#EXTINF:-1 tvg-ID="ESPNU.us" group-title="SPORTS",ESPNU
 http://soberon.us:25461/bullnew/soberonnew/258
-#EXTINF:-1 tvg-id="ESPNEWS.us" group-title="SPORTS",ESPNEWS
+#EXTINF:-1 tvg-ID="ESPNEWS.us" group-title="SPORTS",ESPNEWS
 http://soberon.us:25461/bullnew/soberonnew/257
-#EXTINF:-1 tvg-id="FS1.us" group-title="SPORTS",FS1
+#EXTINF:-1 tvg-ID="FS1.us" group-title="SPORTS",FS1
 http://soberon.us:25461/bullnew/soberonnew/108
-#EXTINF:-1 tvg-id="FS2.us" group-title="SPORTS",FS2
+#EXTINF:-1 tvg-ID="FS2.us" group-title="SPORTS",FS2
 http://soberon.us:25461/bullnew/soberonnew/109
-#EXTINF:-1 tvg-id="GolfChannel.us" group-title="SPORTS",GOLF CHANNEL
+#EXTINF:-1 tvg-ID="GolfChannel.us" group-title="SPORTS",GOLF CHANNEL
 http://soberon.us:25461/bullnew/soberonnew/40
-#EXTINF:-1 tvg-id="MLBNetwork(src01).us" group-title="SPORTS",MLB NETWORK
+#EXTINF:-1 tvg-ID="MLBNetwork(src01).us" group-title="SPORTS",MLB NETWORK
 http://soberon.us:25461/bullnew/soberonnew/303
-#EXTINF:-1 tvg-id="MOTORTREND.us" group-title="SPORTS",MOTOR TREND
+#EXTINF:-1 tvg-ID="MOTORTREND.us" group-title="SPORTS",MOTOR TREND
 http://gtv23.xyz:80/50005000/50005000/175834.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" group-title="SPORTS",NBA TV
+#EXTINF:-1 tvg-ID="NBATV.us" group-title="SPORTS",NBA TV
 http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="WNBC.us" group-title="SPORTS",NBC
+#EXTINF:-1 tvg-ID="WNBC.us" group-title="SPORTS",NBC
 http://soberon.us:25461/bullnew/soberonnew/313
-#EXTINF:-1 tvg-id="NFLNETWORK.us" group-title="SPORTS",NFL NETWORK
+#EXTINF:-1 tvg-ID="NFLNETWORK.us" group-title="SPORTS",NFL NETWORK
 http://soberon.us:25461/bullnew/soberonnew/332
-#EXTINF:-1 tvg-id="TennisChannel.us" group-title="SPORTS",TENNIS CHANNEL
+#EXTINF:-1 tvg-ID="TennisChannel.us" group-title="SPORTS",TENNIS CHANNEL
 http://soberon.us:25461/bullnew/soberonnew/369
-#EXTINF:-1 tvg-id="WillowCricket.us" group-title="SPORTS",WILLOW CRICKET
+#EXTINF:-1 tvg-ID="WillowCricket.us" group-title="SPORTS",WILLOW CRICKET
 http://gtv23.xyz:80/50005000/50005000/1104162.m3u8
-#EXTINF:-1 tvg-id="" group-title="SPORTS",WWE NETWORK
+#EXTINF:-1 tvg-ID="" group-title="SPORTS",WWE NETWORK
 http://soberon.us:25461/bullnew/soberonnew/388
 
 
-#EXTINF:- tvg-id="ABCNewsLive.us" group-title="NEWS",ABC NEWS
+#EXTINF:- tvg-ID="ABCNewsLive.us" group-title="NEWS",ABC NEWS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_44.m3u8
-#EXTINF:- tvg-id="BBCWorldNews.us" group-title="NEWS",BBC WORLD NEWS
+#EXTINF:- tvg-ID="BBCWorldNews.us" group-title="NEWS",BBC WORLD NEWS
 https://5b8ec3e62bc9e.streamlock.net:7077/live/bbc/chunklist_w65981107_DVR.m3u8
-#EXTINF:- tvg-id="Bloomberg.us" group-title="NEWS",BLOOMBERG
+#EXTINF:- tvg-ID="Bloomberg.us" group-title="NEWS",BLOOMBERG
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-440-1_live.m3u8
-#EXTINF:- tvg-id="" group-title="NEWS",CBS NEWS
+#EXTINF:- tvg-ID="" group-title="NEWS",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:- tvg-id="CNN.us" group-title="NEWS",CNN
+#EXTINF:- tvg-ID="CNN.us" group-title="NEWS",CNN
 https://1439734486.rsc.cdn77.org/R09tnsc0GSkgNhrUwJXJkw==,1645256110/1439734486/tracks-v1a1/mono.m3u8
-#EXTINF:- tvg-id="FoxNewsChannel.us" group-title="NEWS",FOX NEWS
+#EXTINF:- tvg-ID="FoxNewsChannel.us" group-title="NEWS",FOX NEWS
 https://1028107998.rsc.cdn77.org/pUQJhbl73aXzUBOb43g60w==,1645262051/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:- tvg-id="MSNBC.us" group-title="NEWS",MSNBC
+#EXTINF:- tvg-ID="MSNBC.us" group-title="NEWS",MSNBC
 http://1128480543.rsc.cdn77.org/yg2eCdIXV-hG4QKNrlh93g==,1642732509/1128480543/tracks-v1a1/mono.m3u8
 
 
@@ -422,7 +422,7 @@ http://bestott.net:80/A14553AA81A4/66D4646C4C55/41680
 
 
 
-#EXTINF:-1 group-title="PLUTO ENTERTAINMENT",90210
+#EXTINF:-1 group-title="PLUTO PLUTO ENTERTAINMENT",90210
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="PLUTO ENTERTAINMENT",AMC STORIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -582,6 +582,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe7300077
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff6190-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c08e8164-f3cb-4a3c-bbab-a21cb0cdcf4c&userId=&serverSideAds=true
 #EXTINF:-1 group-title="PLUTO DOCUMENTARIES",SURVIVOR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96fec556-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30b71b31-aa42-4f60-9562-8e96360fdf94&userId=&serverSideAds=true
+
 
 
 
