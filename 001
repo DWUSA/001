@@ -379,12 +379,8 @@ http://bestott.net:80/A14553AA81A4/66D4646C4C55/17328
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/17298
 #EXTINF:-1 tvg-ID="TinyPop.uk" group-title="UK KIDS",TINY POP
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/17319
-
-
 #EXTINF:-1 tvg-ID="AnimalPlanet.uk" group-title="UK DOCUMENTARIES",ANIMAL PLANET
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/17315
-#EXTINF:-1 tvg-ID="BoxNation.uk" group-title="UK SPORTS",BOX NATION
-http://bestott.net:80/A14553AA81A4/66D4646C4C55/17272
 #EXTINF:-1 tvg-ID="DMAX.uk" group-title="UK DOCUMENTARIES",DMAX
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/69503
 #EXTINF:-1 tvg-ID="Dave.uk" group-title="UK DOCUMENTARIES",DAVE
@@ -397,6 +393,8 @@ http://bestott.net:80/A14553AA81A4/66D4646C4C55/69488
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/277146
 
 
+#EXTINF:-1 tvg-ID="BoxNation.uk" group-title="UK SPORTS",BOX NATION
+http://bestott.net:80/A14553AA81A4/66D4646C4C55/17272
 #EXTINF:-1 tvg-ID="Eurosport1.uk" group-title="UK SPORTS",EUROSPORT 1
 https://s4.fctelerium.com:999/hls/eurosp1.m3u8?md5=q_ApGPjuUecCNihWJ7HBlg&expires=1645760408
 #EXTINF:-1 tvg-ID="Eurosport2.uk" group-title="UK SPORTS",EUROSPORT 2
