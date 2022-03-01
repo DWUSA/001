@@ -293,9 +293,9 @@ http://bestott.net:80/A14553AA81A4/66D4646C4C55/17394
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/17339
 #EXTINF:-1 tvg-ID="Paramount(src01).uk" group-title="UK ENTERTAINMENT",PARAMOUNT
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/70075
-#EXTINF:-1 tvg-ID="Sky1(src01).uk" group-title="UK ENTERTAINMENT"SKY 1
+#EXTINF:-1 tvg-ID="Sky1(src01).uk" group-title="UK ENTERTAINMENT",SKY 1
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/17352
-#EXTINF:-1 tvg-ID="Sky2(src01).uk" group-title="UK ENTERTAINMENT"SKY 2
+#EXTINF:-1 tvg-ID="Sky2(src01).uk" group-title="UK ENTERTAINMENT",SKY 2
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/69493
 #EXTINF:-1 tvg-ID="SkyAtlantic.uk" group-title="UK ENTERTAINMENT"SKY ATLANTIC
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/17338
