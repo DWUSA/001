@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-ID="KABC.us" group-title="ENTERTAINMENT",ABC
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4188
+https://h3.ustvgo.la/ABC/myStream/chunks.m3u8?nimblesessionid=174590412&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMToyNDoxOCBBTSZoYXNoX3ZhbHVlPVI4djhZS1VkcjU2cERtQmhuamZEU2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="AMC.us" group-title="ENTERTAINMENT",AMC
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4191
+https://h2.ustvgo.la/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMToyNToxNiBBTSZoYXNoX3ZhbHVlPTNkamxGL2RxSm1wRVltcHdJU00rVmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="" group-title="ENTERTAINMENT",ANTENNA TV
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4195
 #EXTINF:-1 tvg-ID="BBCAmerica.us" group-title="ENTERTAINMENT",BBC AMERICA
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4197
+https://h1.ustvgo.la/BBCAmerica/myStream/chunks.m3u8?nimblesessionid=208469368&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMToyNjoxNiBBTSZoYXNoX3ZhbHVlPVFyR1NTbFpLM01pM1g1Q1NERFRjSkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="BET.us" group-title="ENTERTAINMENT",BET
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4199
 #EXTINF:-1 tvg-ID="Bravo.us" group-title="ENTERTAINMENT",BRAVO
@@ -43,11 +43,11 @@ http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4266
 #EXTINF:-1 tvg-ID="POP.us" group-title="ENTERTAINMENT",POP
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4490
 #EXTINF:-1 tvg-ID="SundanceTV.us" group-title="ENTERTAINMENT",SUNDANCE
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4277
+https://h1.ustvgo.la/SundanceTV/myStream/chunks.m3u8?nimblesessionid=208473181&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMTozNTozOCBBTSZoYXNoX3ZhbHVlPWlxZ0dQTXRGQnZ5WG5qQlJEUWh5NGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="SYFY.us" group-title="ENTERTAINMENT",SYFY
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4278
+https://h5.ustvgo.la/SYFY/myStream/chunks.m3u8?nimblesessionid=71468057&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMTozODozNyBBTSZoYXNoX3ZhbHVlPW1WYWdNei9ldzdrOWFkeXJRUk45U2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="TBS.us" group-title="ENTERTAINMENT",TBS
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4280
+https://h1.ustvgo.la/TBS/myStream/chunks.m3u8?nimblesessionid=208475264&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMTozNjoxOCBBTSZoYXNoX3ZhbHVlPStYVkRRU2dHNURXZllVVm5TNGlLRUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="WDCW.us" group-title="ENTERTAINMENT",THE CW
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4220
 #EXTINF:-1 tvg-ID="TNT.us" group-title="ENTERTAINMENT",TNT
@@ -55,7 +55,7 @@ http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4283
 #EXTINF:-1 tvg-ID="truTV.us" group-title="ENTERTAINMENT",TRUTV
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4284
 #EXTINF:-1 tvg-ID="TVLand.us" group-title="ENTERTAINMENT",TV LAND
-https://h2.ustvgo.la/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjIgMTI6MTE6NTggQU0maGFzaF92YWx1ZT1EQ3hjL0srMk9Ha2tsVkFhU1NjdVlnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h3.ustvgo.la/TVLand/myStream/chunks.m3u8?nimblesessionid=174598347&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMTozNjo0OCBBTSZoYXNoX3ZhbHVlPWVtMnUvVlNnNGNRRDdYWVViL0xlTnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="TVONE.us" group-title="ENTERTAINMENT",TV ONE
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4286
 #EXTINF:-1 tvg-ID="USANetwork.us" group-title="ENTERTAINMENT",USA NETWORK
@@ -63,7 +63,7 @@ http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4287
 #EXTINF:-1 tvg-ID="VH1.us" group-title="ENTERTAINMENT",VH1
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/1992
 #EXTINF:-1 tvg-ID="WEtv.us" group-title="ENTERTAINMENT",WE TV
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4292
+https://h5.ustvgo.la/WETV/myStream/chunks.m3u8?nimblesessionid=71465826&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMTozNzo0OSBBTSZoYXNoX3ZhbHVlPW1jR2N0bFd2RXJFcFYya0pyTTEzN3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 
 #EXTINF:-1 tvg-ID="5StarMAX.us" group-title="MOVIES",5 STARMAX
@@ -293,9 +293,9 @@ http://bestott.net:80/A14553AA81A4/66D4646C4C55/17394
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/17339
 #EXTINF:-1 tvg-ID="Paramount(src01).uk" group-title="UK ENTERTAINMENT",PARAMOUNT
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/70075
-#EXTINF:-1 tvg-ID="Sky1(src01).uk" group-title="UK ENTERTAINMENT"SKY 1
+#EXTINF:-1 tvg-ID="Sky1(src01).uk" group-title="UK ENTERTAINMENT",SKY 1
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/17352
-#EXTINF:-1 tvg-ID="Sky2(src01).uk" group-title="UK ENTERTAINMENT"SKY 2
+#EXTINF:-1 tvg-ID="Sky2(src01).uk" group-title="UK ENTERTAINMENT",SKY 2
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/69493
 #EXTINF:-1 tvg-ID="SkyAtlantic.uk" group-title="UK ENTERTAINMENT"SKY ATLANTIC
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/17338
