@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-ID="KABC.us" group-title="ENTERTAINMENT",ABC
 https://h3.ustvgo.la/ABC/myStream/chunks.m3u8?nimblesessionid=174590412&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMToyNDoxOCBBTSZoYXNoX3ZhbHVlPVI4djhZS1VkcjU2cERtQmhuamZEU2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="AMC.us" group-title="ENTERTAINMENT",AMC
-https://h2.ustvgo.la/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMToyNToxNiBBTSZoYXNoX3ZhbHVlPTNkamxGL2RxSm1wRVltcHdJU00rVmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h4.ustvgo.la/AMC/myStream/chunks.m3u8?nimblesessionid=218218396&wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjowNTo0NyBQTSZoYXNoX3ZhbHVlPW5Ed2tIcnppQ1JHb2I5Vitkb0szMWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="" group-title="ENTERTAINMENT",ANTENNA TV
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4195
 #EXTINF:-1 tvg-ID="BBCAmerica.us" group-title="ENTERTAINMENT",BBC AMERICA
@@ -15,7 +15,7 @@ http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4206
 #EXTINF:-1 tvg-ID="KCBS.us" group-title="ENTERTAINMENT",CBS
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4208
 #EXTINF:-1 tvg-ID="CMT.us" group-title="ENTERTAINMENT",CMT
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4212
+https://h1.ustvgo.la/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjowODo0NSBQTSZoYXNoX3ZhbHVlPUtHT1VMRktmZHhsSUhPRE9jME8rMWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="ComedyCentral.us" group-title="ENTERTAINMENT",COMEDY CENTRAL
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4216
 #EXTINF:-1 tvg-ID="COZITV.us" group-title="ENTERTAINMENT",COZI TV
@@ -23,27 +23,27 @@ http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/5013
 #EXTINF:-1 tvg-ID="FOXNet.us" group-title="ENTERTAINMENT",FOX
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4228
 #EXTINF:-1 tvg-ID="Freeform.us" group-title="ENTERTAINMENT",FREEFORM
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4231
+https://h3.ustvgo.la/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoxNDozMCBQTSZoYXNoX3ZhbHVlPVRpeVQ4cktRbXdkZ3AveWxLMFhZdHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="Fuse.us" group-title="ENTERTAINMENT",FUSE
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4232
 #EXTINF:-1 tvg-ID="FX.us" group-title="ENTERTAINMENT",FX
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4233
+https://h3.ustvgo.la/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoxNTowNiBQTSZoYXNoX3ZhbHVlPXJBcmlvNWxvZ0dJaFRIU3Y2MEwzeGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="FXX.us" group-title="ENTERTAINMENT",FXX
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4234
+https://h2.ustvgo.la/FXX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoxNTozOSBQTSZoYXNoX3ZhbHVlPVp3SGdWQjdoMkdYelp6WlVHZTdPb2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="FXM.us" group-title="ENTERTAINMENT",FXM
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4996
+https://h4.ustvgo.la/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoxNjoyMSBQTSZoYXNoX3ZhbHVlPTQvSklIbEs4MGx5UUlzaU1MaHhFTkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="FYI.us" group-title="ENTERTAINMENT",FYI
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4235
 #EXTINF:-1 tvg-ID="WINP.us" group-title="ENTERTAINMENT",ION TV
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4245
 #EXTINF:-1 tvg-ID="Oxygen.us" group-title="ENTERTAINMENT",OXYGEN
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4265
+https://h3.ustvgo.la/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoxOToxMSBQTSZoYXNoX3ZhbHVlPTlpTGZ4VnJabkg2WkVSN3hlSENHUUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="ParamountNetwork.us" group-title="ENTERTAINMENT",PARAMOUNT
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4266
 #EXTINF:-1 tvg-ID="POP.us" group-title="ENTERTAINMENT",POP
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4490
+https://h5.ustvgo.la/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoxODoyMSBQTSZoYXNoX3ZhbHVlPVhYd0N0NGtpZHo2RURhNXFoNkZNcnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="SundanceTV.us" group-title="ENTERTAINMENT",SUNDANCE
-https://h1.ustvgo.la/SundanceTV/myStream/chunks.m3u8?nimblesessionid=208473181&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMTozNTozOCBBTSZoYXNoX3ZhbHVlPWlxZ0dQTXRGQnZ5WG5qQlJEUWh5NGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h1.ustvgo.la/SundanceTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoxNzo0MSBQTSZoYXNoX3ZhbHVlPU9kaW5hMi91dkJ5RTA4bjdoMmF5a1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="SYFY.us" group-title="ENTERTAINMENT",SYFY
 https://h5.ustvgo.la/SYFY/myStream/chunks.m3u8?nimblesessionid=71468057&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMTozODozNyBBTSZoYXNoX3ZhbHVlPW1WYWdNei9ldzdrOWFkeXJRUk45U2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="TBS.us" group-title="ENTERTAINMENT",TBS
@@ -55,7 +55,7 @@ http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4283
 #EXTINF:-1 tvg-ID="truTV.us" group-title="ENTERTAINMENT",TRUTV
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4284
 #EXTINF:-1 tvg-ID="TVLand.us" group-title="ENTERTAINMENT",TV LAND
-https://h3.ustvgo.la/TVLand/myStream/chunks.m3u8?nimblesessionid=174598347&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMTozNjo0OCBBTSZoYXNoX3ZhbHVlPWVtMnUvVlNnNGNRRDdYWVViL0xlTnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoyMDoyNCBQTSZoYXNoX3ZhbHVlPXJoang1V2ZEbzNZN1NzZjRRN2hQTFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="TVONE.us" group-title="ENTERTAINMENT",TV ONE
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4286
 #EXTINF:-1 tvg-ID="USANetwork.us" group-title="ENTERTAINMENT",USA NETWORK
@@ -63,7 +63,7 @@ http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/4287
 #EXTINF:-1 tvg-ID="VH1.us" group-title="ENTERTAINMENT",VH1
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/1992
 #EXTINF:-1 tvg-ID="WEtv.us" group-title="ENTERTAINMENT",WE TV
-https://h5.ustvgo.la/WETV/myStream/chunks.m3u8?nimblesessionid=71465826&wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMTozNzo0OSBBTSZoYXNoX3ZhbHVlPW1jR2N0bFd2RXJFcFYya0pyTTEzN3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/WETV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoyMTowMSBQTSZoYXNoX3ZhbHVlPUNrbHpzZGdEQlFXRW1xenBMYmQrVVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 
 #EXTINF:-1 tvg-ID="5StarMAX.us" group-title="MOVIES",5 STARMAX
@@ -151,21 +151,20 @@ http://soberon.us:25461/bullnew/soberonnew/363
 #EXTINF:-1 tvg-ID="BabyFirstTV.us" group-title="KIDS",BABY FIRST
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71459
 #EXTINF:-1 tvg-ID="Boomerang.us" group-title="KIDS",BOOMERANG
-http://soberon.us:25461/bullnew/soberonnew/216
+https://h3.ustvgo.la/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjowOTo0NiBQTSZoYXNoX3ZhbHVlPW5zMXNlRFc0VkFTcW1YQ1F1eTlBM2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="CartoonNetwork.us" group-title="KIDS",CARTOON NETWORK
-http://soberon.us:25461/bullnew/soberonnew/218
+https://h4.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoxMDoyOCBQTSZoYXNoX3ZhbHVlPUFmb1k2eVd0cVlZSHlpR3ZJZllmYkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="DisneyChannel.us" group-title="KIDS",DISNEY CHANNEL
-http://soberon.us:25461/bullnew/soberonnew/246
+https://h2.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoxMToxOSBQTSZoYXNoX3ZhbHVlPTluZnRIZTFvenlnbFd0cEZUV0JDRlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="DisneyJunior.us" group-title="KIDS",DISNEY JR.
-http://soberon.us:25461/bullnew/soberonnew/247
-#EXTINF:-1 tvg-ID="DisneyXD.us" group-title="KIDS",DISNEY XD
-http://soberon.us:25461/bullnew/soberonnew/248
+https://h5.ustvgo.la/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoxMjozNSBQTSZoYXNoX3ZhbHVlPVkrSEsvTmlhMWNIeGVoeHQvTm1Vbnc9PSZ2YWxpZG1pbnV0ZXM9MjQw#EXTINF:-1 tvg-ID="DisneyXD.us" group-title="KIDS",DISNEY XD
+https://h2.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoxMTo1NCBQTSZoYXNoX3ZhbHVlPWtDZC8rWWYzSGt3ZFVnKzUzalpYdHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="Nickelodeon.us" group-title="KIDS",NICKELODEON
-http://soberon.us:25461/bullnew/soberonnew/335
+https://h5.ustvgo.la/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoxMzowNCBQTSZoYXNoX3ZhbHVlPWdwMHE2QXE5cFhidGFmVHFUYTBRMGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="NickJr.us" group-title="KIDS",NICK JR
 http://soberon.us:25461/bullnew/soberonnew/336
 #EXTINF:-1 tvg-ID="Nicktoons.us" group-title="KIDS",NICKTOONS
-http://soberon.us:25461/bullnew/soberonnew/337
+https://h1.ustvgo.la/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMjIgMjoxMzo1OSBQTSZoYXNoX3ZhbHVlPWtPZUoyTElMd2doVDZzbmt0K1MxRmc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-ID="TeenNick.us" group-title="KIDS",TEEN NICK
 http://bestott.net:80/A14553AA81A4/66D4646C4C55/71312
 #EXTINF:-1 tvg-ID="PBSKids.us" group-title="KIDS",PBS KIDS
